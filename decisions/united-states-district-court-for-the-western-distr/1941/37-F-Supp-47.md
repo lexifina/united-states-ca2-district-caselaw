@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the Western District of New York"
+docket: "27774"
+decided: "1941-02-04"
+citations: ["37 F. Supp. 47"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re NIAGARA FALLS MILLING CO."]
+source_url: "https://static.case.law/f-supp/37/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4183446
+cites_cases: ["34 F.Supp. 801"]
+---
+
+# In re Niagara Falls Milling Co.
+
+## Majority (KNIGHT, District Judge.)
+
+KNIGHT, District Judge.
+The matter for review is an order of the Referee in Bankruptcy herein approving a compromise and settlement of disputed claims of the bankrupt against the United States and of the United States against the bankrupt, for the sum of $10,000. This matter heretofore came before me, and it was sent back to the Referee to take additional proofs. D.C., 34 F.Supp. 801. Such proofs have been taken and are included in and as a part of the record before me.
+As appears from the record, the trustee and all creditors who have proved their claims and appeared, or were represented at the hearings, save the petitioner for review, have approved the proposed compromise. This objector is a claimant in the amount of $3,800. Claims of those who have approved the compromise aggregate $38,709.84. The aggregate of the claims presented and allowed and the claims presented and not allowed is substantially $100,000.
+The claim in favor of the bankrupt against the United States is proposed to be allowed in the settlement and compromise in the sum of $61,673.03, and the claim of the United States against the bankrupt is proposed to be allowed as $51,673.03.
+- The principal item considered in the compromise, which is in dispute here, is that which relates to the amount of a refund of processing taxes to which the bankrupt would be entitled. The original claim made by the bankrupt against the government in this account was in the amount of $436,-231.73. Later an amended claim was made by the trustee in the amount of $127,146.-03.
+The objector claims the amount of the refund should be $274,233.33, although earlier he made an affidavit fixing such amount at $243,688.94. The question of the amounts to which the estate is entitled as refund is gone into thoroughly in several hearings before the Referee. The principal witness for the trustee was an accountant employed by the trustee at the direction of the Referee. Data in great detail was submitted and explained by him. The'objector R. A. O’Connor, who formerly was an auditor of the bankrupt company and is the owner of a majority of its common stock, also was examined. The intricacies in the establishment of a legal claim for a refund of the processing tax are many. The amount to which a claimant is entitled is usually difficult to be determined with exactness. The same appears here. It is, however, clearly evident that numerous items aggregating large sums were erroneously included in the computations made by the objecting creditor. In these computations the cost of the commodity ¡was figured at a price much higher than the market. No material errors are shown in the computations as made by the accountant for the trustee. The record sustains the finding that the estate is entitled to a refund in an amount substantially that set out in the amended claim.
+Exception is now taken by the objector to the allowance of the claim of the government for an income tax assessment for the year 1934. It is the claim of the objector that the statute of limitations has run against this claim. The proofs show that the right to assess this and other income taxes was extended until June 30, 1939. However, the government taxes the amount of the processing tax which it has agreed to refund for that year, but the Tax Board holds that when a deduction is outlawed the tax refund is taxable as of the year received. Estate of William H. Block, Deceased v. Commissioner, 39 B.T. A. page 338. This case concerned an estate tax, but the decision is equally applicable to processing taxes. The purpose of such an extension or waiver was to provide against tax of the total refund in the single year.
+Objection is also made to the allowance of the claim of the government for income and excess profit taxes for the year 1935, and its claim of the unjust enrichment tax for the year 1935. It is apparent that the determination of the amount of this is to a considerable extent dependent upon whether the processing tax of that year should be allowed as a deduction from gross income. The practice of the Internal Revenue Bureau, it appears, is to disallow it unless it has been paid to the Collector of Internal Revenue. It is also objector’s claim that a deduction for 1935 of the sum of $17,000 on account of additional cost of electric power should have been taken by a pro-rata write down of certain water rights. There is considerable question as to the right of this deduction, since the internal revenue official had held that this was prior to 1935 and no such item was taken as a deduction in the annual tax return for 1933, 1934, and 1935. This tax return was prepared by the objecting creditor. Much other evidence including figures and computations are shown in the record to justify the compromise adjustment proposed. ■ Further, the contentions of the objecting creditor are greatly weakened by obvious material errors. The memoranda decisions of the Referee also fully disclose justification for the acceptance of the compromise offer.
+The determination of the Referee is affirmed.
