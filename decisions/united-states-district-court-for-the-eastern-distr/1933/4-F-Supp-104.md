@@ -1,0 +1,37 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "2986"
+decided: "1933-07-07"
+citations: ["4 F. Supp. 104"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES ex rel. HOULBERG v. McQUADE, Sheriff."]
+source_url: "https://static.case.law/f-supp/4/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4128642
+cites_cases: ["195 U. S. 606", "30 Stat. 549", "4 F. Supp. 103", "51 F.(2d) 1040"]
+---
+
+# United States ex rel. Houlberg v. McQuade
+
+## Majority (GALSTON, District Judge.)
+
+GALSTON, District Judge.
+This is an application for a writ of habeas corpus for the release of the relator from the custody of the sheriff of Kings county.
+From the petition it appears that a judgment in the sum of $14,490.17, in the Supreme Court of the State of New York, County of New York, had been recovered by Mc-Neely & Price Company, the judgment creditor. The date of the entry of the judgment is not set forth.
+Subsequent thereto, under a warrant directed to the sheriff of the county of Kings, the relator was on the 18th day of May, 1933, arrested and incarcerated in- the City Prison of the County of Kings.
+On June 23, 1933, he filed a voluntary petition in bankruptcy. It is now contended that he should be released because: “The said judgment was not obtained for a tax levied by the United States, the State, County, District or Municipality in which your petitioner resides, as provided for by section 17a, subdivision 1 of the Bankruptcy Act of 1898 [11 USCA § 35, subd. 1] nor was it obtained by any liability for obtaining property by false pretenses or false representation, or for willful and malicious injuries to the person or property of another, or for alimony due or to become due, or for maintenance or support of wife or child, or for seduction of an unmarried female, or for breach of promise of marriage accompanied by seduction, or criminal conversation as provided for by subdivision 2 of said section [11 USCA § 35, subd. 3] nor was the said judgment created by your petitioner’s fraud, embezzlement, misappropriation or defalcation while acting as an officer or in any fiduciary capacity, within the purview of the Bankruptcy Act, as provided by subdivision 4 of said section [11 USCA § 35, subd. 4] nor for wages due to workmen, clerks, etc., within three months before the date of commencement of the proceedings in bankruptcy, nor was it obtained for moneys due an employee to secure the faithful performance of such employee for the term of a contract of employment, as provided for in said section 17 of the Bankruptcy Act [11 USCA § 35, subds. 5, 6].”
+A copy of the complaint in the state court action is annexed to the affidavit of J. Leon Friedman. It is alleged in this complaint; that on or about January 15, 1927, the judgment creditor and Volmer H. Houlberg, Inc., entered into an agreement whereby the latter was employed as agent- for the former, for the purpose of purchasing goat skins for the account of the said MeNeely & Price in Aden, Arabia; that the principals agreed to pay through the purchasing agent the actual cost of said goat skins in Aden, Arabia, plus 3 per cent, commissions on said cost, plus the actual banking commissions, and plus the cost of marine insurance; that subsequently and in accordance with the terms of authority vested in the agent, a number of purchases of such goat skins were made, the cost of which was fraudulently represented to MeNeely & Price; that by reason of the false and fraudulent representations made, MeNeely & Price overpaid the said Volmer H. Houlberg, Inc., the sum of money sought to be recovered in the action.
+It will be noted that the contract was not made with the individual, Volmer H. Houlberg; but it is alleged that he owned a majority of the shares of the issued capital stock of the corporation, and was in active control and management thereof, and was president thereof.
+From Mr. Friedman’s affidavit it appears that the case was tried before a judge and jury in the Supreme Court of the State of New York, and that the judge “placed the issue between the parties in the hands of the jury, giving them the usual instructions as regards the law of fraud and deceit.”
+Title 11, U. S. C., § 27, par. (a), 11 USCA § 27 (a), provides (July 1, 1898, c. 541; § 9a, 30 Stat. 549): “A bankrupt shall be exempt from arrest upon civil process except in the following eases: (1) When issued from a court of bankruptcy for contempt of disobedience of its lawful orders; (2) when issued from a State court having jurisdiction, and served within such State, .upon a debt or claim from which his discharge in bankruptcy would not be a release, and in such ease he shall be exempt from such arrest when in attendance upon a court of bankruptcy or engaged in the performance of a duty imposed by the provisions of this title.”
+From the foregoing it must appear that the relator has the burden to show that his discharge in bankruptcy would be a release of the judgment.
+Title 11, U. S. C., § 35 (11 USCA § 35) provides: “Debts not affected by a discharge. A discharge in bankruptcy shall release a bankrupt from all of his provable debts, except such as * * * (second) are liabilities for obtaining property by false pretenses or false representations; * * * or (fourth) were created by his fraud, embezzlement, misappropriation, or defalcation while acting as an officer or in any fiduciary capacity.”
+Reference is made by the objecting creditor to Bullis v. O’Beirne, 195 U. S. 606, 25 S. Ct. 118, 122, 49 L. Ed. 340. There the court said: “The question for this court is whether the judgment rendered by the New York court is in an action for fraud. If so, it is excepted from the effect of a discharge in bankruptcy.” In that case the court concluded that: “An inspection of the record as well as the interpretation put upon the pleadings and judgment by the courts of' New York in the various trials and proceedings had shown that the relief was granted upon the ground of fraud.”
+Unlike the opportunity afforded in Bullis v. O’Beime, this court has not the record of the state court in the action of McNeely & Price Co. v. Volmer H. Houlberg. But the facts set forth in the Friedman affidavit are not traversed by the relator, and so it must be assumed from such facts as appear in the return that the New York judgment was based on fraud.
+In an action in this court entitled United States of America ex rel. Leo Greenfield v. Sheriff of County of Kings, State of New York, 4 F. Supp. 103, a similar conclusion was reached.
+In such circumstances, and without other facts appearing to warrant a different view, it would seem that the judgment was not dis-chargeable in bankruptcy. Thus the writ will have to be dismissed.
+Some point was made in the argument and in the briefs filed that the bankrupt’s attendance was necessary for examination under section 21a of the act (11 USCA § 44(a), and perhaps for other duties to be performed in the bankruptcy proceedings. When such time arrives, application may, of course, be made for the release of the bankrupt. In re Thomashefsky (C. C. A.) 51 F.(2d) 1040.
+In dismissing this writ, it is, of course, without prejudice to the making of another application. Possibly the relator can show from the entire record in the state court action that the judgment was not based on fraud.
+Settle order on notice.
