@@ -1,0 +1,25 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1952-10-30"
+citations: ["108 F. Supp. 4"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re HUYLER’S."]
+source_url: "https://static.case.law/f-supp/108/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 313526
+cites_cases: ["107 F.Supp. 318", "11 U.S.C.A. § 701", "143 F.2d 640", "223 F. 417", "298 U.S. 659", "323 U.S. 778", "56 S.Ct. 681", "65 S.Ct. 191", "79 F.2d 859", "80 L.Ed. 1385", "89 L.Ed. 622", "96 F.2d 768"]
+cites_law: ["united-states/federal/usc/title-11/701.md"]
+---
+
+# In re Huyler's
+
+## Majority (IRVING R. KAUFMAN, District Judge.)
+
+IRVING R. KAUFMAN, District Judge.
+By this petition, the petitioner, Robert Gair Company, Inc., seeks leave to file proposed modifications to the plan of reorganization which the Court has already approved as fair, equitable and feasible, D. C., 107 F.Supp. 318. By the proposed modifications the petitioner would include itself in Class 5 (creditors entitled to subordinate debentures of the reorganized company) rather than as a general creditor in 'Class 7 (creditors entitled to a share of the new stock of the corporation). The petitioner alleges that it was an administration creditor of the debtor while the debtor was in Chapter XI, Bankr.Act, 11 U.S.C.A. § 701 et seq., in the amount of $32,741.46; that it made an oral agreement with the president of the debtor' by the terms of which it was to waive its right to have funds deposited for- the payment of its claims so that the Chapter XI proceedings could be dismissed in exchange for the president’s promise to have the debtor issue $20,000 in serial notes which he would personally endorse; that pursuant to the agreement the petitioner waived its right to have funds deposited and the Chapter XI proceedings were accordingly dismissed; that the debt- or’s president never carried out his promise and no notes were in' fact issued; that by reason of these facts, the petitioner ought to be included in Class 5 with those Chapter XI administration creditors for whose claims no moneys were set aside when the Chapter XI proceedings were dismissed and who have not waived their right to deposit.
+This application was made approximately three and a half months .after the proposed plan was mailed to the petitioner by the Trustee’s . counsel; approximately two months after the first hearing on the plan; and approximately one month after the final hearing and approval of the plan as fair, equitable and feasible.- The only excuse offered for this delay is that the petitioning company, a company of some substance and standing which employs a general counsel, did not consult counsel until after objection was raised by the Trustee to its claim as a Class 5 creditor and therefore did not realize before that -time that, as the plan stood, it would be included in Class 7. Ordinarily no. point would be made of this delay. However, in this reorganization the offer which forms the backbone ©f the plan provides that the plan must be consummated on or before December 31, 1952. Furthermore, operating losses, pressing demands of landlords and labor unions make it essential that the Trustee turn over the restaurants to the reorganized company within the next few weeks. All interested parties have been advised of the Court’s approval of the plan and that acceptances must be in the hands of the Trustee on or before November 1, 1952. Were this application to be granted, the'time schedule, so vital to this reorganization, would be thrown completely out of balance and liquidation instead of reorganization would be the result.
+Aside from these considerations, I am convinced that the order prayed for must •be denied on the merits. It is conceded that the petitioner waived the deposit of funds in the Chapter XI proceeding. I have 'before me the stenographer’s -minutes of the proceedings before the Referee and it clearly appears that Mr. Koehler, the petitioner’s credit manager, made the waiver with full knowledge of what he was doing. The mere fact that the petitioner has waived its right to deposit is sufficient reason for its inclusion in 'Class 7 rather than in Class 5. In re Aktiebolaget Kreuger & Toll, 2 Cir., 1938, 96 F.2d 768; Elias v. Clarke, 2 Cir., 1944, 143 F.2d 640, certiorari denied 1944, 323 U.S. 778, 65 S.Ct. 191, 89 L.Ed. 622. The fact that the debtor’s president has not carried out the alleged agreement, if that be the case (an affidavit of the president denies the agreement), does not nullify the waiver of the petitioner in the Chapter XI proceeding. See In re Frischknecht, 2 Cir., 1915, 223 F. 417; In re Van Doren, 7 Cir., 1935, 79 F.2d 859, certiorari denied Van Doren v. Oak Park Trust & Savings Bank, 298 U.S. 659, 56 S.Ct. 681, 80 L.Ed. 1385. The fact is that in reliance upon this express waiver the Referee in Bankruptcy dismissed the -Chapter XI proceedings.
+For all of these reasons the application is denied.
+Submit order.
