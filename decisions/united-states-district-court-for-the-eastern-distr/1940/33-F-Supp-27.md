@@ -1,0 +1,90 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "Civil No. 471"
+decided: "1940-05-08"
+citations: ["33 F. Supp. 27"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FERRY-HALLOCK CO., Inc., v. FROST et al."]
+source_url: "https://static.case.law/f-supp/33/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4187169
+cites_cases: ["28 U.S.C. § 400", "28 U.S.C.A. § 400", "298 U.S. 688", "56 S.Ct. 958", "80 L.Ed. 1407", "82 F.2d 145"]
+---
+
+# Ferry-Hallock Co. v. Frost
+
+## Majority (BYERS, District Judge.)
+
+BYERS, District Judge.
+Plaintiff petitions for a declaratory judgment that Frost United States Letters Patent No. 2,157,407 are invalid and have not been infringed by it. This because an actual controversy exists between the parties on that subject, and because defendants “are representing to purchasers, prospective purchasers and users of” plaintiff’s product that infringement of the said Frost patent is involved in the manufacture, sale and use of plaintiff’s device.
+That such notices were sent in bad faith, prior to the issuance of the Frost patent, and that thereby plaintiff’s customers have been driven away.
+The answer need not be quoted except to say that direct infringement by plaintiff is disclaimed since its product does not incor-, porate the elements disclosed in Frost No. 2,157,407, but contributory infringement is alleged.
+A counterclaim is asserted based upon that Frost patent, and a decree is sought establishing validity and granting an injunction and accounting for damages and profits. As to the latter, an appropriate reply was filed and served.
+Claim 1 is in suit and reads as follows:
+“1. A display and storage package comprising an open top container having an outwardly extending and downwardly inclining resilient annular peripheral flange, a sheet of transparent flexible material spanning the top and flange of the container, and means to clamp said sheet to the container flange comprising an annular continuous member of edgewise stiff sheet material of less diameter than the container flange and having relatively rigid, continuous, annular, spaced and inwardly extending shoulders on the inner side thereof, said member being adapted to be applied to the container flange to clamp the sheet thereto by engaging the annular member upon the container flange and pressing downwardly thereon to constrict and. squeeze in the flange and cause one shoulder on the annular member to pass over the edge of the container flange, and said container flange by the resiliency thereof springing over said shoulder and engaging the interior of the annular member between said shoulder and the other shoulder, and said latter shoulder forming a cam surface for permitting the removal of the annular member by pressure applied to said' member to constrict and squeeze in the container flange.”
+Some of the evidence will be discussed later, with references to the findings by-letter. The facts established by the evidence may be summarized as follows:
+Facts.
+(a) The plaintiff, a New Jersey corporation having its principal office in Philadelphia, Pennsylvania, has manufactured and sold a paper board or paper fiber device used as a pie-ring, since January 14, 1933, which was earlier than the filing date of the application for the Frost patent No. 2,157,407 (February 1, 1935) by over two years, and is over a year earlier than the earliest time which the defendant claims as the actual date of the Frost invention so disclosed.
+(b) That device, when so used, constituted a means to hold a sheet of cellophane or like material over and around the top of a pie, if the latter had first been placed upon a plate, since the device could be made to constitute a ring or collar, when held in circular form; it was made to fit snugly around the edge of the plate and vertical play was substantially eliminated, because the inner side of the ring contained a semicircular beading at the top, thus reducing the inner diameter of the ring, when measured from the top of the beading, to less than that of the plate; spaced nearly half-way from the top to the bottom of the ring, was a second inner beading of the same shape, which did not extend so far inwardly as the top beading.
+The edge or lip of the plate rested between those two headings, and the cellophane was held in place, when the ring had been pressed into position, by contact between the edge, lip or flange of the plate, the cellophane, and the inner surface of the ring between the upper and lower headings.
+The ring was so affixed by being pressed down from the top of the plate, and since the lower beading did not bulge inward of the ring as much as the top beading did, removal of the ring could best be accomplished by pressing the plate downward; the lower beading presented less of an obstacle to that effort, than the top one would have, had there been an insistence upon thrusting the plate and its contents upward so as to disengage the ring.
+(c) The defendant is the owner of record of the said Frost patent, and is a resident of this judicial district.
+(d) The pie-ring element of the Frost patent is of different contruction, in that it contains a top and a bottom semicircular beading of the same size, so that the plate may be disengaged as easily by an upward thrust as by a downward effort.
+(e) These two rings serve the same purpose, of holding a cellophane or other similar covering to a pie plate.
+(f) The plaintiff’s device was made of a sufficient width, so that the bottom of the ring was flush or even with the plate; in this it differed from the Frost ring, which was not so constructed or shown to have been used.
+(g) The two rings were not shown to have been capable of interchangeable use, since the ring of the Frost patent was designed to be snapped over a pie plate having a downwardly inclining flange, while the plaintiff’s ring was used upon a plate with a lip or flange which was clearly to be distinguished in size and inclination from that shown in the drawings forming part of the Frost patent, and embodied in Plaintiff’s Ex. 16.
+(h) The ring of the Frost patent does not disclose patentable invention over Erlich No. 2,068,540, granted January 19, 1937, on application filed April 28, 1933.
+(i) The prior use by plaintiff of its ring deprives Frost of patentable invention, so far as the pie-ring of his patent in suit is concerned.
+(j) The defendant caused a customer of the plaintiff, namely, The Wagner Pie Baking Corp., to be notified under date of March 31, 1939, prior to the granting of the Frost patent in suit, that the latter had been allowed and that the plaintiff’s ring “clearly infringes the same”, i.e., the ring of the Frost patent. Further: “We understand you have cordial business relations with the manufacturer of the Frost ring (the plaintiff) and we give you the above information so that you may be guided accordingly.”
+(k) On April 5, 1939, the defendant caused a letter to be sent to the same company, reading as follows;
+“Seifert & Seifert
+“277 Broadway
+“New York, N. Y.
+“April'5, 1939.
+“The Wagner Baking Corp.
+“301-4th Avenue
+“Brooklyn, N. Y.
+“Dear Sirs:
+“In the matter of our communication of March 31st with reference to pie package marketed by you, and the telephone call of your Mr. Stephens.
+“I have been in touch with Mrs. Frost relative to the request of Mr. Stephens of using up some 15,000 or 20,000 rings you have on hand. This is satisfactory but they must be used within one week from the date of this letter.
+“We trust that we may have your assurance that you will comply with these requirements.
+“Very truly yours,
+“Seifert & Seifert
+“By (John Seifert)”
+(l) As the result of receiving these two letters, the Wagner company discontinued buying the plaintiff’s pie-rings, as soon as the then current orders had been filled.
+'Conclusion of Law.
+The plaintiff is entitled to judgment declaring :
+A. That the Frost patent No. 2,157,407 is invalid.
+B. That plaintiff’s pie-ring was in commercial use for more than-two years prior to the application for the said Frost patent.
+C. That plaintiff’s said pie-ring is not a device the manufacture and sale of which constitute contributory infringement of the said Frost patent.
+D. That the defendant should withdraw, in writing, the said letters written to The Wagner Pie Baking Corp. and should refrain from writing or sending any letters of the like or similar import to any person, firm or corporation.
+E. That the plaintiff should have the right to apply in this cause, hereafter, for an appropriate injunction against the defendant, should it be made to appear that such relief is necessary to give effect to the foregoing conclusion, as provided in Title 28 U.S.C. § 400 (2), 28 U.S.C.A. § 400(2).
+F. That the plaintiff is entitled to have its damages ascertained by appropriate proceeding before a special master to be named in the judgment. If the special master’s report be confirmed, and actual damage thus established, the order of confirmation may contain an appropriate provision, supplementing the judgment, stating the amount of plaintiff’s damage.
+G. The plaintiff is to recover its costs of this proceeding, to be taxed.
+H. The defendants’ counterclaim is to be dismissed on the merits.
+Discussion.
+(a) The evidence leaves no room for doubt that the plaintiff’s device, which had long been on the market as a hat ring, was adapted for use as a pie-ring by the Puritan Pie Company, of Philadelphia, as early as January 14, 1933. The treasurer of that concern, Mr. Wachter, sought out the plaintiff as the result of being deprived of his then source of supply of pie-rings, and suggested the possible adaptability of the plaintiff’s hat ring to his requirements; he and the senior Mr. Hallock so cooperated on January 13, 1933, that the first delivery of pie-rings was made on the following day.
+Thereafter and for a period of three years, there was a well-established and considerable volume of business in pie-rings done by the plaintiff with the Puritan company, and the commercial incidents of that course of dealing were amply and completely demonstrated by the production and receipt in evidence of all commercial indicia appropriate to the establishment of that state of affairs. There is no evidence even remotely tending to contradict that testimony.
+(b) In this finding, the attempt has been made to state in non-technical language what the plaintiff’s device was and how it was used in the pie trade.
+It should be stated that the fabrication of the pie-ring of the plaintiff’s manufacture is accomplished by stapling together the ends of a strip made so as to contain the elements described in this finding, to form a ring which is completed before it is pressed into position over the plate containing the pie; the inner diameter of the ring, measured at its inner wall between the two headings, is but little greater than the diameter of the plate itself, which is necessarily so, in order that the fit may be snug.
+(d) The pie-ring of the Frost patent is manufactured by cutting into convenient sections the paper fiber or paper board which has first been worked into tubular form; then the top and bottom edges of each section are rolled inwardly so as to form the semicircular headings, which are entirely on the inner side of the ring.
+This difference in the method of manufacture is relied upon to disclose patentable invention over Erlich, to be discussed in connection with finding (h).
+(g) The difference in construction noted in this finding is of importance because the Frost patent, as will be seen from claim 1, is for a package, namely, an assembly: The first element is “an open top container having an outwardly extending and downwardly inclining resilient annular peripheral flange”; that means that the lip or edge of the plate containing the pie is relatively much larger in size than the ordinary lip or ring on a fiber pie plate, as will be clearly seen by an examination of Fig. 5, Fig. 3, Fig. 7 and Fig. 9 in the drawing forming part of the application.
+Since a flange of the disclosed size and inclination is an integral element of the assembly, it necessarily follows that a ring not designed for engagement with a flange of the disclosed inclination and diameter relative to the entire plate is not comprehended within the disclosure of “means to clamp said sheet (the cellophane) to the container flange”.
+Thus is brought into prominence the subject referred to in finding (f), because the ring of the Frost patent is measured rather by the width of the flange on the pie plate than by the depth measured from the top of the pie to the bottom of the plate itself.
+The testimony disclosed that this was an important consideration because, when the packages were stacked, those employing the Frost ring at the bottom of the stack were distorted from the pressure of those on top, which was not true in the case of the pies, so stacked, which were protected by the plaintiff’s ring.
+(h) This finding of non-patentability over Erlich is based upon an examination of the latter patent which discloses such a pie-ring intended to accomplish the purpose which has heretofore been described, through the operation of opposing elements on the inner side of the ring, contrived by bending the top and bottom of the ring inwardly and into opposition, so that the edge of the pie plate was fitted into the space between these opposing elements after the cellophane sheet had been placed over the pie, the ring being pressed downwardly “and the pie plate 18 pushed upwardly until the edge thereof snaps into position in the space between the edges of the elements 12 and 14 (the opposing elements above referred to) whereupon it is securely gripped, and the transparent protective covering positively retained in the desired position”.
+The claims of that patent disclose, as to the ring, such a single strip of material formed into a hoop which may be brought down over such a pie plate and snapped into engagement therewith; a combination described as a display container and support consisting of the ring or hoop and the supporting platform (the plate) and a cover element being the cellophane, and thus it seems that the entire concept of Frost was anticipated by Erlich.
+The solicitor of the Frost patent testified as a witness in this cause, that the patentable difference, in his opinion, between the Frost ring and the Erlich ring was to be found only in the fact that the former was formed as a complete ring in the course of manufacture, while the latter became a ring by the folding into position and holding together of two ends of a single strip.
+It is thought that this is a distinction without a difference, for the reason that it is the ring or the hoop which functions, and the time of its formation as a ring is not important on the question of the patentability of the device itself.
+It may be added that this was the view of the Patent Office for some time, as the file history discloses, and I am unable to see why that position was not adhered to.
+(i) While there are visual differences between the plaintiff’s ring and the Frost ring, they are unimportant and consist merely in the fact that the lower beading in the plaintiff’s ring is slightly smaller than the upper beading, and that in the completed structure it appears near the center of the ring rather than at its bottom edge.
+While there has been no evidence that the plaintiff’s ring has been used on the wide flange pie plate described in the Frost patent, it is a reasonable inference that, had the requirement been present, the ring could have been adapted thereto, by suitable spacing of the beads.
+(k) There was no warrant in law for the sending of the letter quoted in this finding, since the Frost patent was not issued until one month and four days thereafter.
+Conclusion of Law, D, E, and F:
+In discussing the scope of a declaratory judgment, the Circuit Court of Appeals for the Fifth Circuit in Gully v. Interstate Natural Gas Co., 82 F.2d 145, at page 149, certiorari denied 298 U.S. 688, 56 S.Ct. 958, 80 L.Ed. 1407, said: “For while it may not be doubted that the Federal Declaratory Judgment Act is a purely remedial statute, * * * it certainly does purport in cases where federal jurisdiction is present, to effect and we think it does effect thoroughgoing, remedial changes, by adding to the coercive or warlike remedies in those courts by way of prevention and of reparation, the more pacific and more prophylactic one of a declaration of rights. When, then, an actual controversy exists * * *, they may take jurisdiction under this statute, of the controversy to grant the relief of declaration, either before or after the stage of relief by coercion has been reached.”
+It is thought that deference to the foregoing suggests that the granting of an injunction is not presently necessary; if it should become so in the future, the plaintiff of course should have one and the right is reserved to make suitable .application in that behalf.
+Since it is not the office of. a declaratory judgment to award damages, it is clear that no provision for their recovery would be appropriate at this time. It may be that even the computation thereof should await developments, but no logical reason is suggested for thus failing to complete the present task, which is to declare the rights and duties of the parties to this controversy. If it later be made to appear that the declaration has been ignored, the sanctions contemplated by § 400 (2) of the statute may be set in motion by appropriate application to the court, and this is thought to apply, as well, to the collection of money damages as to the issuance of an injunction.
+Settle judgment and, if the findings in this decision are deemed to be inadequate, additional findings may be submitted for settlement in connection therewith, upon notice.
