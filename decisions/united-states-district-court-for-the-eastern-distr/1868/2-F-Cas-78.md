@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the Eastern District of New York"
+decided: "1868-04"
+citations: ["2 F. Cas. 78", "2 Ben. 381"]
+reporter: "f-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ATKINS et al. v. FIBRE DISINTEGRATING CO."]
+source_url: "https://static.case.law/f-cas/2/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6098643
+---
+
+# Atkins v. Fibre Disintegrating Co.
+
+## Majority (BENEDICT, District Judge.)
+
+BENEDICT, District Judge.
+As it is not disputed that the bundles of bamboo which were furnished to the vessel were larger than the contract permitted, and as the evidence is clear and full that the vessel brought all that she could stow of bundles such as were furnished, the libellants are entitled to receive payment at the rate of $2.50 for as many bundles as she could stow of the required size. They are also entitled, upon the evidence, to recover demurrage, at the rate of $100 per day, for all days used exceeding the lay days given by the charter, including the time used in changing ports.
+But they are not entitled to recover the amount claimed for damages sustained in coming out of Port Morant; and this, although it must be conceded that, upon the evidence, Port Morant cannot be held to be a safe port, within the meaning of the charter. The words, “second safe port,” imply a port which this vessel could enter and depart from without legal restraint, and without incurring more than the ordinary perils of the seas. The evidence shows that, by reason of reefs extending nearly across the narrow entrance of this port, a vessel of the size of the Elizabeth Hamilton must strike the reefs if, by chance, the breeze should fail her while passing in or out. On the present occasion she passed in in safety, but in coming out the breeze did fail, and she accordingly struck the reefs, and sustained the injury now sought to be recovered.
+This accident, as appears from the evidence, was from no want of judgment or seamanship on the part of the vessel, but was inevitable under the circumstances, by reason of the narrowness and character of the channel. No tugs were to be had, and the only power by which this vessel could get out was that of the land breeze; while the peril of the port was such that no vessel of this size could get out without making her safety from the reefs dependent entirely upon the continuance of the breeze. Such a hazard the vessel was not bound to incur under the charter, and the master would have been justified in refusing to accept the designation of such a port as a port within the privilege given in the charter.
+But he did not do so. On the contrary, he proceeded to Port Morant, entered the port, and there completed his cargo and then again departed, without objecting to the port, and without giving any notice that it was the intention to hold the charterers responsible for any injury that might arise from its unsafeness. This action of the master bound his owners.
+The master is the navigator, presumed to know best the channel of the ports within thq natural range of the adventure, and the capacities of his vessel; and he is the proper person to determine whether his vessel can or cannot enter any particular port.
+In this case the second port was to be designated at Kingston, where the owners did not intend to be except in the person of the master; and they must have intended that the master should act for them in determining the question which would arise when the second port should be designated, and must be there decided.
+If, then, the port named was deemed an unsafe port for his vessel, and so not within the privilege given by the charter, it was the duty of the master, as the sole representative of the owners, to have made known his objections at the time. Not having done so, he must be deemed to have waived the right to object, and, the condition having been waived, no action can now be maintained for the breach of it.
+But it is said that the master was induced to accept Port Morant as within the terms of the contract by the representations of the charterers’ agent that it was a safe port; and that his acceptance was a qualified acceptance, given upon representations which amounted to a warranty.
+The evidence is, that when the agent first spoke of designating Port Morant, he did inform the master that it was a safe port, but it also appears that the master made inquiries elsewhere as to the character of the port, which was, moreover, fully described in the Coast Pilot; and I do not think it could be justly held, upon the evidence, that any thing said or done by the master was calculated to lead the charterers’ agent to suppose that Tort Morant was not accepted by the master upon his own judgment as a proper port, duly designated within the privilege given by the charter party, or to inform him that the charterer was to be held responsible in case the vessel received injury in using that port.
+[NOTE. This action was commenced by attachment against the respondent, a foreign corporation, and, at a former hearing, a motion to set aside the attachment was denied. Atkins v. Fibre Disintegrating Go., Case No. 600. After this opinion on the merits was filed, an appeal was presented to the circuit court, and the decree reversed, on the ground that the attachment should have been set aside. Case No. 602. The supreme court, however, reversed the circuit court decree, and ordered that this, the decree of the district court, and that in Case No. 600, be affirmed. 18 Wall. (S5 U. S.) 272, supra. See note to Case No. 602.]
+The claim for the injuries received in Port Morant is accordingly rejected, and a decree rendered in favor of the libellants for the other portions of their demand, with an order of reference to ascertain the amount, in accordance with this opinion.
