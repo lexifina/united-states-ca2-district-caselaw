@@ -1,0 +1,32 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "6925"
+decided: "1933-06-27"
+citations: ["4 F. Supp. 79"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PENDER v. FIRST NAT. BANK OF FARMINGDALE."]
+source_url: "https://static.case.law/f-supp/4/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4127566
+---
+
+# Pender v. First Nat. Bank
+
+## Majority (BYERS, District Judge.)
+
+BYERS, District Judge.
+This is an action in equity by a trustee in bankruptcy, who seeks to set aside, as preferential, a payment of $10,000 made by the bankrupt to the defendant on or about May 31, 1932.
+An involuntary petition was filed in this court on June 4, 1932, and the payment m question was of a 30-day note given by the bankrupt to the defendant on May 16, 1932.
+It is not contended that the bankrupt was solvent at the time of the payment, the only issue being whether, at that time, the defendant had reasonable cause to believe that it was receiving a preference.
+The bankrupt conducted a nursery in Farmingdale, Long Island, and the enterprise had been in existence for some years when, on September 15, 1931, the bankrupt applied for a loan at the defendant bank, explaining that one or more banks in New York City with which he had been doing business were restricting his borrowings; namely, they were “crowding him.”
+He borrowed $15,000 from the defendant, giving his three,-months’ note, and with the proceeds opened a bank account; when the note became due, it was renewed for a like period, and the process was repeated in March, 1932, and the note then given became due May 16, 1932; on that date $5,000 was paid on account, and application was made to renew as to $10,000 with the privilege of paying the note off from daily or frequent receipts of the business. The cashier of the defendant suggested to the bankrupt that the new note be given for 30 days, and pointed out that the payment could be anticipated if desired. The note was discounted at 6% per annum, and no part of this item was refunded when on May 31, 1932, the note was paid in full by applying the then balance in the bank account, of $2.,741.33-, plus cash of $7,-258.67, and the note was surrendered; at that time the bankrupt’s son, who made the payment, asked for the return of a financial statement given to the bank in the previous September, when the original loan was negotiated ; this request was complied with, and, from these circumstances, the trustee urges that the bank had reasonable cause to believe that the payment of the note would constitute a preference.
+There is no testimony whatever to establish that the bank had reason to suspect that the bankrupt was in financial jeopardy at any time. The only circumstance which helps;the trustee’s argument is the failure of the bankrupt to demand the return of the unearned 6% interest for the unexpired period of the note. Standing alone as this does, it tends to illustrate the conventional cupidity of a bank, rather than to signalize a duty of inquiry concerning the possible legal effect of accepting payment of the debt before it was due.
+It is true that the business was conducted in a comparatively small community, wherein it might be thought that the officials of the bank would have had every opportunity for* observing the size and earnings of the enterprise, but nothing has been brought home to <any official or employee of the bank which would reveal either'knowledge of the bankrupt’s affairs, or a special opportunity to obtain it. Forty or fifty hands were employed by the bankrupt, and the payroll was financed through another account in the same bank, carried by the bankrupt under the. trade-name “City of Glass,” which referred to the greenhouse operations. The bankrupt distributed flowers through two large department stores in New York City, and, as above stated, many of its financial operations were conducted through New 'York City .banks, and consequently this defendant did not have that insight into the bankrupt’s 'financial condition as a whole which would have been available if all of the banking arrangements had been confined to this particular institution.
+The bankrupt had not overdrawn this bank account at any time, and the renewals of the note, to’-which reference has been made, were not accomplished through the exaction of collateral; there is no evidence that the defendant brought any pressure whatever to bear either to secure the $5,009 which was paid on May 16, 1932, or to force the anticipation of the $10,000 balance. Such are the maneuvers which ordinarily visit upon a creditor the basis of a reasonable cause to believe that a preference is likely to result from such an anticipatory payment as was here made.
+The trustee stresses the compliance with the request for the return of the financial statement as related. Whether this is cus.tomary practice in banking circles or not, the fact remains that there is no evidence to the effeet that the return of the statement was exacted as a condition of paying the $10,000 loan. "
+The most that can be said concerning the handling of this entire matter by the defendant is that it blindly accepted the financial statement in September, 1931, and rediscounted the loan with the Federal Reserve Bank of which it was a member, without taking any precaution whatever to check the items set forth in the statement, or making an independent appraisal of the assets as therein listed.
+Whatever may be thought of the apparent credulity of the defendant bank, the argument comes down to this, that the payment should be set aside as preferential, not because the bank knew or had reason to believe that the bankrupt was insolvent, but because the bank should not have relied blindly upon the truth of the facts asserted in the financial statement. It is thought that such a contention suggests an impracticable test under the Bankruptcy Act.
+None of the authorities cited by the trustee would justify a decision based upon the theory so advanced. In other words, the trustee has failed to bring home to the defendant knowledge of facts which would put a rea^ sonably prudent person upon inquiry to learn if the transaction in question would be likely to result in a preference.
+The defendant may take a decree dismissing the complaint on the merits, with costs.
