@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1934-05-29"
+citations: ["7 F. Supp. 410"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["QUIGLEY PUB. CO., Inc., v. SHOWMEN’S ROUND TABLE, Inc., et al."]
+source_url: "https://static.case.law/f-supp/7/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7349958
+cites_cases: ["109 F. 154", "118 F. 944", "159 N. E. 397", "185 F. 686", "246 N. Y. 459", "274 F. 745", "276 F. 826", "286 F. 621", "289 U. S. 178", "297 F. 986", "4 F. Supp. 482", "4 F. Supp. 967", "6 F. Supp. 283", "85 A. L. R. 1488"]
+---
+
+# Quigley Pub. Co. v. Showmen's Round Table, Inc.
+
+## Majority (CAFFEY, District Judge.)
+
+CAFFEY, District Judge.
+For the present purpose it will be assumed, as is urged by the plaintiff, that in the departmental title, Managers’ Round Table Club, of the Motion Picture News and the Motion Picture Herald, the words Round Table have long ago gained and now have a secondary significance in the motion picture industry; that a department under this title has been conducted continuously in the News or the Herald ever since May, 1928; that from May, 1928, to March, 1933, when first the News and then the Herald were making-use of such title, the defendant Lewis was in the employment of its owner and at the head of the department mentioned; and that since May, 1933, the Showmen’s Round Table has operated in the same field as the Herald.
+Nevertheless, I still entertain — as at the time of issuing my memorandum of May 12, 1934, I entertained — doubt as to whether the plaintiff has satisfactorily established either that it has superior title to the words in controversy or that it has suffered or is suffering, or prior to the trial is likely to suffer, substantial injury from the circulation of the defendants’ magazine.
+The effect of employment upon the relative rights to fruits of the mind of an employee has not been discussed by counsel for either side. If the words under consideration were the subject of a patent and we were dealing with a patent issued thereon, on the evidence before me I should not feel prepared to hold that it has been plainly made out that ownership thereof has vested in the employer. The authorities in whieh there were disputes between employers and employees are assembled in U. S. v. Dubilier Condenser Corp., 289 U. S. 178, 53 S. Ct., 554, 77 L. Ed. 1114, 85 A. L. R. 1488 (see, also, New Jersey Zinc Co. v. Singmaster [D. C.] 4 F. Supp. 967, and U. S. Colloid Mill Corporation v. Myers, 6 F. Supp. 283, in this court, February 16, 1934). I am impressed that, with respect to ownership of the words here in question, the governing principles to be derived from the patent cases constitute a persuasive test, or at least analogy, for application in determining the crucial issue in the ease at bar.
+Usually material injury or some affirmative prospeet of material injury is a condition precedent to the allowance of a preliminary injunction. Cf., Behre v. Anchor Ins. Co. (C. C. A.) 297 F. 986, 989; Eastern, Const. Co. v. Eastern Engineering Co., 246 N. Y. 459, 464, 465, 159 N. E. 397.
+Again, under the circumstances of this ease it seems to me that award of a preliminary injunction, practically, would be the equivalent of a final decree for the plaintiff; also that it would be extremely difficult, if not impossible, to frame the condition of a bond to be given by the plaintiff so that the defendants could ever recover thereon any large part of their actual damage in event it should be eventually determined that such award was erroneous. From my review of the papers, I must say that I think it likely that the plaintiff will ultimately prevail. Yet, as I conceive it,'my doubts require that at present I decline to grant an injunction pendente lite. Cf., Diamond Match Co. v. Safe Harbor Match Co. (C. C.) 109 F. 154. See, also, Owsley v. Yerkes (C. C.) 185 F. 686, 688; Cumberland Telephone & Telegraph Co. v. Stevens (D. C.) 274 F. 745, 747; and Fleetway, Inc., v. Public Service Interstate Transp. Co. (D. C.) 4 F. Supp. 482.
+A further ground for withholding relief at this stage is the delay in making application for it. This consists of five months after the defendants’ magazine first appeared before instituting suit and then five months longer before moving for an injunction. What laches is sufficient to warrant refusing a preliminary injunction varies. Generally it is matter of degree. I am persuaded, however, that the delays here, eoupled with the lack of adequate explanation of them, demand that a preliminary injunction be not issued now. Cf., C. O. Burns Co. v. W. F. Burns Co. (C. C.) 118 F. 944; Kelly-Springfield Tire Co. v. Kelley Tire & Rubber Co. (D. C.) 276 F. 826, 827-828; Wesson v. Galef (D. C.) 286 F. 621, 626. On the other hand, if the trial of the suit be not speeded and there should develop substantial change in the situation, plaintiff may renew the motion based on the papers used on this motion and supplemental papers, with leave to the defendants to use their present papers and supplemental papers in opposition.
+Motion denied. Settle order on two days’ notice.
