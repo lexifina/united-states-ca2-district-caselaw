@@ -1,0 +1,33 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1932-06-22"
+citations: ["6 F. Supp. 247"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COHEN et al. v. HOLLAND-AMERICA LINE."]
+source_url: "https://static.case.law/f-supp/6/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4130510
+cites_cases: ["207 N. Y. S. 30", "212 App. Div. 51", "25 F.(2d) 122", "287 F. 239"]
+---
+
+# Cohen v. Holland-America Line
+
+## Majority (COXE, District Judge.)
+
+COXE, District Judge.
+This is a libel against the Holland-America Line for alleged cargo damage of $1,937.78 to 29 bales of dry salted goat skins discharged from the steamship’ Yolendam at Hoboken, N. J., on December 3,1927.
+The skins originated at Amritsar, India, where they were dried, salted, and baled; they were then wrapped in straw matting with a covering of burlap, and the bales were bound with metal hoops. The skins were placed on railroad cars at Amritsar in the middle or latter part of September, 1927, and carried by rail across the Sind Desert, “a distance of a few hundred miles,” to Karachi, where they were received by Messrs. Cox & Kings (Agents), Limited, as forwarding agents for the shippers, and by them delivered to the Holland-British India Line, a subsidiary of the respondent, at Karachi, on October 7, 1927.
+The bill of lading issued by the Holland-British India Line recites that the 29 bales are “shipped in good order and condition” on the steamship Andyk to be delivered at “New York transhipment at Rotterdam”; it is stamped with a rider to the effect that the shipment shall be subject also to “the conditions and exceptions required by the steamer or steamers of carrying company by which the goods shall be transhipped or forwarded”; it also contains the usual exceptions against damag from “sweating” or “decay” and provisions with respect to the giving of notice of claim at the port of destination.
+The skins were transhipped at Rotterdam to the steamship Volendam, operated by the respondent, and were carried by that vessel to New York. There was, however, no separate bill of lading issued by the steamship Volendam, but it is insisted that the provisions of the standard form have, by reference, been incorporated in the original bill of lading. The two forms are not identical, but, in the view I have taken of the case, the variations are unimportant and require no discussion; neither is it necessary to consider what, if any, application the notice provisions of the India Carriage of Goods by Sea Act of 1925 have on the claim.
+The Volendam arrived at Hoboken November 30, 1927, and finished unloading December 3, 1927. Mr. Nash, libelants’ surveyor, examined the 29 bales at the pier December 5, 1927, and, although he did not open the 'bales, he testified that they appeared to have suffered rain damage of not.recent origin. On December 7, 1927, 15 of the bales were delivered to the libelants against a clean receipt; the remaining 14 bales were opened at the pier, and it was found that the skins underneath the matting were wet. Mr. Anderson, respondent’s surveyor, who saw the bales on December 8, 1927, testified that the burlap was spotted, the hoops rusty, and the matting dry, but that the skins underneath the matting were wet; it was his opinion that the damage was caused by absorption of moisture.
+The libelants’ notice of claim, dated December 7,1927, was mailed on that day to the respondent at its New York office; it bears a rubber stamp of respondent’s freight department of December 9,1927. The last 14 bales were delivered to the libelants December 8, 1927, and were receipted for under protest..
+The damage claimed is for injury to 5,026 skins out of a total of 12,000 skins in the 29 bales, and the libelants assert that the extent of the damage varied from 20 per cent, with respect to some skins to 75 per cent, with others.
+It has, I think, been satisfactorily established that the skins were in good condition and properly packed and baled when they left Amritsar in the middle or latter part of September, 1927. From there they traveled by rail over hundreds of miles of desert during the rainy season, and, on arriving at Karachi, were taken in charge by Cox & Kings, Limited, as forwarding agents for the shippers, and delivered hy them to the Holland-British India Line October 7, 1927, for shipment to New York.
+What happened to the skins during this interval of two or three weeks between the time they left Amritsar and the time when they were received on board the steamship Andyk does not satisfactorily appear. Neither is there anything to show that the skins were in good condition when delivered to the steamship company. The recital of the bill of lading refers only to external condition [Bronstein Bros. & Co. v. Societa (D. C.) 25 F.(2d) 122], and was clearly satisfied, even though the burlap was spotted and the hoops rusted.
+The libelants insist, however, that, under the doctrine of continuing presumptions, proof that the skins were in good condition at Amritsar is all that it is necessary to show to sustain the initial burden resting on the libelants, and require explanation from the steamship company.
+The difficulty with this contention is that there was no continuous shipment from Amritsar, as the skins were consigned to the shippers’ own agents at Karachi, and were by them transmitted to the steamship company. The case in that respect is not unlike Price v. Shawmut S. 8. Co., 212 App. Div. 51, 207 N. Y. S. 30, where the goods after shipment came back into the possession of the consignor and remained in its control for a number of days before proceeding to destination.
+However, I am inclined to think the respondent has satisfactorily explained its handling of the skins. The Dondo (D. C.) 287 F. 239. The weather conditions at Rotterdam during the loading of the Volendam were favorable, and the record contains nothing even to suggest damage there. It is true that stormy weather was encountered on the voyage to New York, but the vessel was shown to have been sound, the stowage was proper, and nothing was proved to indicate liability of the respondent. Furthermore, there were other salted hides in the same hold where the hides of the libelants were stowed, and these were undamaged.
+On the whole case, I am satisfied that the loss was caused either by rain during the period prior to delivery to the steamship company on October 7,1927, or by sweating; and for neither of these is the respondent to be held responsible.
+There may be a decree dismissing the libel, with costs.
