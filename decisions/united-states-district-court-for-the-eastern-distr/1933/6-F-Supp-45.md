@@ -1,0 +1,49 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "13671"
+decided: "1933-12-26"
+citations: ["6 F. Supp. 45"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE ONWARD. THE SYBIL."]
+source_url: "https://static.case.law/f-supp/6/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4129893
+---
+
+# The Onward
+
+## Majority (BYERS, District Judge.)
+
+BYERS, District Judge.
+This cause involves damages occasioned by the sinking of the coal barge Onward on September 20, 1932, about 2:30 p. m., soon after she had passed down Newtown creek, at about low water, under the Greenpoint Avenue Bridge. The barge was in tow of the tug Sybil, which had her bow ahead alongside, to starboard of the tug; approaching the bridge it became apparent that the tow must hold well to the Queens shore, as a diver was working on the bottom under the bridge, on the port side; in obedience to a signal from a bridge tender, the tow, after stopping, entered the space between the piers, so close to its starboard hand that the barge scraped along the abutment on that side.
+The harge was carrying about 500 tons of coal, which brought her freeboard to about 1% feet midships. She was 100 feet long, had a moulded bow, was 25 feet in beam, and had 13 feet sides. Her draft therefore was approximately 11% feet.
+Approaching the northerly end of the abutment, the bargee heard a crash of wood and reported to the tug’s captain that the barge had hit something; his next words were: “Captain of the towboat, your Honor. It was' the side of the bridge only.” Later he said she did not strike the abutment, she grazed along only.
+He then noticed that "the barge was rapidly filling, started his pump, and jumped on the tug. Sinking followed in about ten minutes from the striking.
+The libellant asserts that the barge struck either or both of two 3 or 4 inch pipes, which were imbedded in the hard bottom of the channel and held in a vertical position under water, and that the city of New York, or the contractor who built the bridge, or both, are liable for the damage.
+That the sinking did take place at about 1,500 feet from the bridge, admits of no discussion. As to all other matters, except the previous good condition of the barge, the testimony presents several issues of fact.
+Over eighteen months after the sinking, the barge was pumped out, raised, and towed to Mariners Harbor, Staten Island — without incident — and there the interior of the hull was inspected and revealed a 12-inch hole in the bow, just at the turn of the bilge, “a little to the starboard.”
+That condition is the basis of libellant’s claim, upon the theory that the hole was caused by the barge’s striking one or both of the said pipes.
+It is deemed that the evidence establishes that there were two such pipes 4 feet or less off the easterly abutment of the bridge, and about 18 feet south of the northerly line thereof, and that they were imbedded in the hard bottom of the creek, and not in the concrete base of the abutment, or in any concrete which had ever been used in the construction of that pier of the bridge. At low water in the afternoon of September 29, 1932, the taller pipe was 4 feet from the abutment and its top was not less than 11.5 feet from the surface of the water; the shorter pipe was bent down stream, and it was inside the taller one, and its top was not less than 13.5 feet from the surface of the water.
+These facts were established to the knowledge of libellant (except as to what held the pipes) through the written report of diving operations conducted for it on October 7, 1932. The original libel was filed in February, 1933, against the Sybil alone, alleging fault in proceeding through the draw of the bridge so as to bring the barge into collision with a stationary object and known obstruction; grazing the abutment; striking the submerged pipes; and navigating as stated, at unusually low water. The tug was claimed by the Waterfront Ash Removal Company, which answered, denying negligence, and asserting that the sinking was due to striking an uncharted obstruction.
+This answer was filed after the claimant had become insolvent.
+An amended libel was filed on April 28, 1933, in which the city of New York was named as respondent, asserting that the latter “laid a concrete base upon the creek bottom extending out into the channel in which were imbedded two pipes over 8 feet long standing upright,” and that the eity failed to dismantle and remove the said pipes extending up from the creek bottom but left them in an upright position whereby they became a menace to navigation; and that the barge Onward rode upon them upon the occasion in question and a hole was punched in her bow, causing her to fill and sink.
+The City answered on June 3, 1933, and in effect denied the presence in the creek of the concrete base with two pipes imbedded therein and projecting up 8 feet therefrom; and denying any fault or neglect.
+On August 19, 1933, the libellant, pursuant to leave, filed a second amended libel, bringing in as a respondent the P. T. Cox Contracting Co., Inc., the contractor which built the bridge, and alleged that it laid the said concrete base upon the creek bottom in which were imbedded the said pipes, and failed to remove and dismantle them upon the completion of the contract.
+That respondent answered, denying that, in the construction of the concrete base of the bridge, any pipes were used, and hence there were none to remove when that part of the construction was completed.
+The issues as eventually made went to trial.
+The libellant has therefore finally elected to prove that the pipes projected upward from the concrete base, and were left in that position by the contractor and were permitted so to remain by the City.
+The proof fails as to both.
+The evidence of the diver and his employer clearly shows that the pipes were not imbedded in any concrete, but in the so-called hard bottom of the creek.
+Whether they fell vertically, at some undisclosed time, from a passing craft, and took up the positions described, is purely a matter of conjecture, but the testimony for the contractor is quite convincing that no such pipes were employed in building the concrete abutment, and consequently none were left when the abutment was completed in condition to receive the bridge structure.
+This necessarily establishes that, when the city took over the bridge in December of 1929, the pipes in question were not imbedded in the base or abutment, and consequently that the eity did not permit them so to remain.
+The contract under which the bridge was built in 1929 provided that the channel bottom should be maintained at an elevation “not higher than existing at the beginning of the work. Soundings will be made at the site by the Department (of- The City of New York) immediately before the starting of this contract and again at its completion, and material, if any, fund (found?) above the original bottom level shall be removed by the contractor.”
+The proof satisfactorily shows that soundings were made by the city at the completion of the contract, and no material was encountered, nor was the channel bottom higher than at the commencement of the work.
+Testimony on these matters was offered by the respondents, and was not controverted.
+It must be understood that the libellant’s theory of the ease is that the failure of the contractor to remove these pipes from the concrete forming the base of the pier or abutment, and the city’s failure to discover and remedy that oversight, gave rise to the libellant’s cause; not that any duty existed on the part of the eity to dredge the channel and remove obstructions not caused by the erection of the pier in question. It is deemed that the libellant’s proof is opposed to its own theory of recovery, and that the respondents have shown that the libellant’s theory is contrary to the facts. None of the eases relied upon by the libellant involves facts at all like those here involved.
+This conclusion renders it unnecessary to discuss whether the libellant has demonstrated that the sinking was "the result of striking these pipes at all. It may be noted in passing that the location of the hole in the Onward, according to the photograph (Segrave Ex. 4) taken with the testimony of Van Frank who raised the barge, shows that the hole was closer to the center of the barge (which was 12% feet from the starboard side) than would be consistent with striking a pipe that was 4 feet or less from the abutment, unless the barge was angling into the latter so as to be nearly head on; but there is-no testimony that the tow went through the draw in that shape. If it did, the original libel may have been sound, on the theory that the contact called grazing was so severe as to open the seams below the line, and cause the barge to fill; if that is what took place, a hole might have been stove in at the turn of the bilge, at the time and place of actual sinking.
+Again, the pipes were at such a depth below the surface of the water, even at 2/10 of a foot below mean low, as to render the actual striking and riding as argued by libellant quite argumentative.
+The diver’s theories were doubtless honestly held, but are not accepted because he was coneededly wrong as to the location of one pipe, by a matter of 18 feet; visibility at his working depth in Newtown creek, unaided by artificial light, would leave much to be desired if anything approaching precision were to be predicated of his observations.
+Libel dismissed with costs as to both respondents. Settle decree.
+If findings are desired, they may be settled at the same time, and are to embody appropriate recitals as to ownership and incorporation.
