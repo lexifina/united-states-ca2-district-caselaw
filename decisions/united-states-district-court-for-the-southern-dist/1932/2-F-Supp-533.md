@@ -1,0 +1,25 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1932-11-03"
+citations: ["2 F. Supp. 533"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re SPARKLETS, Inc."]
+source_url: "https://static.case.law/f-supp/2/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4124078
+cites_cases: ["139 F. 546", "192 N. Y. 61", "264 U. S. 426", "268 U. S. 111", "46 S. Ct. 467", "84 N. E. 585"]
+---
+
+# In re Sparklets, Inc.
+
+## Majority (PATTERSON, District Judge.)
+
+PATTERSON, District Judge.
+The trustee in bankruptcy filed a petition for an order directing the respondents to show cause why they should not turn over the sum of $3,000', alleged to be property of the bankrupt estate and in possession of the respondents. The respondents answered, asserting an adverse claim to the money, and challenging the jurisdiction of the referee to entertain the proceeding. The referee, after taking testimony upon the jurisdictional point, overruled the respondents’ objection, and ordered a hearing on the merits. The matter comes up on the respondents’ petition to review the referee’s order.
+Jurisdiction to entertain summary proceedings for the turning over of property said to belong to the bankrupt estate depends upon whether the adverse claim of the party proceeded against is substantial or only colorable. Taubel-Scott-Kitzmiller Co. v. Fox, 264 U. S. 426, 433, 44 S. Ct. 396, 68 L. Ed.„ 770; May v. Henderson, 268 U. S. 111, 45 S. Ct. 456, 69 L. Ed. 870; Harrison v. Chamberlin, 271. U. S. 191, 46 S. Ct. 467, 70 L. Ed. 897. The sole question then is whether the claim of the respondent Fein to this money was substantial or merely colorable. I am of opinion that upon his own testimony and as matter of law he had no substantial claim to it, and that the referee’s ruling in favor ,of the jurisdiction was proper. The other respondent was Fein’s agent, and asserted no-claim of her own.
+Fein was formerly president and'general manager of the bankrupt corporation. He had a claim for a large sum of money against it for alleged commissions, which was disputed, and which he knew was disputed. At noon on July 7,1932, he was notified that he was about to be removed by the board of directors. He immediately made arrangements to take $3',000 of the company’s money in partial payment of his disputed claim. Corporate cheeks were subject to signature by him and the secretary acting together. According to his testimony, he had the cashier draw a cheek to his own order, with the amount left blank, and had the secretary, who was under his instructions, sign the cheek; he did not tell any one what the cheek was for; he then filled in the amount of $3,000, which was substantially all the money there was in that bank account, signed the eheck as president, and had it certified at the bank the-same day. He then turned the cheek over to' his sister, the other respondent, who collected it for his account. The corporation was insolvent at the time.
+According to the cashier, Fein obtained the eheck by stating that he needed it to pay for a C. O. D. package that was to arrive. Fein denied that any such statement had been made by him. The referee accepted as true the testimony- of the cashier, which was corroborated by certain other evidence; but for present purposes I will disregard it and deal with the ease on Fein’s own version of the issuance of the eheck.
+A corporate officer has no authority by his own act to appropriate money of the corporation in payment of a disputed 'claim against it. In having the cheek issued and in signing it, the respondent was acting solely in his own interest, and therefore beyond the scope of his authority. See Ward v. City Trust Co., 192 N. Y. 61, 71, 84 N. E. 585. The general power which he had to sign cheeks in behalf of the corporation did not cover the case of this check, since in this transaction he was acting, not for a corporate purpose, but solely for his own advantage. It does not matter that as to strangers not put upon inquiry the ehe’ck might be held to be an instrument binding on the corporation. Nor is it material whether the claim asserted by the respondent against the bankrupt was a meritorious one. He knew that it was a contested claim, and that the directors did not intend at that time to recognize or pay it. Payment was obtained by him only through a plain abuse of his authority.
+Upon the undisputed facts, therefore, the $3,000 taken by the respondent was held by him as constructive trustee for the bankrupt. His claim to the money, though called adverse, was not adverse in any substantial way. In re Muncie Pulp Co. (C. C. A.) 139 F. 546, 548. The case is analogous on the facts to May v. Henderson, supra. The ruling of the referee to the effect that he had jurisdiction to entertain summary proceedings for the payment over of this sum to the trustee in bankruptcy was proper, and will be affirmed.
