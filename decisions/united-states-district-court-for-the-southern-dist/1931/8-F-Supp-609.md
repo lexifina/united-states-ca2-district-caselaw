@@ -1,0 +1,25 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1931-08-17"
+citations: ["8 F. Supp. 609"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re ATLAS CABINET WORKS, Inc."]
+source_url: "https://static.case.law/f-supp/8/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4138905
+cites_cases: ["10 L. R. A. (N. S.) 765", "101 N. Y. S. 476", "116 App. Div. 306", "118 A. 820", "129 U. S. 73", "148 N. E. 217", "150 F. 699", "160 N. Y. S. 49", "2 Johns. Ch. (N. Y.) 505", "253 Mass. 60", "289 F. 960", "3 Sumn. 318", "90 F. 622", "95 Misc. 709", "98 Conn. 147"]
+---
+
+# In re Atlas Cabinet Works, Inc.
+
+## Majority (PATTERSON, District Judge.)
+
+PATTERSON, District Judge.
+Freidus purchased goods at an auction of the assets of a bankrupt estate for the sum of $1,819.23. He paid $520 as a deposit but defaulted on the balance. One of the terms of sale, customary at all such sales and printed on the catalogs, was that on nonpayment the goods “may be resold at any time thereafter without further notice at the loss, risk and expense and for the account of the purchaser.” This term was also read aloud at the sale prior to the bidding. Ten days later the goods not taken and paid for by Freidus were resold at auction, bringing only $363. Tile loss was thus $936.23. The second sale was advertised as a receiver’s sale in the usual manner. No' order of resale was had, and no notice was given that the resale was for the account of Freidus, other than the notice at first sale quoted above.
+Upon these facts the trustee in bankruptcy commenced this proceeding to compel Freidus and certain others alleged to have acted in concert with him to pay the deficiency. After taking testimony the referee dismissed the proceedings. He based his ruling upon the fact that neither in the advertisement nor in the announcement made at the resale was it stated that the resale was for the account0 of Freidus.
+A court of bankruptcy has summary power over a delinquent purchaser at a sale in the bankruptcy proceedings. He may be ordered to pay the stipulated price or to pay the deficiency resulting from a resale. Mason v. Wolkowich (C. C. A.) 150 F. 699, 10 L. R. A. (N. S.) 765; In re Rival Knitting Co. (C. C. A.) 289 F. 960. The jurisdiction of the court to act summarily in such a matter is the same as that of a court of equity in any judicial sale. It is based upon the view that the purchaser makes himself a party to the proceedings and undertakes to do a particular act under the order of the court. Wood v. Mann, Fed. Cas. No. 17,954, 3 Sumn. 318; Camden v. Mayhew, 129 U. S. 73, 9 S. Ct. 246, 32 L. Ed. 608; Brasher v. Van Cortlandt, 2 Johns. Ch. (N. Y.) 505.
+It seems to be settled by the authorities that certain preliminary steps must be taken before liability for a deficiency upon resale may be fastened upon a defaulting purchaser at judicial sale. The purchaser -must be given notice of the resale, so that he may protect his own interests. Bayne v. Brewer Pottery Co. (C. C.) 90 F. 622.; Mariners’ Savings Bank v. Duca, 98 Conn. 147, 118 A. 820. I take it, however, that this condition is dispensed with where it is a well-understood term of the original sale that on nonpayment by a purchaser the goods may be resold on his account without notice. See Egan v. Buellesbach, 116 App. Div. 306, 101 N. Y. S. 476; Matter of Philip, 95 Misc. 709; 160 N. Y. S. 49.
+It has been held by an eminent court that an order of resale on the purchaser’s account must be obtained; otherwise the purchaser cannot be held for a deficiency. Shapiro v. Goldman, 253 Mass. 60, 148 N. E. 217. (It was held in this case that there must also be an order of confirmation on the defaulter’s bid. In so far as this statement applies to liability for deficiency after resale, it is opposed to Camden v. Mayhew, supra, and cannot be accepted in this court.) In the present case there is nothing in the conditions of the original sale which relieves the receiver from the necessity of obtaining an order of resale and the failure to obtain it would seem to bar recovery. This may appear technical, yet it seems to me that orderly procedure and the rights of the defaulting purchaser require that in some fashion, by either an order, a notice, or an announcement, the receiver put itself on record at some time prior to the resale that the resale is on the purchaser’s account. If the terms of the original sale had been that any resale “shall” be for the account of the purchaser, that would have sufficed. But the terms were that the resale “may” be for his account. Suppose the unlikely had happened and the property had brought $3,000 at the resale. The receiver would doubtless have rejected the original purchaser’s demand for the excess, with the explanation that it had waived the first sale and that the resale was on its own account.
+I think therefore that the referee’s order dismissing the proceeding was right.
