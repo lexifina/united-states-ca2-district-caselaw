@@ -1,0 +1,34 @@
+---
+court: "United States District Court for the District of Connecticut"
+docket: "5-88-cv-568(WWE)"
+decided: "1997-04-15"
+citations: ["965 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. AMATULLI v. PEOPLE’S BANK."]
+source_url: "https://static.case.law/f-supp/965/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 479482
+cites_cases: ["193 Conn. 174", "1990 WL 178880", "474 A.2d 795"]
+---
+
+# Amatulli v. People's Bank
+
+## Majority (EGINTON, Senior District Judge.)
+
+RULING ON MOTION FOR RECONSIDERATION
+EGINTON, Senior District Judge.
+Plaintiff, Anthony G. Scalzi, together with twenty-one other investors, brought this action against defendant, People’s Bank, alleging fraud in connection with investments in various Telentry limited partnerships. Scalzi sought damages based on a promissory note he executed in favor of defendant with regard to Telentry XL, the third limited partnership. People’s answered and filed a counterclaim seeking judgment on the promissory note related to Scalzi’s Telentry XL investment as well as a promissory note that Scalzi executed in connection with the Telentry Development II limited partnership.
+Pending before the court is People’s motion for partial reconsideration of the court’s denial of its application for prejudgment remedy and motion for disclosure of assets as to plaintiff Scalzi. The court will grant People’s motion for reconsideration.
+Background
+Plaintiff Scalzi executed the first note on November 27, 1984 and the second note on August 15, 1985. According to the January 2, 1992 affidavit of Craig Sayers, vice-president of People’s, attached to the application for prejudgment remedy, as of November 21, 1991, the total amount of principal and interest due on the first note was $78,309.18 and on the second note was $16,041.51.
+On February 28, 1996, the court granted People’s motion for summary judgment as to the first note and denied summary judgment on the second note finding that while People’s had met its burden of showing entitlement to payment on both notes, plaintiff demonstrated a genuine issue of material fact as to the defense of common law fraud on the second note. On March 19, 1996, the court denied People’s application for prejudgment remedy and motion for disclosure of assets as to both notes. As to the first note specifically, the court found that the application and motion were moot because summary judgment had been granted. On March 14, 1997, the court denied People’s motion for final judgment certification on the first note pursuant to Fed.R.Civ.P. 54(b).
+In its motion for partial reconsideration, People’s requests the court to reconsider its finding of mootness. People’s claims that a prejudgment remedy is necessary and appropriate at this stage to secure payment on the first note given the court’s denial of its motion for final judgment certification. Plaintiff argues that: a prejudgment remedy is inappropriate because Scalzi’s fraud claim on the second note will offset completely, or at least partially, the amounts due on the first note. Plaintiff contends that: his affidavit and evidence in opposition to People’s motion for summary judgment establishes probable cause of the success of his claim on the second note to allow a set-off. Peoples’ responds in part by arguing that a set-off is inappropriate because Scalzi has not presented a claim in the Second Amended Complaint for damages on the second note.
+If the application for prejudgment remedy and motion for disclosure of assets are granted, People’s requests the opportunity to submit an updated affidavit that will calculate Sealzi’s debt on the first note as of the date of the granting of the application and motion.
+Discussion
+Conn. Gen.Stat. § 52-278a(d) defines a “prejudgment remedy” as “any remedy or combination of remedies that enables a person ... to deprive the defendant in a civil action of, or affect the use, possession or enjoyment by such defendant of, his property prior to final judgment____” The court must determine whether or not there is probable cause that a judgment in the amount of the prejudgment remedy sought, or a greater amount, will be rendered taking into account any defenses, counterclaims or set-offs. Conn. Gen.Stat. § 52-278d(a). Probable cause “is a bona fide belief in the existence of the facts essential under the law for the action and such as would warrant a man of ordinary caution, prudence and judgment, under the circumstances, in entertaining it.” Essentially, the court must weigh the probabilities of success. Three S Development Co. v. Santore, 193 Conn. 174, 175-76, 474 A.2d 795 (1984).
+Conn. Gen.Stat. § 52-278n(e) gives the court authority to order the disclosure of assets any time prior to final judgment.
+Upon reconsideration, the court will vacate its denial of People’s application for prejudgment remedy and motion for disclosure of assets. Given People’s demonstration of success on the first note and the court’s denial of its motion for final judgment certification, a prejudgment remedy is appropriate to protect People’s interests in securing payment on a judgment on the first note. See Park Plaza Hotel v. Local 217, 1990 WL 178880 (D.Conn. August 21, 1990) (after granting motion for summary judgment, court granted motion for prejudgment remedy). In determining the amount of the prejudgment remedy, however, the court will grant a partial set-off for the amount due on the second note. Plaintiff’s evidence in opposition to People’s motion for summary judgment is sufficient to show probable cause as to the success of his defense of fraud on the second note. The court will not allow a complete set-off because, as People’s correctly points out, Scalzi has not made any claim for damages in the Second Amended Complaint with respect to the second note and the amount due on the second note will not completely offset that due on the first note. Accordingly, People’s is directed to submit by May 2, 1997 an updated affidavit setting forth Scalzi’s debt on both notes as of the date of this ruling.
+Conclusion
+For the foregoing reasons, People’s motion for reconsideration [# 170] is GRANTED. Upon reconsideration, the court VACATES its denial of People’s application for prejudgment remedy [# 75] and motion for disclosure of assets [# 77]. While the court finds that a prejudgment remedy is appropriate, it reserves decision pending the submission by May 2, 1997 of an updated affidavit setting forth the amounts due on both notes as of the date of this ruling. Thereafter, the court will determine the proper set-off and amount of the prejudgment remedy. The court also reserves decision on People’s motion for disclosure of assets pending disposition of the application for prejudgment remedy.
