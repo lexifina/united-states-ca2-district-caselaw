@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the Western District of New York"
+decided: "1934-12-10"
+citations: ["9 F. Supp. 217"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re SYNDICATE OIL CORPORATION."]
+source_url: "https://static.case.law/f-supp/9/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4141510
+cites_cases: ["9 F. Supp. 127"]
+---
+
+# In re Syndicate Oil Corp.
+
+## Majority (KNIGHT, District Judge.)
+
+KNIGHT, District Judge.
+A petition under Bankruptcy Act §§ 77A and 77B (11 USCA §§ 206, 207) was filed by the Syndicate Oil Corporation in the District Court of Delaware. The corporation was organized in Delaware. Subsequently a petition was filed by Samuel Jardine, a creditor, for a transfer of the proceedings to this district on the ground that the best interest of the parties would be served by such transfer, for the reason, in substance, that the principal place of business is in this district. Prior to the determination of that motion, an order was made in this district authorizing the examination by said creditor of the officers of petitioner and the books and records of the corporation. Later, and while such motion was still undetermined, an order to show cause was granted in this district directing the said creditor to show cause why the said order for the aforesaid examination should not be set aside- on the ground that the court in this district was without jurisdiction to grant the order, and on such other grounds as to the court might seem proper. Determination of the question of the order to show cause was held pending a determination on the motion in the District Court of Delaware. That court has now granted the motion for the transfer of the proceedings under the Bankruptcy Act, 9 F. Supp. 127.
+The questions now presented are whether this court had jurisdiction to make the order for the examination, when made, in view of the then pendency of the proceedings in the Delaware. district and also the sequential question of whether it can now reaffirm such order for examination after the transfer of the proceedings to this district.
+The proceedings herein are under the Bankruptcy Act. The statute provides that,upon- the filing of the petition, “the judge shall enter an order either approving it as properly filed under this section if satisfied that such petition * * * complies with this section and has been filed in good faith, or dismissing it.” Bankr. Act § 77B (11 USCA § 207).
+Determination of the question of good faith makes a question of fact. The- petition on which the order for the examination was made does not state the reasons for the examination. It was sought by virtue of section 21 of the Bankruptcy Act as amended May 27, 1926 (11 USCA § 44). It is stated in the communication to the court submitted on this motion on the order to show cause that: “There has not been any motion made on the merits in this ease as yet and the facts to be- ascertained in this examination are desired to determine which of the various issues specified in the Act are going to be raised and which are going to be dropped. The first issue mentioned by counsel, namely, a dismissal of this petition because it is not filed in good faith — may be one of the issues we désire to raise now that the case is before the proper court where the petition of the debtor may be heard on the merits.”
+As stated, this petition is filed under the provisions of the Bankruptcy Act. Whether debtor may ultimately be determined bankrupt makes no difference. Subdivision o of section 77B [11 USCA § 207 (o)] specifically provides that the powers of the court shall be the same as if a voluntary petition for adjudication were filed. Section 21 as amended, therefore, is applicable. It seems to me that, prior to any determination of the court as to the sufficiency of the petition, the creditor is entitled to an examination of the debtor touching the good faith in filing the petition and compliance with the section. The order for examination, however, irrespective of the question of jurisdiction, was too broad, and it was not limited as it should then have been to the two particulars mentioned. Under section 21 as amended, after action by the court on the petition, the creditor would later be entitled to an examination of the debtor touching the estate. Such examination might be held before the court or referee as special master.
+Unless the order heretofore granted herein can be amended to require notice of the consideration of the petition by the court be given to the creditor, the action would be taken without any notice to hinl. In that event, the creditor would be compelled to resort to a motion to set aside the application on the grounds provided in the statute. The creditor would then be entitled to an examination. If, however, the creditor pri- or to the approval by the judge is in a position to give notice to the judge and to the petitioner of his intention to oppose approval, it is quite certain that the judge will give full opportunity for a hearing.
+So it seems to me that the order for the examination should be vacated and the creditor relegated to proceedings to oppose approval of the petition, if so advised.
