@@ -1,0 +1,32 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "Civ. 14413"
+decided: "1958-03-25"
+citations: ["160 F. Supp. 3"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Julio CLAUDIO, Plaintiff, v. SINCLAIR REFINING COMPANY, Defendant."]
+source_url: "https://static.case.law/f-supp/160/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 342461
+cites_cases: ["101 F.Supp. 230", "101 F.Supp. 826", "123 F.2d 1008", "126 F.Supp. 154", "128 F.2d 194", "131 Ct.Cl. 1", "135 F.Supp. 801", "175 F.2d 727", "185 F. 2d 662", "185 F.2d 212", "191 F.2d 82", "193 F.2d 479", "235 F.2d 309", "250 F.2d 124", "250 F.2d 710", "30 A.L.R.2d 1385", "318 U.S. 724", "338 U.S. 911", "342 U.S. 888", "46 U.S.C.A. § 688", "70 S.Ct. 349", "72 S.Ct. 173", "87 F.Supp. 197", "94 L.Ed. 561", "96 L.Ed. 666"]
+---
+
+# Claudio v. Sinclair Refining Co.
+
+## Majority (ZAVATT, District Judge.)
+
+ZAVATT, District Judge.
+The plaintiff, a seaman aboard the S. S. Sheldon Clark which was owned and operated by the defendant, brought this action at law under the Jones Act, 46 U.S.C.A. § 688, for damages for personal injuries sustained by him as the result of a fall during the course of his work aboard the vessel on a voyage from Marcus Hook, Pennsylvania to Houston, Texas. The complaint set forth various acts of negligence on the part of the defendant, and alleged, as well, the failure of the defendant to provide plaintiff with a safe and seaworthy vessel. For a second and separate cause of action, the plaintiff set forth a claim for maintenance and cure in the amount of $15,000. There is no diversity of citizenship of the parties herein, and upon the trial of this cause counsel for the plaintiff conceded that the amount of the claim for maintenance and cure is less than $3,000.
+Upon the trial of the action, the plaintiff testified that his earnings amounted to $400 per month. This, together with a statement in a report of personal injury received in evidence, that the plaintiff’s base pay was $247 per month, was the only evidence in the case relating to the question of loss of earnings. Plaintiff introduced no evidence of expenditures made or liability incurred, if any, for food or lodging during the period in which he was being treated as an outpatient; nor was there any showing of a contractual agreement fixing the per diem allowance for maintenance. Evidence as to maintenance and cure was omitted in compliance with the Court’s ruling that such claim would not be tried to the jury, but rather to the Court sitting in Admiralty.
+In its charge the Court removed any question of damages for maintenance from the jury’s consideration. The Court instructed the jury to consider loss of earnings or wages as an element of damages if it found that injuries suffered by the plaintiff were due in whole or in part to the negligence of the defendant or the unseaworthiness of the vessel, and that the only evidence as to the amount of any such earnings was the plaintiff’s testimony and the statement in the report of personal injury as aforesaid. The jury was charged that there was evidence in the case from which it could find the plaintiff guilty of contributory negligence, and that in the event it made such finding it was to reduce the plaintiff’s recovery in proportion to the extent to which his injuries were the result of his own negligence. The jury returned a general verdict in plaintiff’s favor in the amount of $1,500.
+The question now before the Court is whether plaintiff’s recovery for lost wages is a bar to a recovery for maintenance and cure for the same period. While there can be no additional recovery for maintenance and cure where a seaman has recovered full indemnity for his injuries in his action under the Jones Act and for unseaworthiness, an action for maintenance and cure does lie where the seaman has not, in the civil action, sought from the jury the cash value of the board and lodging which he would have received had he remained in the employ of the defendant as a seaman aboard the vessel. Accordingly, the plaintiff is entitled to proceed upon his claim for maintenance and cure.
+There is further ground upon which to sustain plaintiff’s position. As previously mentioned, the Court instructed the jury that any recovery to which plaintiff was entitled was to be reduced in proportion to his contributory negligence. Conceptions of contributory negligence have no bearing upon, nor is contributory negligence a defense against, liability for maintenance and cure. The plaintiff may not have recovered the full value of his lost wages, and there is no way in which the defendant can show any specific duplication of damages.
+Counsel will confer with the Court as to a date for the trial to the Court of plaintiff’s claim for maintenance and cure.
+. Jordine v. Walling, 3 Cir., 1950, 185 F. 2d 662; Mullen v. Fitz Simons & Connell Dredge & Dock Co., 7 Cir., 1951, 191 F.2d 82, certiorari denied, 1951, 342 U.S. 888, 72 S.Ct. 173, 96 L.Ed. 666; Modin v. Matson Nav. Co., 9 Cir., 1942, 128 F.2d 194; contra, Janson v. Swedish American Line, 1 Cir., 1950, 185 F.2d 212, 30 A.L.R.2d 1385 (claim in excess of $3,000 cognizable at law as an action arising under the Constitution of the United States). The validity of the practice of trying claims such as that now before the court to a jury, see Catherall v. Cunard S. S. Co., D.C.S.D. N.Y.1951, 101 F.Supp. 230, has not been passed upon in this Circuit. See Gonzales v. United Fruit Co., 2 Cir., 1951, 193 F.2d 479, 480; Weiss v. Central R. R. Co. of New Jersey, 2 Cir., 1956, 235 F.2d 309, 310.
+. See Evans v. Schneider Transportation Co., 2 Cir., 1957, 250 F.2d 710, 712; Ortiz v. Grace Line, 2 Cir., 1957, 250 F.2d 124.
+. Krey v. United States, 2 Cir., 1941, 123 F.2d 1008; McCarthy v. American Eastern Corp., 3 Cir., 1949, 175 F.2d 727, certiorari denied 1950, 338 U.S. 911, 70 S.Ct. 349, 94 L.Ed. 561.
+. La Fontaine v. The G. M. McAllister, D.C.S.D.N.Y.1951, 101 F.Supp. 826; Stendze v. The Boat Neptune, D.C.Mass. 1955, 135 F.Supp. 801; Cf., McCarthy v. American Eastern Corp., note 3, supra.
+. Aguilar v. Standard Oil Co., 1943, 318 U.S. 724, 63 S.Ct. 930, 87 L.Ed. 1107; Lazarowitz v. American Export Lines, D.C.E.D.Pa.1949, 87 F.Supp. 197.
+. Lazarowitz v. American Export Lines, note 5, supra; Stendze v. The Boat Neptune, note 4, supra.
