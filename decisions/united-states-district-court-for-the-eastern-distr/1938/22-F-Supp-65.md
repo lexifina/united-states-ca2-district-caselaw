@@ -1,0 +1,40 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "E-8419"
+decided: "1938-02-07"
+citations: ["22 F. Supp. 65"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["METROPOLITAN SAND & GRAVEL CORPORATION et al. v. LOWE, Deputy Com’r."]
+source_url: "https://static.case.law/f-supp/22/cases/0065-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4166960
+cites_cases: ["13 U.S.C.A. § 921", "248 F. 466", "285 U.S. 22", "33 U.S.C. § 921", "93 F.2d 1"]
+---
+
+# Metropolitan Sand & Gravel Corp. v. Lowe
+
+## Majority (BYERS, District Judge!)
+
+BYERS, District Judge!
+This is an injunction proceeding as contemplated by section 21 of the Longshoremen’s and Harbor Workers’ Compensation Act, title 33 U.S.C. § 921, 13 U.S.C.A. § 921, by which the employer and the insurer seek to enjoin the payment of death benefits required by compensation order dated November 1, 1937, as to all payments accruing on and after October 1, 1937, and that the said order be suspended, vacated, and set aside.
+The funeral expenses and death benefits. from date of death to October 1, 1937, have been paid, and the complainants seek relief as to subsequently accruing death benefits.
+' The facts are not in dispute, and the material allegations in the bill of complaint having to do with occurrences relied upon to justify the award are admitted.
+On October 30, 1936,- Thorlief Johnson, the decedent, being a bargee in the employ of the Metropolitan Sand & Gravel Corporation, was in charge of barge 148, which was taken in tow with five others at 110th street and Harlem River, New York City, around 5 o’clock in the afternoon, all light, to be towed to Port Washington, L. I. As first made up, the barges were two abreast, but later they were singled in tandem with short lines between the barges. Johnson’s barge 148 was the hawser vessel in the tow.
+The trip was completed between 10 and 11 p. m., when, because of weather conditions, the barges were made fast at a stake-boat outside of Hempstead Harbor, at which time it was discovered that Johnson had disappeared; later his body was , recovered, but the place where it was found does not appear in the evidence.
+Soon after the trip was begun, Johnson left his - barge and made his way back to the fourth barge in the tier, for the purpose of having his evening meal with the captain of that craft and two others. He there remained until around 9 o’clock, when he started to make his way back to his own craft, and that was the last seen of him.
+' On departure, the wind wa’s of 25 mile force out of the northwest, which increased around 7 o’clock to 50 miles, which prevailed at 9 o’clock when Johnson left his companions.
+The single point presented by the record is whether Johnson abandoned his employment by leaving his barge as staD ed and remaining away from it for a period of approximately four hours.
+The deputy commissioner has made “findings of fact” from which the following are quoted: (1) “that with the wind in the nortliwest, the water was not unduly rough; that-while cn route, the deceased had no duties to perform except to watch his lights, and in bad weather, his lines;” (2) “that barge captains frequently congregate on one of the barges when under tow to have a meal together; that while on the barge upon which he went for supper, the deceased could still see as to whether the lights on his own barge were burning or not; that there were two lines from his barge to the tug, and that the probability of both lines parting or damage to the barge resulting by parting of the lines while under tow, considering the weather and water conditions on the said day, was small; that just before 9:00 p. m., the deceased left the barge upon which he had his supper to return to his own barge at the head of the line;” (3) “that the deceased was not seen again from the time that he left the cabin of barge #120 and that it is unknown as to whether he fell while returning from the cabin of barge #120 to his own barge, or whether he fell subsequent to his arrival there; that his death arose out of and in the course of his employment
+The foregoing present the matters upon which it is necessary for this court to base a decision.
+The first quotation from the “findings of fact” can scarcely be deemed to be such, because it involves a conclusion of law concerning which the right to review lies with this court, if the opinion in Crowell v. Benson, 285 U.S. 22, 52 S.Ct. 285, 76 L.Ed. 598, is understood.
+The duties of one in charge of a barge or scow have been the subject of frequent judicial comment, and the following, taken from the case of Dailey v. Carroll, 2 Cir., 248 F. 466, 468, expresses the general understanding upon these matters: “It is, we think, impossible to lay down any hard and fast definition as to what is comprised in the phrase 'caring for a boat.’ To do so would require consideration of contingencies perhaps unforeseeable, and certainly not suggested by anything in this record. * * * the man or men who go with her [bargees] are reasonably competent to attend to the care or internal economy of the vessel in question, and further that customary cleaning, pumping, mooring, and watching are parts of such care, and watching a vessel includes watching her lines.”
+It was the duty of Johnson to remain on his barge in order to tend her lines leading to the towing craft and generally to act in any emergency which might arise, and his failure to do that was an abandonment of his employment. Flow he could observe the lights on his own barge, from the cabin of the fourth one in the tier, is not made to appear. His duty to watch his lines was of course a continuing one, and was not measured by weather conditions.
+The testimony is clearly to the effect that he could have prepared his own meal in the cabin of his own vessel, and it was customary for bargees to do that. By remaining away from his vessel for a period of approximately four hours, he abandoned the duties that he was paid to perform, and no amount of sympathy for his wife and family can obscure that fact. The performance of such duties as pertained to his job was the only reason for his employment; which is another way of saying that the barge might just as well have been left without any supervision whatever, as to place it in the care of a man who would absent himself from his post as shown by this record.
+The facts involved in Salmon Bay Sand & Gravel Co. v. Marshall, 9 Cir., 93 F.2d 1, are quite remote in this respect from those here presented.
+Another fallacy of the deputy commissioner’s reasoning is revealed in the statement, in the second quotation above, respecting the probability of both lines to the tug parting. It did not lie within Johnson’s capacity to prophesy as to whether damage would occur to the vessel in his charge, and a statement of probability in that respect scarcely constitutes a finding of fact.
+The third quotation reveals fundamental error: As Johnson is shown to have abandoned his employment, it is necessary that the evidence should disclose a resumption of his employment before an award could be justified based upon the theory that his death arose out of and in the course of his employment; that is to say, the evidence would have to place him back upon his own barge before it could be found that his death occurred while he was engaged in his employment. As to that, there is no showing.
+The captain of the tug testified that he was informed by the captains of other barges that Johnson lost his life while making his way back to his own vessel. That of course was hearsay, and the deputy commissioner was justified in disregarding it, if he chose to do so.
+In the absence 'of any testimony to the effect that the decedent ever returned to his barge, and thus resumed the perform^ anee of duties which he is clearly shown to have abandoned, the plaintiffs must prevail.
+Settle decree.
