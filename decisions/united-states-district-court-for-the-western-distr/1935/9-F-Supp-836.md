@@ -2,7 +2,7 @@
 court: "United States District Court for the Western District of New York"
 docket: "1904"
 decided: "1935-01-25"
-citations: ["9 F. Supp. 836", "9 F. Supp. 833", "9 F. Supp. 841", "9 F. Supp. 843"]
+citations: ["9 F. Supp. 836"]
 reporter: "f-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["UNITED STATES v. HOUDE ENGINEERING CORPORATION."]
 source_url: "https://static.case.law/f-supp/9/cases/0836-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4139000
-cites_cases: ["10 F.(2d) 730", "12 F.(2d) 747", "137 Or. 386", "14 F.(2d) 181", "15 F.(2d) 434", "16 F.(2d) 236", "177 U. S. 311", "184 U. S. 199", "188 F. 292", "19 F.(2d) 460", "221 U. S. 106", "222 U. S. 578", "231 U. S. 646", "236 U. S. 1", "236 U. S. 194", "239 U. S. 33", "24 A. L. R. 1238", "250 U. S. 400", "253 U. S. 219", "257 P. 99", "261 U. S. 312", "261 U. S. 525", "262 U. S. 553", "27 F.(2d) 286", "281 U. S. 548", "292 F. 138", "299 F. 908", "32 A. L. R. 300", "32 S. Ct. 833", "4 F. Supp. 818", "4 F.(2d) 334", "43 F.(2d) 485", "43 S. Ct. 372", "5 F. Supp. 230", "55 App. D. C. 36", "56 F.(2d) 150", "6 A. L. R. 1537", "62 F.(2d) 940", "83 Cal. App. 424", "86 F. 25", "9 F. Supp. 833", "9 F. Supp. 836", "9 F. Supp. 843", "94 U. S. 14"]
+cites_cases: ["12 F.(2d) 747", "15 F.(2d) 434", "16 F.(2d) 236", "177 U. S. 311", "184 U. S. 199", "188 F. 292", "19 F.(2d) 460", "221 U. S. 106", "222 U. S. 578", "231 U. S. 646", "253 U. S. 219", "261 U. S. 312", "27 F.(2d) 286", "281 U. S. 548", "292 F. 138", "32 S. Ct. 833", "4 F. Supp. 818", "4 F.(2d) 334", "43 F.(2d) 485", "43 S. Ct. 372", "5 F. Supp. 230", "62 F.(2d) 940", "9 F. Supp. 833", "94 U. S. 14"]
 ---
 
 # United States v. Houde Engineering Corp.
