@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the District of Connecticut"
+docket: "3501"
+decided: "1934-10-08"
+citations: ["8 F. Supp. 217"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SUISMAN & BLUMENTHAL, Inc., v. EATON, Collector of Internal Revenue."]
+source_url: "https://static.case.law/f-supp/8/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4140517
+cites_cases: ["275 U. S. 101", "292 U. S. 62", "53 F.(2d) 693"]
+---
+
+# Suisman & Blumenthal, Inc. v. Eaton
+
+## Majority (THOMAS, District Judge.)
+
+THOMAS, District Judge.
+This is a suit to recover $4,090.54 alleged to have been erroneously collected from the plaintiff as additional income taxes and interest, for the.year 1923.
+The question presented is whether plaintiff, a parent corporation, is entitled to deduct from its gross income the difference between $57,000, which represents the price paid for 927 shares of stock of Hartford Electric Steel Corporation, a subsidiary of the parent company, and $7,854.87, which represents a final liquidating dividend upon the dissolution of the subsidiary, a difference of $49,-145.13, although net losses of the subsidiary in excess of that amount had been deducted from plaintiff’s gross income over a period of five years prior to 1923.
+At the very outset it appears that the liquidating dividend was not received until January 2, 1924. The allegations of the plaintiff’s complaint as to the cost of the stock and as to the liquidating dividend were denied by the defendant, and at the trial defendant objected to secondary evidence, and demanded the production of plaintiff’s books.' Plaintiff did not produce but relied upon secondary evidence, principally upon what counsel for plaintiff terms “admissions” in Treasury Department letters. These “admissions” consist merely of restatements, for purpose of ruling on plaintiff’s claim of alleged facts submitted by plaintiff as a basis for its claim, and are not, in my opinion, binding as admissions or proof of facts thus recited. Moreover, this is a personal action against the collector and he is not bound by admissions made by another official. The revenue agent’s report is merely an intradepartmental communication, and is evidence only of its own contents and not of the facts stated therein. But even if the proof of the facts alleged as to the cost of the stock and the liquidating dividend were sufficient, plaintiff still has failed to prove all the facts necessary to entitle it to judgment. It appears that plaintiff has deducted operating losses suffered by the subsidiary to an extent greatly in excess of the stock loss now claimed. It is conceivable that these do not overlap. If the cost of the stock represented good will or other intangible assets, and the current deductions did not include any loss of value of the assets thus acquired, the deduction of the additional capital loss claimed might be proper. The burden of proof, however, is upon the plaintiff to establish its right to a refund. Wiekwire, individually and as executrix v. Reinecke, Collector of Internal Revenue, 275 U. S. 101, 48 S. Ct. 43, 72 L. Ed. 184; Redfield v. Eaton, Collector of Internal Revenue (D. C.) 53 F.(2d) 693. In the absence of evidence showing that the loss claimed has not already been deducted in another form, the plaintiff has not made out its right to the refund demanded.
+I do not agree, in its entirety, with defendant’s contention when he claims that: “Such a deduction as the plaintiff claims in this ease to he entitled to shall not he allowed where losses of the subsidiary have been taken to reduce the parent’s income equal to or in excess of the cost of the stock plus any advancements that have been- made.”
+I think plaintiff could make its ease by showing that it is not claiming what would amount to a double deduction; but it must make such proof in order to prevail.
+In the absence of distinguishing facts the decision of the Supreme Court of the United States in Charles Ilfeld Co. v. Hernandez, Collector of Internal Revenue for the District of New Mexico, 292 U. S. 62, 54 S. Ct. 596, 78 L. Ed. 1127, is controlling. The attempted distinction that the consolidated return in that ease was optional and constituted an agreement to abide by the regulation prohibiting, a deduction such, as is here claimed, while the consolidated return in the instant case was not voluntary but mandatory, is not valid. Evén without the published regulation and the agreement to comply with it evidenced by the voluntary filing of a consolidated return, it is the duty of the Treasury Department and the courts to deny a deduction, the benefit of which, as indicated by the facts, had already been enjoyed. The burden is on the taxpayer to show that a deduction claimed has not been made before, either in the same or any other form. In any event, the burden is on the plaintiff in seeking a judgment for a refund to prove by a fair preponderance of evidence that he is entitled to the refund, and one element of this proof is that the deduction claimed has not-been previously made in any form. It follows, therefore, that judgment must be entered for the defendant with costs to abide the event, and it is so ordered.
