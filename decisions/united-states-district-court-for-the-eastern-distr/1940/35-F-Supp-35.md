@@ -1,0 +1,32 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "8506"
+decided: "1940-07-11"
+citations: ["35 F. Supp. 35"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GENERAL ELECTRIC CO. v. MINNEAPOLIS-HONEYWELL REGULATOR CO."]
+source_url: "https://static.case.law/f-supp/35/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4183312
+cites_cases: ["261 U.S. 399", "35 F. Supp. 29", "54 F.2d 285"]
+---
+
+# General Electric Co. v. Minneapolis-Honeywell Regulator Co.
+
+## Majority (INCH, District Judge.)
+
+INCH, District Judge.
+For convenience the court v/.dl refer in this memorandum to the Minneapolis-Honeywell Regulator Company as Honeywell and the General Electric Company as General Electric.
+The litigation started by patent suits brought by the Brown Instrument Company, a wholly owned subsidiary of Honeywell, against General Electric. General Electric countered with the patent suit against Honeywell. Both suits related to the same subject matter and could properly be tried together. They were therefore consolidated, and tried and, on or about the 22nd day of April 1940, this court decided both suits. Brown Instrument Co. v. General Electric Co., 35 F.Supp. 29. It dismissed the complaint of the Brown Company and granted a decree in favor of General Electric against Honeywell. In substance it thus found that the Shafer patent, owned by General Electric, was valid and infringed and that Shafer was the first inventor.
+No decree has been entered in either suit prior to the matter now presented to the court which is made in the suit of the General Electric against Honeywell.
+The paramount issue litigated in the consolidated suits was whether Shafer was’ the first inventor. Several days were consumed by the court in receiving factual testimony on this subject. It is evident from the record that counsel for both parties had devoted both time and skill in getting together and producing witnesses and other evidence to show, or combat the fact, that Shafer first discovered and reduced to practice the novel idea disclosed in his subsequent patent. Since the 22nd day of April, 1940, therefore, all parties knew the above decision of the court.
+Counsel for Honeywell now moves for an order permitting it to amend its answer to the General Electric complaint, setting up knowledge and use of the subject matter of the Shafer patent by one, Breese, prior to the claim date of invention by Shafer, and that a new trial of the General Electric suit against Honeywell be granted in order that evidence of such prior use may be secured and introduced. In other words Honeywell, having been defeated on the issue of priority seeks a new trial on the ground of newly discovered evidence, which evidence it claims will defeat both Honeywell and the Brown suit and the General Electric.
+There is no doubt but that the present excellent and alert counsel for Honeywell have themselves been diligent in presenting this motion for a new trial, but, unfortunately, such motions are not granted because of the alertness in making the motion but must depend on proof that their client had no knowledge of the facts prior to the trial or that the new evidence could not, with reasonable diligence, have been discovered in time to present it at the trial and, further, that if it was produced it would fairly appear that the decision of the court would have been other than that given. These important and necessary conditions for the granting of such motion are plainly lacking here.
+The president of Honeywell knew prior to April 7, 1921, that Breese had what might be termed a “glimmer” of what might be done by external heat applied to a thermostatic strip. It was nothing like that discovered by Shafer. Nevertheless, it was shown that this officer wrote to Breese stating that there had been some discussion over the subject with the then patent attorneys of the Company. To be sure this officer says that he now has no present recollection of such a thing, although there is no dispute that he did know it at the time mentioned. While it is natural that a busy man, such as this officer is, might not keep in mind a single matter during the following years, yet it is plain that others, surely the then patent lawyers, knew about it. The letter has now been produced from the files. In the preparation of a case largely centering on the question of who was the first inventor, reasonable diligence by those in charge of the Honeywell Company certainly would have discovered this alleged important information prior to the trial of the suits rather than leaving it to more alert counsel after receiving information that the court had decided Shafer was the first inventor. The failure of memory of one man even if it could be considered on the question of diligence, where plainly others possessed the information, would not be sufficient excuse for lack of diligence. Toledo Scale Co. v. Computing Scale Co., 261 U.S. 399, 43 S.Ct. 458, 67 L.Ed. 719. Bassick etc., v. Adams, etc., 2 Cir., 54 F.2d 285.
+However there seems to me, also, to be no sufficient force in the proposed new evidence to change the result already reached. Breese did file an application for a patent several years after Shafer had received his patent and his disclosure commercially successful. When the Shafer patent was cited by the patent office against Breese he promptly can-celled all claims that would read upon the Shafer patent, thus clearly indicating that he believed Shafer to be the true inventor of what Shafer’s patent disclosed.
+Moreover the information as shown by the moving papers as to what Breese was thinking about prior to his application for a patent would be insufficient on which this court could find that Breese was the first discoverer over Shafer.
+In my opinion, the Honeywell Company has been guilty of laches and lack of diligence in not producing this new testimony at the trial and that, even if it was allowed to do so, no reason exists that it probably would have changed the former decision.
+In such circumstances the motion is denied.
+As findings of fact and conclusions of law in both suits have been duly agreed upon by counsel, they have been signed and the decrees have also been signed. Counsel will see that they are properly filed with the clerk.
