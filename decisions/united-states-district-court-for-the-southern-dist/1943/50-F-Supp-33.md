@@ -1,0 +1,35 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1943-04-14"
+citations: ["50 F. Supp. 33"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GREENBERG v. GIANNINI et al."]
+source_url: "https://static.case.law/f-supp/50/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4197028
+cites_cases: ["18 Wall. 626", "21 L.Ed. 938", "260 U.S. 261", "271 U.S. 99", "42 F.Supp. 419", "85 F.2d 27"]
+---
+
+# Greenberg v. Giannini
+
+## Majority (HULBERT, District Judge.)
+
+HULBERT, District Judge.
+The defendant, Amadeo P. Giannini, moves to dismiss the above entitled action upon two grounds:
+1. That the complaint fails to state a claim upon which relief can be granted, and
+2. That the venue is improper.
+The defendant, Transamerica Corporation, moves to quash the service of summons upon it as improperly made.
+This is a stockholders’ derivative action brought by the plaintiff on behalf of the Transamerica Corporation. It is alleged that the defendant Giannini fraudulently diverted funds of a wholly owned subsidiary of Transamerica. The complaint seeks an accounting and other incidental relief.
+In suits of this nature, the corporation on whose behalf the action is brought is a necessary party. City of Davenport v. Dows, 18 Wall. 626, 21 L.Ed. 938; Philipbar v. Derby, 2 Cir., 85 F.2d 27. Thus, this action cannot proceed unless jurisdiction has been obtained over Transamerica. The defendant Giannini also contends that the subsidiary corporation is an indispensible party. However, for reasons hereinafter indicated, it is not necessary to discuss that point at this time.
+These are two consolidated actions. One action was commenced in this court on October 1, 1942, the other, for the same relief, in the New York Supreme Court, on October 2, 1942 and removed to this court on October 22, 1942. Both actions were consolidated by order of this court dated December 21, 1942. Thereafter the two actions proceeded as one although it should be emphasized that consolidation is never so complete as to “deprive any party of any substantial rights which he may have possessed had the actions proceeded separately”. Moore’s Federal Practice, Vol. 3, Sec. 42.01, p. 3051.
+As far as the motions now being considered are concerned, the rights of the parties and the rules of law applicable to each action are different, and therefore must be considered as separate independent suits. In so doing, however, it will be assumed that after consolidation the same proceedings were taken in both actions.
+Section 51 of the Judicial Code, 28 U.S. C.A. § 112, proxddes in part, as follows: “ * * * no civil suit shall be brought in any district court against any person by any original process or proceeding in any other district than that whereof he is an inhabitant; but where the jurisdiction is founded only on (he fact that the action is between citizens of different States, suit shall be brought only in the district of the residence of either the plaintiff or the defendant; except that suit by a stockholder on behalf of a corporation may be brought in any district in which suit against the defendant or defendants in said stockholders’ action, other than said corporation, might have been brought by such corporation and process in such cases may be served upon such corporation in any district wherein such corporation resides or may be found.”
+The Transamerica Corporation is a resident of Delaware and, so far as the record discloses, is not doing business, and is not to be found, in the State of New York. It was served with process in Delaware in accordance with the provisions of the above quoted statute. Defendant Giannini is a resident of California. It follows, therefore, that the action which was originally commenced in this court cannot be maintained in this district because the corporation on whose behalf it has been brought, could not have sued here. This is so even though the plaintiff is a resident of this State, Philipbar v. Derby, supra, and that action must be dismissed.
+The venue provisions of Section 51 have been held to be inapplicable to removed actions. General Investment Co. v. Lake Shore Ry. Co., 260 U.S. 261, 43 S.Ct. 106, 67 L.Ed. 244; Gt. Northern Ry. Co. v. Galbreath Cattle Co., 271 U.S. 99, 46 S.Ct. 439, 70 L.Ed. 854.
+Hence, plaintiff argues that the action which was removed from the State Court could be maintained in this district even if the corporation on whose behalf it was brought could not have sued here. But, assuming this to be so, it is still a condition precedent to the right to maintain such action that jurisdiction be obtained over the corporation which, as above stated, is an indispensible party. To confer jurisdiction on this court it is essential that service be made on the corporation in New York, Rule 4(f), Federal Rules of Civil Procedure, 28 U.S.C.A. following section 723c unless there is statutory authority for service outside of this State.
+As stated, service was made on the corporation in Delaware, after the action had been removed to this court, and plaintiff contends that such service was in accordance with the provisions of Sections 83 and 112 of 28 U.S.C.A. The former section provides that after an action is removed into a United States court service may be made on a defendant in the same manner as if the action had been originally commenced in such United States Court. The latter section (Sec. 51 of the Judicial Code, supra) permits service to be made on a corporation outside of the state in stockholders’ actions brought on behalf of such corporation but, as we have already pointed out, that section does not apply to removed cases.
+The plaintiff urges that the provisions of Section 51, supra, relating to service of summons, and venue, are separate and independent of each other and that although the provisions dealing with venue are not applicable to removed actions, those dealing with service on corporations outside the State arc applicable. The statute cannot be so construed.
+It is apparent from a mere reading of it that the provisions in question are to be construed in relation to each other, and that if one is inapplicable, the other is likewise. The statute provides that in “such cases” process may be served on corporations outside the state. Our interpretation of “such cases” is actions commenced in districts wherein the corporation itself could have sued. The action at bar is not such a case. Nor was the Philipbar, supra, such a case. The service of the summons on the Transamerica Corporation in Delaware in the removed case was, therefore, improper and is without force and effect. Transamerica Corporation is not before this court and, as such Corporation is an indispensible party, the motion to dismiss the removed action must also be granted.
+It is unnecessary to decide whether this is a double derivative action and if so whether it can be maintained in this jurisdiction. See Goldstein v. Groesbeck, D.C., 42 F.Supp. 419. Settle order on notice.
