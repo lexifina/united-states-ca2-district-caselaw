@@ -1,0 +1,39 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "3071"
+decided: "1933-08-17"
+citations: ["4 F. Supp. 525"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CROWN CORK & SEAL CO., Inc., v. UNITED STATES."]
+source_url: "https://static.case.law/f-supp/4/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4126596
+cites_cases: ["3 B. T. A. 1339", "42 Stat. 237", "55 F.(2d) 893"]
+---
+
+# Crown Cork & Seal Co. v. United States
+
+## Majority (MOSCOWITZ, District Judge.)
+
+MOSCOWITZ, District Judge.
+This is a suit for the recovery of income and excess profits taxes for the calendar year 1921 and interest paid thereon aggregating $16,092.53. The plaintiff is the successor of the New Process Cork Company, Inc., which commenced this action. It has been stipulated that the plaintiff has acquired the right to any refund of any tax or assessment herein. The plaintiff will be referred to herein as the taxpayer. The facts briefly are as follows:
+The taxpayefi kept its book and made its return for the calendar year 1921 upon the accrual basis.
+On October 21, 1919, the taxpayer entered into a contract with the firm of Mir, Codina & Marques by which the taxpayer agreed to purchase 500 tons of cork waste. Subsequently the taxpayer breached the contract, and on April 19, 1921, an action was brought against it for the breach thereof in which damages were sought in the sum of $100,000.
+The taxpayer filed an answer to the suit denying all the material allegations of the complaint and set up four affirmative defenses. In June, 1921, the attorneys for the respective parties attempted to settle the matter. On August 2,1921, the taxpayer authorized its counsel to attempt to settle the ease for $9,400. On March 14, 1922, a settlement for $27,500 was agreed to and was immediately carried out.
+In April, 1922, the taxpayer’s counsel presented their bill for $1,500 for their services and $9.81 for expenses paid. This bill was paid on May 15, 1922. It appears that prior to March 14, 1922, an entry was made in the books of the taxpayer of $1,000 as “Reserve for legal fees in Mir Codina suit.”
+It further appears that on December 31, 1921, an entry was made in the taxpayer’s books of, “Legal Expenses Reserve for Mir Codina suit,. $10,000.00.”
+During 1922 and before March 14 the following entries were made: “Reserve for Lawsuit Mir Codina $2,500.00. To increase the above reserve to equal settlement made in Mir Codina suit,” and “To Reserve for Lawsuits Mir Codina $15,000.00. To set up provision for claim of Mir Codina Co. vs. New Process Cork Co.”
+Oh July 22, 1925, the Commissioner of .Internal Revenue notified the taxpayer of a proposed additional assessment of income and excess profits taxes for the year 1921 amounting to $15,086.78 due in part to the disallowance as deductions of the reserves aggregating $28,500, which had been deducted from- the gross income in the final return. The taxpayer appealed, to the Board of Tax Appeals, who sustained the Commissioner’s finding that the loss was not sustained in 1921. The taxpayer thereupon paid the tax and now seeks to recover the taxes paid as the result of the disallowance of these items as losses in the computation of the tax for 1921.
+The statutes involved are as follows:
+Revenue Act of 1921.
+“Sec. 234. (a) That in computing the net income of a corporation subject to the tax imposed by section 230 there shall be allowed as deductions:
+“(1) All the ordinary and necessary expenses paid or incurred during the taxable year in carrying on any trade or business. * . * *
+“(4) Losses sustained during the taxable year and not compensated for by insurance or otherwise; unless, in order' to clearly reflect the income, the loss should in the opinion, of the Commissioner be accounted for as of a different period. * * * ”
+“Sec. 212. * * * (b) The net income shall be computed upon the basis of the taxpayer’s annual accounting period (fiscal year or calendar year, as the ease may be) in accordance with the method of accounting regularly employed in keeping the books of such taxpayer; but if no such method of accounting has been so employed, or if the method employee? does not clearly reflect the income, the computation shall be made upon such basis and in such manner as in the opinion of the Commissioner does clearly reflect the income. If the taxpayer’s annual accounting period is other than a fiscal year as defined in section 200 or if the taxpayer has no annual accounting period or does not keep books, the net income shall be computed on the basis of the calendar year.” 42 Stat. 237, 254.
+The .rule is that, when the liability is contingent, or when the amount of the liability is unknowable by December 31st of any year, it cannot accrue in that year. In Uncasville Mfg. Co. v. Commissioner, 55 F.(2d) 893, 895, the Circuit Court of Appeals for this Circuit said: “All the facts upon which the calculation depended had been fixed before the expiration of the year 1918. Differences could arise, and did, as to the amount of the company’s income for that year, but they were due to the proper appraisal of its property, and 'possible disputes as to the meaning of the law. The computation was uncertain, but its basis was unchangeable; it was unknown, not unknowable on December 31, 1918. That is the test, e * e»
+In the ease at hand the liability was contingent. The answer filed in the suit against the taxpayer denied every allegation of the complaint and set up four affirmative defenses, any one of which was sufficient to defeat the action. The taxpayer denied liability at all times. In its letter of July 28, 1921, suggesting settlement, the suggestion was made without prejudice to the taxpayer’s legal rights so that, until the suit was tried or until a settlement was effected, it was not known if there was any liability and, of course, the amount of liability was unknown. The suit was for $100,000. Settlement was made for $27,500. The amount which would have to be paid was not ascertained, and was not ascertainable until March 14,1922. During 1923. the liability was not only unknown, but, as was said in the Uncasville Case, supra, was unknowable until March 14,1922.
+While the facts determining the liability had occurred in the year of the breach, the amount to be recovered, if there was legal liability, depended in a large part on the course of future events. The liability of the taxpayer was dependent on the outcome of future litigations and negotiations for compromise settlements, and was therefore contingent. The right to a deduction only obtains after liability has been fixed and during the year in which it so becomes fixed and not in a year in which it is prospective, speculative, or contingent.
+With regard to the attorney’s fees herein, it appears that the fees were for one service, as the bill dated April 21, 1922, shows. There was no arrangement or contract with regard to the fee, the services were for the entire ease and were not divided and were not divisible. The taxpayer did not have any knowledge or information during 1921 nor until it received the bill on April 21, 1922, as to what the charge would be. As the Board of Tax Appeals said: “The item of $1,000 sought to be deducted as a legal fee is clearly not deductible. The mere fact that services had been performed does not establish an accrual of an amount erroneously estimated to be the probable compensation which would be payable therefor.” New Process Cork Co., 3 B. T. A. 1339, 1342.
+The losses sought to be deducted by the taxpayer in its return for the year 1921 were sustained during 1922. The defendant is therefore entitled to judgment. Settle findings and judgment on notice.
