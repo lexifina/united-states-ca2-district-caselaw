@@ -1,0 +1,42 @@
+---
+court: "United States District Court for the Southern District of New York"
+docket: "86 Civ. 9750 (KTD)"
+decided: "1988-12-19"
+citations: ["703 F. Supp. 7"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marvin SIMES, Plaintiff, v. Jeffrey FURMAN, Richard Sack, Robert Dorf, John M. Czygier, Jr., and Gatz, Arnoff & Czygier, Defendants."]
+source_url: "https://static.case.law/f-supp/703/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4060137
+cites_cases: ["112 A.D.2d 369", "265 F.2d 418", "477 U.S. 317", "491 N.Y.S.2d 821", "761 F.2d 117"]
+---
+
+# Simes v. Furman
+
+## Majority (KEVIN THOMAS DUFFY, District Judge:)
+
+MEMORANDUM & ORDER
+KEVIN THOMAS DUFFY, District Judge:
+Defendants Jeffrey Furman, Richard Sack, and Robert Dorf move pursuant to Fed.R.Civ.P. 12(b)(6) to dismiss plaintiff Marvin Simes’ first and second claims for relief insofar as Simes seeks to recover lost profits. They also move pursuant to Fed. R.Civ.P. 11 for the imposition of sanctions. Simes consents to the motion to dismiss insofar as his first and second claims for relief sound in fraud, but argues that these causes of action sound as well in contract. In addition, defendants John M. Czygier, Jr. and Gatz, Arnoff & Czygier (the “attorney defendants”) move pursuant to Fed.R. Civ.P. 12(c) and 56, for an order dismissing all claims against them. Simes opposes this motion and cross-moves for partial summary judgment against Czygier and the attorney defendants.
+FACTS
+In January 1985, Furman, Sack, and Dorf entered into a contract of sale to purchase a parcel of vacant property located in Westhampton, New York, from Albert Kirchner (“the purchase contract”). The purchase contract contemplated the development of the property as a residential subdivision. It also specifically provided that Furman, Sack, and Dorf “may not assign this contract without the written consent of the seller.”
+The parties agreed that the date for closing the title to the property was to be October 15, 1986. On or about October 10, 1986, Furman, Sack, and Dorf assigned their rights and obligations under the purchase contract to Simes. The Assignment of Contract provided, inter alia:
+The consideration to be paid for said assignment is as follows:
+(a) ONE HUNDRED FIFTY THOUSAND ($150,000.00) DOLLARS in certified or bank funds, upon signing of this Agreement to be held in escrow by JOHN M. CZYGIER, JR., the attorney for the Assignors, until October 15, 1986.
+* # # * * #
+JEFFREY FURMAN, RICHARD SACK and ROBERT DORF also agree to deliver written consent of the seller, ALBERT KIRCHNER, to this assignment and in the event said consent is not delivered, the Assignee shall be entitled to a return of the monies paid hereunder ...
+Czygier and the attorney defendants, counsel for Furman, Sack, and Dorf, received $150,000 from Simes on or about October 10, 1986. On October 15, 1986, Simes and his attorney appeared at the offices of Kirchner’s counsel. Although Kirchner was not present, his attorney brought a deed, executed by Kirchner, providing for conveyance of the land to Simes. Title did not close on that date, however, because Furman, Sack, and Dorf had not obtained the necessary New York State Capital Gains Tax Clearance. The attorneys for the parties did enter into the following agreement on that date:
+It is understood and agreed by the undersigned attorneys for the parties above named as follows:
+1. Marvin Simes is an acceptable assignee of the contract.
+2. The closing is to be adjourned for the purpose of the Seller, Kirchner, and for the Assignor, Furman, et al. securing necessary N.Y. State Gains Tax Clearance to enable the deed to be taken by Simes to be recorded.
+The escrow funds were then released to Furman, Sack, and Dorf by Czygier on or about October 20, 1986, without notification to Simes. Simes claims that he received notice in early November 1986, that serious environmental problems had been discovered on the property and that Fur-man, Sack, and Dorf knew of the problems prior to the assignment.
+Simes essentially asserts two theories to recover the $150,000 that was paid in escrow. -First, he alleges that because he was fraudulently induced into agreeing to the assignment, he is entitled to a return of the escrow funds as part of the rescission of the transaction. Second, he alleges that the escrow fund was prematurely released by Czygier to Furman, Sack, and Dorf. In each of these claims Simes also seeks damages, lost profits and punitive damages for the misrepresentation of the condition of the property and failure to disclose the property’s latent defects that rendered it environmentally unsound and unfit for residential use. In addition, Simes’ third claim is against Czygier and the attorney defendants for breach of the escrow agreement by improperly releasing the $150,000 to Furman, Sack, and Dorf. The fourth and fifth claims for relief are asserted against all defendants for conversion and unjust enrichment, while the sixth claim for relief seeks judgment declaring that Simes has no liability under the assignment or the purchase contract.
+DISCUSSION
+It is well established that plaintiffs in fraud actions are entitled to recover only actual pecuniary loss and not lost profits. Toho Bussan Kasha, Ltd. v. American President Lines, Ltd., 265 F.2d 418, 421 (2d Cir.1959). Indeed, Simes agrees that to the extent the first and second causes of action sound in fraud the claim for lost profits must be dismissed. The terms of the amended complaint make plain that Simes’ first claim for relief against Fur-man, Sack, and Dorf for fraud “and in breach of their contractual obligation” and the second claim for relief for “aiding and abetting and conspiracy to defraud” sound exclusively in fraud only and not in contract. Thus Simes’ first and second claims for relief are dismissed only insofar as Simes seeks to recover lost profits. Fur-man, Sack, and Dorf’s motion for sanctions, however, is denied.
+Regarding the claims against Czygier and the attorney defendants, the Assignment of Contract expressly provides for release of the escrow funds on October 15, 1986, subject only to the provision requiring Furman, Sack, and Dorf to deliver the written consent of Kirchner to the assignment. Aside from this provision, the assignment contains no other statement or condition regarding the receipt or payment of the $150,000. The assignment contains no language linking the release of the escrow funds to a closing or to obtaining a tax clearance. Thus, I find that under the express terms of the assignment the escrow funds were to be released on October 15 unless Kirchner’s written consent could not be obtained.
+The signature of Kirchner’s counsel “for” Kirchner on the October 15 agreement that designated Simes “as an acceptable assignee” was clearly consent to the assignment on behalf of Kirchner. Although Simes now alleges that such language did not constitute consent to the assignment, “contorted semanticism must not be permitted to create an issue where none exists.” Wards Co., Inc. v. Stamford Ridgeway Assocs., 761 F.2d 117, 120 (2d Cir.1985).
+Upon receipt of that consent, Furman, Sack, and Dorf had fully complied with the plain language of the assignment of contract. No more or less was required of them by the writing or as a precondition to the release of the escrow funds by Czygier. If in strict compliance with the conditions of the agreement under which escrow funds are held, there is no violation of fiduciary obligations when an escrowee releases monies to the party with legal entitlement. Kaplan v. Shaffer, 112 A.D.2d 369, 370, 491 N.Y.S.2d 821, 823 (2d Dep’t 1985). Because no genuine issue of material fact exists as to the propriety of the release of funds by Czygier, summary judgment is granted. Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S.Ct. 2548, 2553, 91 L.Ed.2d 265 (1985).
+In sum defendants Furman, Sack, and Dorf’s motion to dismiss plaintiff Simes’ first and second claims for relief insofar as Simes seeks to recover lost profits is granted, but their motion for sanctions is denied. Czygier’s and the attorney defendants’ motion for summary judgment on all claims against them is granted and they are dismissed as defendants in this action. Simes’ cross-motion for summary judgment is denied.
+SO ORDERED.
