@@ -1,0 +1,25 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "62 C 1439"
+decided: "1966-01-21"
+citations: ["251 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. Harvey KLEIN, as Trustee in Bankruptcy of Midwest Steamship Agency, Inc., Judgment Creditor-Petitioner, v. John L. ROSSI, Judgment Debtor, and Marie Rossi, Respondent."]
+source_url: "https://static.case.law/f-supp/251/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1557408
+cites_cases: ["110 Cal.App.2d 564", "114 F.2d 177", "144 F.2d 423", "148 Cal. App.2d 670", "150 F.2d 467", "150 Misc. 733", "20 F.2d 295", "232 App.Div. 63", "243 P.2d 846", "248 N.Y.S. 606", "270 N.Y.S. 386", "287 U.S. 348", "289 U.S. 670", "3 Cal.2d 384", "307 P.2d 734", "4 Cal.App.2d 298", "40 P.2d 946", "44 P.2d 350", "62 C 1439"]
+---
+
+# Klein v. Rossi
+
+## Majority (DOOLING, District Judge.)
+
+DOOLING, District Judge.
+The minimum facts established by plaintiff on the present motion framed under N.Y.C.P.L.R. § 5225(b) and, in essence, a motion for summary judgment, are that defendant John L. Rossi transferred 250 shares of the stock of United States Freight Co. to his wife, the respondent Marie Rossi, without any consideration while the present action was pending and that he did so with the intention of keeping the plaintiff from executing on the stock if plaintiff obtained judgment.
+On the present record, defendant’s solvency at the time of the transfer was at best marginal but, given the standard of Debtor and Creditor Law, McKinney’s Consol.Laws, c. 12, § 271, subdivision 1 (Cf. McCarty v. Nostrand Lumber Co., Inc., No. 2, 2d Dept. 1931, 232 App.Div. 63, 248 N.Y.S. 606) it can not be found that defendant was insolvent when he transferred to his wife on February 3,1963, twenty days after process was served on him in the present action, the 250 shares of stock that constituted his only sizable liquid asset.
+Apart from the insolvency, however, the transfer is held to have been fraudulent within the meaning of Debtor and Creditor Law § 276. A debtor is not free to transfer selected property for the specific purpose of putting it beyond his creditors’ reach, and his retention of enough illiquid assets to pay his debts, but only after delay for liquidation, does not relieve the transfer of its inherently fraudulent nature. A solvent man may, perhaps deal with his property as he will; it may be that his creditors must take the risks of his impulses of generosity as they have the advantage of his acumen in increasing his means. They do not take the risk that he will, without receiving executionable assets in exchange, put part of his property where his creditors cannot reach it for the very purpose of defeating their writs of execution against that property and of confining them to extending their executions on other property if they obtain judgments against him that he does not promptly pay. Such transfers are frauds because, however contingently they may do it, they are by their very nature calculated to hinder, delay and defeat the collection of a known debt; they are characterized as fraudulent by the dominance of the intention to withdraw the particular executionable asset from the reach of process. Cf. Empire Lighting Fixture Co. v. Practical Lighting Fixture Co., 2d Cir. 1927, 20 F.2d 295, 297; Fross v. Wotton, 1935, 3 Cal.2d 384, 44 P.2d 350, 351; Vogel v. Sheridan, 1935, 4 Cal.App.2d 298, 40 P.2d 946, 949; Heffernan v. Bennett & Armour, 1952, 110 Cal.App.2d 564, 243 P.2d 846, 858-859; Freeman v. LaMorte, 1957, 148 Cal. App.2d 670, 307 P.2d 734, 738. The words “hinder” and “delay” have separate significance: they embrace, although within the general framework of “fraudulent” purpose (Cf. Doehler v. Real Estate Board of N. Y. Bldg. Co., 1934, 150 Misc. 733, 270 N.Y.S. 386, 394 et seq.), the solvent person’s deliberate effort to stave off creditors by putting property beyond their reach even when the purpose of that is not to cheat them of ultimate payment but only to wrest from them time to restore the debtor’s affairs. Shapiro v. Wilgus, 1932, 287 U.S. 348, 353-356, 53 S.Ct. 142, 77 L.Ed. 355; Fish v. East, 10th Cir. 1940, 114 F.2d 177, 182; Cook v. Ball, 7th Cir. 1944, 144 F.2d 423, 431. Cf. Beall v. Pinckney, 5th Cir. 1945, 150 F.2d 467.
+There is not here evidence that the transfer of the stock was unreal, a subterfuge concealing John Rossi’s continuing ownership. Nonetheless his transfer of the stock did serve distinct interests of the transferor; it was in contemplation that the transfer would protect the stock from seizure and sale to the embarrassment of Rossi’s employment, for he was associated with United States Freight Co., and would avert the risk that a seizure and sale of the stock would saddle Rossi with a liability for a capital gains tax. Cf. Burnet v. Wells, 1933, 289 U.S. 670, 680-687, 53 S.Ct. 761, 77 L.Ed. 1439.
+Settle judgment setting the transfer aside within two weeks on five days’ notice.
