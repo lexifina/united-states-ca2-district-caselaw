@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1938-11-18"
+citations: ["27 F. Supp. 38"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DEVENDOR et al. v. C. & C. BUTTON & TRIMMING CO., Inc."]
+source_url: "https://static.case.law/f-supp/27/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4159170
+cites_cases: ["303 U.S. 545"]
+---
+
+# Devendor v. C. & C. Button & Trimming Co.
+
+## Majority (PATTERSON, District Judge.)
+
+PATTERSON, District Judge.
+The suit is for infringement of patent to John A. Devendor and William A. Devendor, 1,972,512, for a cloth-covered button. The patent was applied for January 8, 1934, and issued September 4, 1934.
+Prior to the alleged invention of the Devendors, cloth-covered buttons with prongs for fastening them to garments had been on the market for some years. These buttons had three parts — a cloth covering, a metal shell and a metal collet with prongs. The metal shell had a down-turned marginal flange; the collet had an upturned marginal flange to fit within the flange of the shell and had prongs struck from the body of the collet and extending downward; the cloth covering was gripped between the flange of the shell and the flange of the collet when the three parts of the button were assembled. The button was attached to a garment by a clinching operation; the prongs, after piercing the fabric, were bent against the body of the button.
+The Devendors conceived an improved collet for such a button. Their collet has a downturned flange with prongs extending downward from the free edge of the flange. This collet is better than the old collet in several ways. Since the prong material is not taken from the body of the collet there is no limitation on the length of the prongs, and relatively long prongs are advantageous where the button is to be attached to a thick fabric. Again, there is a better clinch of the button to the fabric by reason of the fact that the in-turned prongs press directly against the body of the collet; with the old collet the prongs pressed directly against the perforations in the body of the collet. Finally, the Devendor collet has more strength at the base of the prongs. The Devendors did not change the cloth covering or the metal shell of the older button; they merely changed the collet.
+Claims 1 to 5 inclusive are the claims relied on in this suit. All of them are combination claims for the button made up of cloth covering, shell and collet. Claim 1 is typical: “In a button, in combination, a hollow body having an inner body portion and a downturned peripheral flange, a collet therein, said collet substantially fitting the body and bearing against the inner body portion thereof and having a downturned marginal flange fitting within the body flange and attaching prongs extending downward from the marginal flange, and a piece of fabric covering the body and having the marginal portion thereof gripped between the body and col-let flanges.”
+The plaintiffs, who are the patentees, make and sell shells and collets of the kind described in the patent to button makers. The button makers add the kind of cloth desired by their customers' and' assemble the. parts into buttons. The defendant, a competitor of the plaintiffs, makes and sells shells and collets precisely like those described in the patent, the shells and col-lets being furnished in partitioned boxes, the shells on one side and the collets on the other. There can be no doubt that the defendant’s conduct amounts to contributory infringement. If the patent .is valid, the plaintiffs are entitled to the relief asked for.
+The . defendant, citing Lincoln Engineering Co. v. Stewart-Warner Corp., 303 U.S. 545, 549, 550, 58 S.Ct. 662, 82 L.Ed. 1008, submits that the patent is void on its face, since it shows that although the Devendors’ alleged invention was confined to the collet, their claims are for the combination of the cloth covering, the shell and the improved collet. The soundess of this argument may be passed, because there was in my opinion no patentable invention in the improved form of collet suggested by the Devendors. The earlier pronged collet for use in buttons had the essential prongs. The prongs in the Devendor collet were better .because they were not cut or struck from the body of the collet, but the advance thus made was a minor one and did not involve inventive ingenuity. Furthermore, it was shown that a “spot” or' nailhead for ornamental use on garments, Exhibit D, of the same construction as the Devendor collet, save for the fact that the flange was somewhat narrower, had been on the market as early as 1928.. This nailhead was in an art closely analogous to the ornamental button art. It required no more than ordinary mechanical skill to take this nailhead for a Gollet to be used as an element in a button. . .
+The patent is invalid for lack of invention. The bill will be dismissed, with costs to the defendant. The defendant will submit findings and conclusions in line with this opinion, the findings to include a finding that anticipation by use was not established.
