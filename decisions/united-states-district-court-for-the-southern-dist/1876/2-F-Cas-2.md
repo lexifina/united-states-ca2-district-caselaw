@@ -1,0 +1,21 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1876-11"
+citations: ["2 F. Cas. 2", "8 Ben. 538"]
+reporter: "f-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The ARTISAN."]
+source_url: "https://static.case.law/f-cas/2/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6094995
+cites_cases: ["11 Fed. 163", "13 Stat. 438", "7 Fed. 680"]
+---
+
+# The Artisan
+
+## Majority (BLATCHFORD, District Judge.)
+
+BLATCHFORD, District Judge.
+This is a libel for seamen’s wages. The libellant, Dominick White, shipped on board of the steamboat Artisan, as mate, at Sag Harbor, N. Y., in the summer of 1872, and served on her for 5 months, at $40 a month, leaving her in November, 1872. She ran between Bridgeport and New York. A balance of $80, or two months’ wages, is claimed to be due. The claimants purchased one-half of the vessel in June, 1875, and the other half of her in February, 1876, and had no notice of the libellant’s claim until this suit was brought. The libellant, during the interval between his service and the bringing of this suit, resided in Sag Harbor. This suit was commenced in March, 1876. Sag Harbor is in the eastern district of New York. From February, 1873, to April, 1S73, the vessel ran twice a week between Sag Harbor and New York. From December, 1873, to March, 1874, she was laid up at Jersey City, New Jersey. From March, 1874, to June, 1874, she ran three times a week between New York and Newburgh. From June, 1S74, for four months, she ran between New York and Sandy Hook, New Jersey. From the fall of 1874 to June, 1875, she lay at a wharf in Jersey City, in the Hudson river. From June, 1S75, for 4 months, she ran between New York and Sandy Hook. The libellant did not know what had become of the vessel, but he made no efforts to find her until the fall of 1874 when he put the matter into the hands of the proctor who filed this libel. Some time in 1875 the vessel appears to have been li-belled in the district court for the eastern district of New York, for a large number of claims. Under process in those suits she lay at a pier in the Hudson river, at the city of New York, in charge of the United States marshal for said eastern district, for 125 days, at the end of which time she was bonded. Subsequently to such bonding, the prootor in this suit enquired at the office of the clerk of the district court for said eastern district, in Brooklyn, and learned that the vessel had been libelled and bonded. No evidence is given showing that any other effort was made to find the vessel.
+Not only did the vessel ply between New York and Sag Harbor in the spring of 1873, but, during the years 1874 and 1875 she was, for long periods, in waters within the jurisdiction of this court and of the district court for the eastern district of New York. This suit was brought more than three years after the termination of the libellant’s service. By the act of February 25, 1865, (13 Stat. 438, § 2, now section 542, Rev. St.,) the district courts of the southern and eastern districts of New York have concurrent jurisdiction over the waters within the counties of New York, King’s, Queen’s and Suffolk, and over all seizures made and all matters done in said waters, and all processes or orders issued out of either of said courts, or by any judge thereof, may run and be executed in any part of the said waters. The defence set up to the libellant’s claim is that the li-bellant has, by laches, lost his lien. I think the. delay in enforcing the lien constitutes, under the circumstances of this ease, a valid defence. The libellant had a reasonable opportunity to enforce his lien, but he waited until after the rights of the claimants as bona fide purchasers intervened, and I do not think his delay is excused. 2 Pars. Mar. Law, 663; The Admiral, [Case No. 84;] The Louisa, [Id. 10.652;] The Buckeye State, [Id. 13,445;] The Lillie Mills, [Id. 8,352;] The General Jackson, [Id. 5,314;] The Key City, 14 Wall. [81 U. S.] 653; The Favorite, [Case No. 4,696;] The Harriet Ann, [Id. 6,101.] The libel is dismissed, but without costs.
