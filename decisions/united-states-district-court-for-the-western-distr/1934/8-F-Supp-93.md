@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the Western District of New York"
+docket: "443A"
+decided: "1934-08-16"
+citations: ["8 F. Supp. 93"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KELLY v. UNITED STATES."]
+source_url: "https://static.case.law/f-supp/8/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4139341
+---
+
+# Kelly v. United States
+
+## Majority (KNIGHT, District Judge.)
+
+KNIGHT, District Judge.
+One Franklin G. Grover, while in service in the World War, was granted a war-risk term insurance policy in the amount of $5,-000. The plaintiff Anna Grover Kelly, a sister, was named his sole beneficiary therein. The insured died March 19, 1919: Regular monthly payments in the amount specified in the policy of insurance were made through the United States Veterans’ Bureau to said named beneficiary up to and including the 30th day of September, 1920:
+At his death Franklin G. Grover left him surviving a widow, and from October 1,1920, to and including January 18, 1929', regular monthly payments in the amount specified in the policy were paid to such widow. From January 18, 1929, to the time of the commencement of this action, regular monthly payments have been made to the plaintiff.
+This action is brought to recover regular monthly payments of insurance in accordance with the terms of the policy of insurance covering the period of time from October 1, 1920, to January 18, 1929, during which period such payments were made to the widow. This case is submitted on an agreed state of facts. The alleged right for recovery arises out of a change in the interpretation of the statute under which certain individuals are paid benefits from war-risk term insurance policies.
+The policy in question lapsed on the veteran’s discharge from the service in 1918. The Veterans’ Bureau, however, held that the $60 bonus provided by law for ex-service veterans was applicable to revive the policy. Subsequent to October 1, 1920, payments to the plaintiff were discontinued by reason of the opinion of the Comptroller that such bonus was not applicable to revive the policy. On July 2, 1926, section 309 of World War Veterans’ Act was enacted (38 USC A § 516b). This specifically authorized the use of bonus moneys to revive war-risk insurance policies. Thereafter the Veterans’ Bureau held that the policy in question was revived, but it also, at the same time, held that payments on the policy were restricted to the class of beneficiaries enumerated in section 305 of the World War Veterans’ Act, as amended in 1926 (38 USCA § 516 and note). The widow, and not the sister, came within such class. Consequently payments dating from October 1, 1920, through January 18, 1929, were paid to the widow. The plaintiff promptly protested payments to the widow and asserted her own rights to the payments. In January, 1929, reconsideration was given by the Comptroller General to the question as to who was entitled to these payments. The prior action of the Veterans’ Bureau was reversed, and it was determined that this plaintiff was entitled to take as beneficiary under the policy.
+The effect of the decision of the Comptroller General is that the plaintiff was entitled to receive the regular monthly payments on this insurance policy from the date of the veteran’s death. The only question at issue is whether payments made as aforesaid to the widow by the direction of the Veterans’ Bureau prevents recovery by this plaintiff of the sums so paid. It is the contention of the government that, where an administrative officer of the government adopts an interpretation of a statute under which persons are paid benefits, a change in interpretation does not divest the person so paid of his right to the payments'and that the payments to the widow in this ease were, therefore, valid. It is further urged that payment to plaintiff of insurance installments for the period during which the widow was paid installments would increase the government’s liability beyond that authorized by statute and that no administrative officer of the government has the right so to do.
+The war-risk insurance policy is a contract between the insured and the government. The benefits under this policy of insurance, as finally construed by the Veterans’ Bureau, were payable to the plaintiff. Whether the payments to the widow were valid is immaterial. The Veterans’ Bureau is a liody created by law. As such it has no authority beyond that given by statute. It has no right to divest the rightful beneficiary of any interest in this policy. The statute specifically provides for the payment of benefits to certain individuals of which the plaintiff was one and that obligation must he met. It seems to me that the same rule of determination should apply as would be applicable in the ease of the payment of money by an individual to one not legally entitled to receive it.
+No question is raised regarding the right of the plaintiff to bring this action. Plaintiff is entitled to recover against the defendant the amount of the benefits paid the widow from October 1,1920', to January 18,1929.
