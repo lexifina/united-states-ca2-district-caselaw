@@ -1,0 +1,39 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1937-07-23"
+citations: ["20 F. Supp. 6"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re R. CARRILLO & CO., Inc."]
+source_url: "https://static.case.law/f-supp/20/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4172214
+cites_cases: ["184 U.S. 1", "271 U.S. 191"]
+---
+
+# In re R. Carrillo & Co.
+
+## Majority (LEIBELL, District Judgé.)
+
+LEIBELL, District Judgé.
+Upon this motion, brought on by order to show cause, the trustee seeks the following relief:
+(1) An order vacating two orders heretofore made by this court on December 7, 1936, and March 11, 1937;
+(2) An order requiring M. Jay Kramer to “account and turn over to the trustee the checks or the proceeds thereof which ■ were received by M. Jay Kramer from Strauss & Hedges, and any and all moneys received by M. Jay Kramer, which represented import duty refunds and abatements of excessive customs duties of R. Carrillo & Co., Inc.”; and
+(3) An order holding Kramer in “contempt of this court and fined the sum of $416.36, representing 50% of the total refunds collected by Strauss & Hedges, upon his failure to account and to turn over to the trustee herein.”
+It appears that the above-named bankrupt was adjudicated on January 9, 1933, and at the final meeting of creditors held on March 26, 1934, certain uncollected accounts receivable were offered for sale and purchased by M. Jay Kramer for $25. These accounts had been listed by the trustee in its final report, and that list was referred to in the referee’s order confirming the sale to Kramer and in the written assignment of said accounts given Kramer by the trustee. The list did not include a claim of the bankrupt against the government for the refund of excess customs duties which had been charged against merchandise imported by the bankrupt some years prior thereto. In 1925 the bankrupt had retained customs attorneys to secure a refund of said excess duties. For all that appears, the bankrupt was wholly unmindful of this claim in 1933 and made no mention of it in its schedules of assets filed in this court.
+lu September, 1936, a decision was rendered by the Customs Court granting refunds of duties paid by the bankrupt. Apparently, bankrupt’s customs attorneys communicated with the Irving Trust Company, which had acted as trustee of the bankrupt’s estate, but' had been discharged of its trust. A check for the net proceeds of the refund, after deducting attorneys’ fees, was mailed to the Irving Trust Company, which on December 3, 1936, wrote to Kramer as follows:
+“We were Trustee in Bankruptcy of this company and certain uncollected accounts receivable of the bankrupt were sold by the Referee to a Mr. M. Jay Kramer, whose address, according to our records, "was 1472 Broadway, New York, N. Y. We have been unable to reach Mr. Kramer at that address. The telephone book shows your name and indicates that you are in the collection business. Accordingly, we thought it possible that you were the purchaser of these accounts.
+“$77.63 has come into our possession covering refund of the excess import duties by the bankrupt. Before turning this money over to the Clerk of the Court, to be held for distribution to the creditors, we desire to inquire of the purchaser of the accounts receivable whether he believes that these claims were among the accounts purchased by him.
+“We will appreciate hearing from you.”
+The trust company wrote to Kramer upon the erroneous assumption that he had purchased this claim for a refund. The trust company, if it had investigated its own records, would have seen that Kramer had no claim whatsoever to the refund.
+Thereafter, on or about December 7, 1936, Kramer made ex parte application (to which he attached a copy of said letter) and obtained an order of this court directing the Irving Trust Company, formerly trustee of the bankrupt’s estate, to turn over to Kramer’s attorney the customs refund checks, which had come into the hands of the trustee. The application was made on an affidavit by Kramer stating that he was the “present owner of the uncollected accounts receivable of the estate by virtue of an assignment dated the 30th day of March, 1934, executed by the Irving Trust Company as Trustee in Bankruptcy of the above estate.” No copy of the assignment or of the list of accounts purchased by Kramer was annexed to the application. Upon this representation an order was signed on December 7, 1936, directing Irving Trust Company to turn over to Kramer’s attorney checks aggregating the sum of $77.63.
+Upon a subsequent application, which referred to the prior order of the court, dated December 7, 1936, and which repre-. sented to the court that Kramer was entitled to the proceeds of certain additional checks totaling $755.10, subject to an agreed fee of 50 per cent, payable to the customs attorneys, a second order of the court, to which the said customs attorneys consented, was entered March 11, 1937. It does not appear that notice of this second application was given to any other party' — although that is not important on the determination of this motion. The order of March 11, 1937, directed the bankrupt’s customs attorneys to turn over to Kramer refund checks totalling $755.10 after deducting their agreed fed of $377.55.
+Subsequently the bankruptcy proceeding was reopened and a trustee appointed on May 4, 1937. The new trustee has made this present motion.
+The motion will be granted to the extent that it asks that these orders be set aside. They were signed in reliance upon incorrect statements contained in Kramer’s affidavit, which made it appear that Kramer’s purchase of the outstanding accounts had included this claim for a refund of excessive customs duties.
+Respondent resists any determination of this motion. He bases his opposition not on the merits but on jurisdictional grounds, claiming, among other things, insufficient service of the order to show cause herein. The order to show cause was served on Joseph Dannenberg, an attorney, who on June 17, 1937, noted on the back of the original motion papers “Copy received June 17, 1937, Joseph Dannenberg, attorney for Kramer.” The same attorney in these bankruptcy proceedings had written the attorney for the present trustee on June 9, 1937, as follows:
+“Please be advised that I am the attorney for M. Jay Kramer who sent me your letter of the 8th inst.
+“Kindly advise me of the adjourned date of the examination.”
+At least to the extent that this motion sought to vacate the above-mentioned ex parte orders, it was proper for the court to direct service of the order to show cause on Kramer or his attorney. Joseph Dannenberg is Kramer’s attorney. The order to show cause was served on him and he appeared for Kramer, although specially,, on the return day of the order to show cause.
+The balance of the motion is denied, with the recommendation that the trustee proceed before the referee in bankruptcy and there conduct a searching inquiry into all the pertinent facts and circumstances in relation to the submission to the court of the papers on which the orders of December 7, 1936, and March 11, 1937, were signed. The referee has power to issue his order directing any persons or corporations, who may have property of the bankrupt in their possession, to show cause why they should not turn over said property to the trustee. Mueller v. Nugent, 184 U.S. 1, 22 S.Ct. 269, 46 L.Ed. 405. If the claims of those in possession of the property are found to be merely colorable, the matter may be summarily determined. Harrison v. Chamberlin, 271 U.S. 191, 46 S.Ct. 467, 70 L.Ed. 897.
+Settle order on notice.
