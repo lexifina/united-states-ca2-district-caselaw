@@ -1,0 +1,100 @@
+---
+court: "United States District Court for the Southern District of New York"
+docket: "80 Civ. 6761(LBS)"
+decided: "1998-06-15"
+citations: ["7 F. Supp. 2d 396"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES of America, Plaintiff, Yonkers Branch—NAACP, et al., Plaintiffs-Intervenors, v. YONKERS BOARD OF EDUCATION, et al., Defendants."]
+source_url: "https://static.case.law/f-supp-2d/7/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11687305
+cites_cases: ["100 L.Ed.2d 922", "108 S.Ct. 2821", "486 U.S. 1055", "573 F.2d 134", "624 F.Supp. 1276", "837 F.2d 1181", "880 F.Supp. 212", "96 F.3d 600", "97 S.Ct. 2749", "984 F.Supp. 687"]
+---
+
+# United States v. Yonkers Board of Education
+
+## Majority (SAND, District Judge.)
+
+OPINION
+SAND, District Judge.
+Of the many issues referred by this Court to Dr. Joseph Pastore, Jr., the Court’s designated Monitor for school-related matters, all but one issue have been consensually resolved. As the Yonkers Board of Education (‘YBOE”) appropriately notes:
+The Monitor’s Advisory Opinion of May 6, 1998 (“Advisory Opinion”) reflects the culmination of a remarkably successful mediation and dispute resolution process conducted by Dr. Pastore. With the exception of funding allocation issues ... the parties with Dr. Pastore’s guidance and direction, have resolved all outstanding major issues regarding implementation of EIP II pursuant to this Court’s Remedy Order of October 8, 1997....
+(YBOE’s Comments and Objections to Monitor’s Advisory Op. of 5/6/98, at 1.)
+In his Advisory Opinion, Dr. Pastore proceeded on the premise that the City and State were equally culpable for the creation and maintenance of vestiges of segregation in the Yonkers Public Schools (‘YPS”). He strove to devise a formula which would effectively resolve the allocation question for the fiscal year about to commence and to provide guidance for the years ahead while recognizing that the many variable components in the formula might necessitate periodic revision of the formula. The formula seeks to recognize and permit the independence of the basic structure of present State aid to education. Believing that the full YBOE budget was of a “holistic nature,” Advisory Op. at 24, his proposed formula recognized the total YBOE budget as an influence on the maintenance of budgetary effort, see infra at 400-01, the ultimate effectiveness of EIP I and EIP II funding and the ability of the City to fund the remedy equally with the State.
+All parties have raised objections to some aspects of the proposed formula and we treat their objections herein.
+I. COMPARATIVE FAULT
+The State advances the argument that as between the City and itself it is the less culpable party and should therefore bear less of a burden in financing the costs of vestige removal. The State cites .examples of other state/city allocations in which it contends states more culpable than New York were required to bear far less than 50% of the costs. But superficial comparisons of other states add little to a meaningful analysis of the issues before the Court because the facts of each case differ and the role which the state plays with respect to education also differs. There is no question that under the State Constitution and in practice the New York State Department of Education played a greater role with respect to education than is the case in most states.
+Having spent countless hours during the past fifteen plus years studying the causes for the creation and maintenance of racial segregation in the Yonkers public schools and having made extensive findings of fact as to the roles of the City and State this Court is of the opinion that there can hardly be a more pointless debate than that over whether the City or State bears the greater responsibility for the vestiges of segregation now present in the public schools of Yonkers. The simple clearly established fact is that there would have been no segregation with respect to schools in Yonkers had the City decision-makers not acted in a racially discriminatory manner. But, had the State appropriately discharged its obligations in a timely fashion — having both knowledge of the unlawful conditions and the power to act — racial segregation would have been eliminated from the Yonkers public schools decades ago and there would today be no vestiges of that segregation in those schools. The conclusion that responsibility for vestiges lies equally with the City and State is, in this Court’s view, unassailable and we proceed, as did Dr. Pastore, with that as an underlying premise for any allocation formula.
+II. ABILITY TO PAY
+The City argues that imposing upon it financial obligation which it cannot meet without significantly raising taxes would be inequitable for many reasons. Thus, the City urges that:
+(1) increased taxation in Yonkers would impose burdens on the members of the class who are themselves the victims of prior discrimination;
+(2) increased taxation would make it more difficult to retain in Yonkers middle class residents who might otherwise “vote with their feet” and move elsewhere compounding the task of achieving racial diversity in the public schools;
+(3) the City alone has been bearing the fiscal burden of past remedial measures and is less able than the State, which has large budget surpluses, to contribute to the costs of the proposed remedial measures;'
+(4) the State has long under-funded Yonkers when compared to other similarly situated cities in New York.
+The State counters by asserting that Yonkers has not exhausted its tax limits under the State Constitution and that, in any event, taxes raised to satisfy a court order are not subject to any such restraints, that Yonkers, in fact, had a budgetary surplus ($13 million, a small fraction of the State’s surplus) for the current year and that what is really at issue here is the ability of the City to eliminate certain special taxes which had been recently imposed.
+We believe that it is possible to arrive at a formula which will not impose any extraordinary burdens on either party. The State cannot escape an obligation to contribute to the costs of remedial measures merely because the City has not raised every dollar in taxes it could raise under the State Constitution. The Court will strive to achieve a balance which assures that the remedy will, in fact, be adequately funded and that the burden on both the State and City is fair and proportionate.
+III. USE OF THE TOTAL SCHOOL BUDGET
+As we noted above, the formula recommended by Dr. Pastore utilized as one factor the total YBOE budget. The State objects, with some support from the NAACP, (see Tr. Oral Arg. of 6/8/98, at 58-64), that utilization of a total school budget in any fashion in the allocation formula
+violates the principles that the remedy must be tailored to the violation and must be “designed as nearly as possible to restore the victims” of the prior segregation to a position they would have occupied absent such segregation. Milliken II [v. Bradley], 433 U.S. [267] 280-81 [97 S.Ct. 2749, 53 L.Ed.2d 745 (1977)] ... Because the remedy “can reach no further than the incremental harm caused by the infraction itself’ Arthur v. Nyquist, 573 F.2d 134, 146 (2d Cir,1977[8]), the State defendants’ obligation to provide financial support for desegregation in Yonkers is limited to the elimination of vestiges of prior segregation.
+(State Defendants’ Response to Monitor’s Advisory Op. of 5/6/98, at 8-9.)
+There are three major components to the total expenditures for the Yonkers Public School System. These are (1) the basic YBOE budget; (2) EIP I expenditures; and (3) EIP II expenditures. Although EIP II has a separate budget and there should be relatively little difficulty in categorizing a particular expenditure as being incurred in implementation of EIP II, this was not true with respect to EIP I. Dr. Pastore was apprehensive that an allocation formula which was based only on EIP I and EIP II costs “would not only fail to recognize all YBOE expenditures as systemically important to the Order, but would expose the Order to an even more intense series of annual debates over what constitutes basic versus EIP I and EIP II expenditures.” Advisory Op. at 20.
+The State vigorously disputes the contention that serious difficulties will arise in categorizing particular expenditures as EIP I or basic budget expenditures. Moreover the State asserts that although EIP I costs are not now presently separately identified by the YBOE, Frank Lutz, the Executive Director of Finance for the Yonkers Public Schools, has testified that this could be readily done. (Tr. Oral Arg. of 6/8/98, at 71.)
+We believe that in any event a separate more precise determination of annual EIP I expenses will be necessary. For example, Dr. Pastore’s eight year projection of the application of the proposed formula (Ex. I, June 8, 1998, Table I) utilizes the figure of $50 million for EIP budget for the fiscal year 1998. The City cites the testimony of Lutz given in 1997 that “the true annual cost of EIP I is over $70 million.” Objections and Memorandum of Defendant City of Yonkers Response to the Monitor’s Advisory Op. on the Allocation of the Burden of Funding, EIP II, at 24 n. 7.
+It appears to the Court that there is simply no escape from the task of separately identifying basic budget and EIP I costs although the Court appreciates that the line between a basic expenditure and an EIP I expenditure may often be difficult to draw. {E.g., Is an increase in costs of maintenance and repair designed to attract and retain majority students an EIP I expenditure? (See Tr. Oral Arg. of 6/8/98, at 68.)) Perhaps the recent ability of the parties to reach consensus on other budgetary matters suggests that the disputation over the categorization of expenses may not be as great in the future as it has been in the past or as Dr. Pastore apprehends. Advisory Op. at 20.
+A more accurate quantification of the costs of EIP I is also of moment as one periodically revisits in future years the effectiveness and appropriateness of the formula we promulgate herein.
+Accordingly, the YBOE is directed to institute such accounting and record keeping measures as will clearly identify EIP I costs and to distribute quarterly to the parties a statement showing EIP I costs incurred in the prior quarter as well as an estimate of EIP I costs projected for the following quarter. The costs of preparing the foregoing shall themselves be appropriate charges to EIP I.
+On the assumption therefore that the parties will have hard numbers for both EIP I and EIP II costs, an allocation formula specifically related solely to these costs becomes possible. We will adopt such a formula, thus meeting and obviating the objection that the State is being compelled in any way to fund non-vestige-removal matters.
+Of course, as Dr. Pastore emphasizes in the Advisory Opinion, the YPS will not succeed in its mission if EIP I and II are fully implemented but the basic school system deteriorates. EIP I and II can function only if they are imposed on a healthy effective basic school structure. A Maintenance of Effort Agreement, which requires the City to fund its schools adequately and not diminish the school budget by offsetting special benefits received has been in place since December 27,1988 and will continue in force.
+IV. THE FORMULA
+Although we are of the opinion that the State and City should ultimately share equally the cost of EIP I and EIP II expenditures, we also believe that some deferral of the City’s financial burden is appropriate. We reach this conclusion in light of the fact that the City has from 1986 until 1997 borne all the costs of EIP I and is emerging from a period of financial constraint.
+We adopt a formula which would cause the State and City share of the total EIP I and EIP II costs incurred in the past years and anticipated for the following years to be as follows:
+YEAR STATE SHARE CITY SHARE CUMULATIVE COSTS OF EIP I and II
+I 75% 25%
+2 70% 30%
+3 65% 35%
+4 60% 40%
+5 55% 45%
+6 50% 50%
+7 50% 50%
+8 50% 50%
+9 50% 50%
+Applying this formula to the figures reflected for EIP I and EIP II contained in Ct. Ex. 1, Tab. 1, yields the following:
+STATE TO PAY SUCH AMOUNT AS BRINGS ITS YEAR EIP I EIP II TOTAL CUMULATIVE CONTRIBUTION STATE CITY BUDGET BUDGET EIP I TOTAL TO_% OF CONTRIBUTION CONTRIBUTION AND CUMULATIVE EIP II TOTAL OF EIP I AND EIP II COSTS
+1 $50 $ 0 $ 50 $ 50 75% 37.5 12.5
+2 50 35 85 135 70% 57 28
+3 55 40 95 230 65% 55 40
+4 60 55 115 345 60% 57.5 57.5
+5 65 70 135 480 55% 57 78
+6 70 105 175 655 50% 63.5 111.5
+7 75 85 160 815 50% 80 80
+8 80 85 165 980 50% 82.5 82.5
+9 85 85 170 1150 50% 85 85
+1150 575. 575.
+If, as the City contends the $50 million figure for EIP I in the YBOE FY ’98 is grossly underestimated and $70 million is a more accurate figure, then the figures would, of course, be revised accordingly. .
+The question of determining the accurate figure for EIP I should be resolved by the Monitor after such proceedings as he shall deem appropriate.
+The State Judgment Payable Dates recommended in the Advisory Opinion on page 25 are adopted and approved.
+The Court’s formula clearly encourages the YBOE and City to treat as many expenditures as possible as EIP I expenditures, creating the categorization problems which Dr. Pastore sought to avoid. The Court believes that preservation of the concept of requiring the State to contribute only to vestige-removal costs requires that this be done unless it is simply impossible or impracticable to distinguish between basic YBOE costs and EIP I costs. Experience will clarify this issue.
+Elimination of non-Court ordered State aid from the computation is another issue which time will illuminate. The assumption is that the State will make its determinations concerning the grants of State aid independently of EIP I and EIP II contributions and that there is no need for this item to be included in the equation.
+The ratio of present and projected State aid to the basic YBOE budget can readily be ascertained by comparing columns (2) and (7) in Ct. Ex. I, Table I. The formula contained herein assumes that this ratio will remain fairly constant or that any changes will enhance the City’s ability to fund the Yonkers school system. A significant alteration in the relationship between these two components of the total Yonkers educational cost picture may occasion revisiting the formula stated above.
+V. REVISING THE FORMULA
+As Dr. Pastore has recognized, (Recommendation 4, Advisory Op. at 26), experience may disclose “the possible need to revisit the questions upon the reasonable petition of any party or if the Court believes such apportionment formula requires revision to assure the effectiveness of its Order.” We adopt this recommendation. However, to satisfy the obvious need for a degree of stability to enable planning and reasonable rebanee on funding, no such revisions may be sought with respect to the 1998-1999 budget. Any appbcation for revision of the formula must demonstrate that there has been a significant change in its underlying assumptions or the circumstances of the parties.
+The hypothetical nature of the figures contained in the chart explaining the formula, especially those for the later years, cannot be overemphasized. As noted, see supra at 400 n. 10, actual EIP expenditures rather than projections will be controlbng. We have extended the chart for the full eight years projected for EIP II for the same reasons that the Monitor did, see supra at 397, and so that a comparison may be made with the projections set forth by Dr. Pastore in Court Exhibit I, Table I.
+The State has expressed the concern that the availability of EIP funding may deter fund recipients from seeking a declaration that unitary status has been achieved at a time when this has in fact occurred. The Court has assured the parties, (Tr. Oral Arg. of 6/8/98, at 81), that there is no such danger because the Court sua sponte or on the appbcation of any party, including the State, will sympathetically entertain an appbcation for such a declaration as soon as circumstances will warrant.
+The question arises as to what would occur if a unitary status were achieved at a time when the State’s share of EIP outlays exceeds fifty percent. The Court’s response is that we will address that problem if and when happily it should arise.
+VI. APPORTIONMENT OF CAPITAL COSTS
+The Monitor’s conclusion that the Court “recognizes the current State building aid process as the basis for apportioning YBOE capital costs (faeibties only) supportive of the YBOE Five Year Capital Plan,” Advisory Op. at 31, has generated relatively little controversy and the Court adopts the Monitor’s Recommendations as to capital costs with the fobowing addendum: adherence to the capital improvement program is in compbance with a Court directive and is not limited to State categories of allowable costs which may impose limitations on other capital programs.
+CONCLUSION
+The Court recognizes that more detail may be required to implement the foregoing into an order which wih serve all of the budgetary and other needs of the parties. The Court remands to the Monitor the task of preparing, in consultation with the parties, an order embodying the foregoing.
+Settle Order.
+.Education Improvement Plan I (EIP I) refers to the program called for by this Court's Order of May 13, 1986 which placed major emphasis on the assignment of students and school district reorganization. EIP II refers to the programs called for by this Court’s Order of 10/8/97 specifically designed to eradicate vestiges of segregation found to be present in the YPS.
+. See United States v. Yonkers Bd. of Educ., 624 F.Supp. 1276, 1288-1521, (S.D.N.Y.1985), aff'd, 837 F.2d 1181 (2d Cir.1987), cert. denied, 486 U.S. 1055, 108 S.Ct. 2821, 100 L.Ed.2d 922 (1988).
+. See United States v. City of Yonkers, 880 F.Supp. 212, 217-229 (S.D.N.Y.1995), rev’d on other grounds, 96 F.3d 600 (2d Cir.1996).
+. "It was determined during the hearing leading to the August 14, 1997 Advisory Opinion that from 1988-93, the State assumed between 66% - 72% of the Buffalo school budget; 49% - 52% in Rochester; 54% - 62% in Syracuse; and 39% - 43% in New York City, while the range for Yonkers during that period was 31% - 37%." Advisory Op. at 15 n. 2.
+. The State has no dispute with the appropriateness of the EIP II operating budget. Advisory Op. at 3.
+. We recognize that we have previously approved Recommendations of the Monitor which treated EIP I costs and the YBOE basic costs together. See Monitor’s Advisory Op. of 8/14/97, at 12, adopted in United States v. Yonkers Bd. of Educ., 984 F.Supp. 687 (S.D.N.Y.1997). We conclude that in the present context, i.e., where both EIP I and EIP II costs are to be allocated, that is no longer desirable.
+.This figure was determined during the July 14, 1997 apportionment hearing before the Monitor with respect to EIP I (Exhibit 3) p. 142.
+. "The City will maintain its budgetary effort without regard to any increases in State aid to education and shall not reduce municipal funding to the Board in response to, or as a result of, actual or anticipated increases in State aid for education.” Memorandum of Understanding between the City of Yonkers and Yonkers Board of Education Regarding Maintenance of Budgetary Effort, Dec. 27, 1988, at 2.
+. To the extent that the State has made interim EIP payments "appropriate adjustments can be made to the extent that either party has borne more than its ultimately determined share.” Order of 3/24/98.
+. Annual judgments upon the State are calculated as a percentage of the cumulative costs of the EIP I and EIP II remedies minus previous years payments. Thus for 1999 the judgments would be 70% of $135 minus the 1998 payment of $37.5. Of course if actual expenditure are above or below those projected for these purposes, the actual expenditures would control.
