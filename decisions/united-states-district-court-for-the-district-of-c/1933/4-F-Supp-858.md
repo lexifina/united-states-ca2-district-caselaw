@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the District of Connecticut"
+docket: "13203"
+decided: "1933-05-12"
+citations: ["4 F. Supp. 858"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re BROOKS SAMPLE FURNITURE CO."]
+source_url: "https://static.case.law/f-supp/4/cases/0858-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4128257
+cites_cases: ["120 A. 295", "181 F. 667", "190 U. S. 342", "23 S. Ct. 757", "240 U. S. 581", "31 L. R. A. (N. S.) 270", "33 A. L. R. 499", "98 Conn. 414"]
+---
+
+# In re Brooks Sample Furniture Co.
+
+## Majority (HINCKS, District Judge.)
+
+HINCKS, District Judge.
+The order brought under review disallowed: future rent.
+As to whether future rent is a .provable claim in bankruptcy has been differently decided in different circuits as the Supreme Court itself has remarked in the Chicago Auditorium Case, 240 U. S. 581, 36 S. Ct. 412, 60 L. Ed. 811. But, as the petitioners in their brief point out, the Supreme Court cites the Second Circuit as upholding the negative of that proposition on the strength of the decision in the Second Circuit in the case of In re Roth & Appel, 181 F. 667, 31 L. R. A. (N. S.) 270. As I understand it, the Circuit Court of Appeals in this circuit has ne7er altered, or even questioned, its decision in Re Roth & Appel, and it is an essential part of' its holding in that ease that rent accruing after the filing of a petition in bankruptcy against the lessee is not provable against the estate. The Chicago Auditorium Case, and in this state, Napier v. Peoples Store Co., 98 Conn. 414, 120 A. 295, 33 A. L. R. 499, were cases in which the rent of real estate was not involved.
+Consequently, in this district we are constrained by the authority of the decision in the case of In re Roth & Appel. The order of the referee is therefore'confirmed.
+For Rehearing of Petition in Review.
+A petition in review of an order of the-referee disallowing future rent' having been dismissed and the order of the referee confirmed by memorandum of decision dated May 12,1933, and the petitioner having thereafter made application for rehearing upon the-ground that the provisions of the amendment to the Bankruptcy Act, approved March 3, 1933 (11 USCA § 201 et seq.), have application to the subject-matter and require a decision favorable to the petitioner’s claim for future rent, said application for rehearing is-hereby denied.
+Section 2 of the amendment to the Bankruptcy Act (11 ÜSCA § 201 note) provides: “Proceedings under Section 1 of this Act maybe taken in proceedings in bankruptcy which are pending on the effective date of this Act.” This is not the same as saying that proceedings under section 1 may be taken when proceedings' prior to the effective date' of the-Amendment had -already gone to an adjudication. It may well be that Congress meant by the provision quoted only that resort might be-had to section 1 in eases which were pending but not yet adjudicated. Indeed, it is difficult to understand how a petition, voluntary or involuntary, which had already been adjudicated, could properly be described as “pending.”
+In any event, it is clear that proceedings under section 1 of the amendment can be initiated only by the “debtor.” Here it does not appear that the “bankrupt” has even attempted to transform himself into a “debtor” by invoking the provisions of section 1 of the amendment, and until he does so certainly this petitioner cannot claim the benefits of a “creditor” under section 1. For it is altogether clear that the amendment of March 3, 1933, was intended for the benefit of debtors and not of creditors. Indeed, .in section 73 of the amendment (11 USCA § 291), it is specifically provided that jurisdiction thereunder shall attach “in proceedings for the relief of debtors.”
+But, quite apart from the general applicability of the amendment of March 3, 1983, to the pending ease, it must be held that the provisions for the provability of future rent contained in section 74 (of the amendment [11 USCA § 202]) have no application to estates administered under the original act. For section 74 (a), 11 USCA § 202 (a), specifically states that a claim for future rent is included in the term “debt” only “for the purposes of an extension proposal under this section” ; and that the holder of a claim for future rent is included in the term “creditor” only “for the purposes of an extension. proposal under this section.” True, section 74 (a) concludes with this sentence : “A claim for future rent shall constitute a provable debt and shall be liquidated under section 63b [section 103 (b)] of this title.” But section 63b of the act (11 USCA § 103 (b) has to do only with the liquidation, and not at all with the provability, of claims. This has long since been authoritatively settled. Dunbar v. Dunbar, 190 U. S. 342, 23 S. Ct. 757, 47 L. Ed. 1084.
+Consequently, the final sentence of section 74 (a) of the amendment can only be construed to mean that a claim for future rent shall constitute a provable debt for purposes of an extension proposal under section 1 of the amendment (not for purposes of administration under the original act), and that it shall be liquidated for all purposes in connection with an extension proposal, in the same way that all unliquidated claims had theretofore been liquidated, under section 63b of the act (11 USCA § 103 (b). Since, as I have just pointed out, section 63b of the act does not define provable claims, it would not make sense to construe the final sentence of Section 74 (a) as meaning that a claim for future rent shall constitute a provable debt wider section 63b of this act. The phrase just italicized can have meaning only if limited to the liquidation, as distinguished from the provability, of the claim.
+Moreover, any other construction would do violence to the context, which, as I have already indicated, is concerned only with the provability of future rent in connection with extension proposals. And, indeed, the preamble of the amendment expressly states that the old act is amended by addling thereto a new chapter; thus implying that the old act is not amended or modified.
+Consequently, my previous order confirming the disallowance of the claim must stand.
