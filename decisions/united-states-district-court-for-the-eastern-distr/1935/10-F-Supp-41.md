@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "27496"
+decided: "1935-02-01"
+citations: ["10 F. Supp. 41"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re PRUDENCE CO., Inc."]
+source_url: "https://static.case.law/f-supp/10/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4143739
+cites_cases: ["10 F. Supp. 33", "107 N. E. 644", "121 N. Y. S. 489", "136 App. Div. 747", "179 N. E. 487", "204 N. Y. 313", "213 N. Y. 280", "219 App. Div. 256", "219 N. Y. S. 732", "258 N. Y. 257", "72 F.(2d) 719", "97 N. E. 737"]
+---
+
+# In re Prudence Co.
+
+## Majority (MO SCO WITZ, District Judge.)
+
+MO SCO WITZ, District Judge.
+On October 24, 1934, a petition was filed herein by creditors of the Prudence Company, Inc., for .reorganization of the said corporation under section 77B of the Bankruptcy Act (11 USCA § 207). The Superintendent of Banks of the State of New York, who had theretofore taken possession of the assets and property of the said corporation pursuant to the authority vested in him by section 57 of the Banking Law of the^ State of New York, filed an answer controverting the material allegations of the petition and moved to dismiss the same for insufficiency.and lack of jurisdiction on the part of the court.- During the pendeney of the trial of the issues raised thereby, a voluntary petition for reorganization under section 77B was filed by the debtor corporation on January. .24, 1935. The Superintendent of Banks moved to dismiss the. voluntary petition for reorganization upon the ground that the court lacked jurisdiction in the premises, and also moved for an order striking said voluntary petition from the records of this court upon the ground that the officers and directors of the Prudence Company, Inc., had no right, power, or authority to act for or on behalf of said corporation while the said corporation, its business and property, were in the possession.of and subject to the control of the Superintendent of Banks pursuant to the provisions of the Banking Law of the State of New York.
+This court has already determined that the aforesaid creditors’ petition for reorganization of the corporation was filed in good faith and that said corporation did not in fact do a banking business, and in an opinion rendered simultaneously herewith [see In the Matter of Prudence Company, Inc., Debtor (D. C.) 10 F. Supp. 33, No. 27028] has held that said corporation is not a banking corporation within the purview of section 4b of the Bankruptcy Act, as amended in 1910 (11 USCA § 22 (b), and therefore is amenable to reorganization proceedings under section 77B. Accordingly, the motion in so far-as it is addressed to the court’s jurisdiction is hereby denied.
+The remaining question before the court is whether the officers or directors of said corporation had the power and authority to file the aforesaid voluntary petition herein on behalf of said corporation. The Superintendent of Banks, in effect, claims that he alone is vested with the power to file such a petition. This contention cannot be sustained.
+The statutory enumeration of the Superintendent of Banks’ duties and powers which follow upon the taking possession of a corporation under section 57 of the Banking Law of the State of New York clearly indicates the intent of the State Legislature to transfer to the superintendent the general duties and functions which had theretofore been exercised- by receivers. The Superintendent of Banks is merely a statutory receiver. Isaac v. Marcus, 258 N. Y. 257, 179 N. E. 487; Lafayette Trust Co. v. Beggs, 213 N. Y. 280, 107 N. E. 644; In the Matter of Union Bank, 204 N. Y. 313, 97 N. E. 737; Yokohama Specie Bank v. Chinese Merchants’ Bank, 219 App. Div. 256, 219 N. Y. S. 732; Lafayette Trust Co. v. Higgenbotham, 136 App. Div. 747, 121 N. Y. S. 489. As such his possession of the assets and property of the corporar tion did not dissolve it, and it continued to exist as a corporate entity.
+Nothing contained in any of the provisions of the Banking Law gives to the Superintendent of Banks the power to file a petition in bankruptcy or a petition for reorganization. Clearly no theory of law can support the view that there should be read into the statute the implication that such power was conferred. The superintendent’s possession under the statute does not give rise to such power, and there is no provision in the Banking Law of the State of New York which deprives a corporation of the right to file a petition in bankruptcy or for reorganization. In the case of In re Faour (C. C. A. 2) 72 F.(2d) 719, the possession by the Superintendent of Banks of the assets and property of private hankers did not prevent them from filing a petition in bankruptcy, and no reason exists why a corporation through its directors cannot likewise avail itself of this privilege after the superintendent has taken possession of its assets.
+The motions of the Superintendent of Banks are accordingly denied, and an order will he entered consolidating the creditors’ petition for reorganization (No. 27028) with the debtor’s petition herein (No. 27496).
