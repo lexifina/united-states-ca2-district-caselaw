@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the Southern District of New York"
+docket: "65493"
+decided: "1936-08-18"
+citations: ["16 F. Supp. 55"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re KROLICK."]
+source_url: "https://static.case.law/f-supp/16/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4154571
+cites_cases: ["128 F. 205", "2 F.Supp. 537", "292 U.S. 234", "50 F.(2d) 856", "6 F.Supp. 753", "77 A.L.R. 956", "93 A.L.R. 195"]
+---
+
+# In re Krolick
+
+## Majority (LEIBELL, District Judge.)
+
+LEIBELL, District Judge.
+Montrose Merchandise Corporation, a creditor of the above-named bankrupt, asks the court to vacate an order herein dated July 20, 1936, which enjoins the Montrose Merchandising Corporation from “taking any steps, except in bankruptcy, to enforce and collect an assignment of wages dated February 15, 1935, in favor of said creditor and against Stanley J. Krolick also known as Stanislaus J. Krolick, the bankrupt herein, for Forty-Eight and 08/100 ($48.08) Dollars, for a period of twelve months after the 8th day of June, 1936,” the date of the adjudication in bankruptcy, or, if the bankrupt applies for a discharge at an earlier date, then until the question of his discharge is determined.
+The petition upon which said order was granted alleged that the assignment of wages was given by the debtor to secure payment for goods purchased by the bankrupt from the Montrose Merchandise Corporation. The sum of $48.08 remains due out of an original purchase price of $106.-08.
+The creditor seeks to vacate the aforementioned stay order on the ground that this court has no jurisdiction to grant a stay of the enforcement of an assignment of wages. An assignment of future wages creates no lien on wages earned by a bankrupt after his adjudication, if he is subsequently discharged. Such an assignment is no more than a contract to give a lien upon property to be acquired in the future. The obligation of this contract, like other personal obligations, is dischargeable in bankruptcy, together with the debt for which the assignment was security. The effect of bankrupt’s discharge upon the prospective lien is the same as though the debt had been paid at the time of the adjudication, before the assigned wages were earned. The wages earned after adjudication become the property of the bankrupt clear of the claims of all listed creditors, if he later obtains his discharge. Local Loan Co. v. Hunt, 292 U.S. 234, 54 S.Ct. 695, 78 L.Ed. 1230, 93 A.L.R. 195; In re West (D.C.) 128 F. 205; Seaboard Small Loan Corp. v. Ottinger (C.C.A.) 50 F.(2d) 856, 77 A.L.R. 956; In re Lawrow (D.C.) 6 F.Supp. 753; In re Blosser (D.C.) 2 F.Supp. 537. The Montrose Merchandise Corporation was therefore properly stayed from enforcing the assignment of wages given to it by the bankrupt herein.
+However, the order of this court dated July 20, 1936, against which this motion is directed, goes beyond a mere stay and provides that it be further “ordered, that the New York Herald Tribune, Inc. (the bankrupt’s employer) be and it hereby is directed upon service of a copy of this order, to pay to Stanley J. Krolick (the bankrupt) also known as Stanislaus J. Krolick, the full amount of his wages, salary and earnings.”
+It appears from the file in this case that there was an adjudication of bankruptcy on June 8, 1936, but a discharge has not yet been granted. If and when a discharge is granted the bankrupt, he will be released from his debt of $48.08 to Montrose Merchandise Corporation as of the date of the adjudication. If he is discharged, he will be'entitled to his full salary from the date of adjudication on, free and clear of the assignment. But objections may be filed to the bankrupt’s application for a discharge when made and his discharge may be denied. This creditor, as well as the bankrupt, should be protected pending the determination of the question of discharge. The impropriety of ordering the employer to pay to the bankrupt the full amount of his wages in the interval between* the adjudication and discharge was pointed out in Re Lawrow, supra, 6 F.Supp. 753, at page 754, when the court succinctly said: “Bankrupt is not entitled to an order restraining the employer from retaining his wages to the extent of the assignment and the garnishee executions until his discharge is granted, as failure to obtain such discharge would leave the obligations alive and the assignment and executions effective.”
+The possible lien of the creditor under the assignment, on« wages earned by the bankrupt after adjudication, is protected by having the employer withhold from the bankrupt’s wages, subject to further order of the court, the amount provided under the terms of the assignment. If the bankrupt gets a discharge, the employer will be permitted to pay him the wages thus withheld. If the bankrupt’s application for a discharge is successfully opposed and a discharge is denied him, then the creditor who holds the assignment of bankrupt’s wages will receive the assigned portion of the wages earned by the bankrupt after adjudication, until the debt is paid in the manner provided by the assignment.
+The order of this court dated July 20, 1936, will therefore be modified by striking therefrom the last paragraph thereof and by adding thereto a provision directing the bankrupt’s employer to deduct 'from the salary of the bankrupt the amount specified in the assignment of wages pursuant to the terms of the assignment and to hold the same until further order of this court.
+Settle order on two days’ notice.
