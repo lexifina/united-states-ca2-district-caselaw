@@ -1,0 +1,35 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "A-9796, A-9799"
+decided: "1933-04-03"
+citations: ["5 F. Supp. 682"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE BRENTA II (two cases)."]
+source_url: "https://static.case.law/f-supp/5/cases/0682-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4131432
+cites_cases: ["13 F.(2d) 555", "2 F. Supp. 929", "46 U. S. C. § 182"]
+---
+
+# The Brenta II
+
+## Majority (GALSTON, District Judge.)
+
+GALSTON, District Judge.
+These two causes were by stipulation tried as one.
+The steamer Brenta TI was loaded at Valencia, Spain, on November 15,1926, with the two shipments of onions alleged to have been damaged, one consisting of 19,000 crates and 4,000 half eases; the other of 12,545 crates and 2,473 half eases. The former was consigned to Dingfelder & Balish, the libelants in the first cause and the second to Boera Bros., the libelants in the second cause, by the same shipper, Ramon J. Boera. The shipment was destined for delivery at New York, and arrived there on December 4, 1926, in damaged condition. The onions were in good condition when delivered to the ship.
+It is claimed that the vessel should be held because of unseaworthiness arising out of spontaneous combustion due to the poor quality of the coal, because of negligence in failing to remove the coal which had been in the hold from a previous voyage, because of lack of proper ventilation, and because of bad stowage.
+The onions were loaded in. No. 1 ’tween-deck, in No. 2 lower hold, and ’tween-decks 4, 5, and 6. There were two ventilators for each hold and six hatches. ’Tween-decks Nos. 4, 5, and 6 were not completely .filled with cargo, and no cargo was stowed on top of the onions. In ’tween-deck No. 1 the onions were stowed on top of other cargo, such as tomatoes and olive oil. In lower hold No. 2, the cargo was not stowed on top of any other cargo. Nine hundred tons of coal were carried in hold No. 3, which was located fore of the engine room. The proof shows that the stowage was proper. Indeed, this seems to have been admitted by the shipper, Ramon J. Boera. He said the onions were stowed solid, one crate up against the other, and between every 10 or 15 feet an air space was left horizontally, which was the “usual way of stowing.” This witness was particularly interested in the stowage in hold No. 2. He admitted that the onions were properly stowed therein. Indeed, the examination of the stowage in that hold must have been effected with care, for Boera wrote to the master of the Brenta:
+“I hereby confirm our conversation of this morning whereby I agreed to it that yon load the onions in the manner agreed upon, in the hold of No. 2 (lower).
+“Therefore if this hold should arrive in worse condition than the other holds I promise not to make any claim for this against the steamer, because I understand that by taking care to give the proper ventilation to this and the other holds you ought to deliver a magnifieant cargo.”
+The depositions of the master and other officers of the Brenta II confirm the matter,not only of proper stowage, but show also the provision of adequate ventilation in the circumstances attending the voyage.
+Undoubtedly shifting occurred on this voj'age, but it was due not to improper stowage, but to the heavy rolling and pitching of the steamer in the heavy seas and high wind. That .the weather conditions wore unusually bad is indicated also by the length of the trip, which took four days more than the usual voyage.
+In respect to ventilation, it appears that the hatches and ventilators were kept open when the weather permitted and were closed only when the weather compelled the taking of that step. The hatch leading to lower hold No. 2 from the ’tween-decks, the only lower hold in which onions were stowed, was kept open at all times during the voyage. It would seem that the master is right in ascribing-the weather conditions as a sufficient explanation of the limited ventilation which was made possible. This in turn sufficiently accounts for the heating and sweating of the cargo. But these causes are within the exceptions covered by the bills of lading.
+Not only did the vessel encounter disturbing weather conditions, but on November 20th a fire broke out in the coal carried in lower hold No. 3. This fire was the result of spontaneous combustion. The location of No. 3, as has been stated before, was fore of the engine room. A cross bunker lay between No. 3 and the engine room. Connecting the cross bunker and hold No. 3 was a door from which coal could be removed to the cross bunker. After the fire had started, the men were put to work shoveling coal from hold No. 3 to the cross bunker, and water was pumped into the hold. The water thus pumped was free to run into the bilges and to the bottom of hold No. 2 where the onions were stowed. It is doubtful whether any of the onions, however, in hold No. 2 were damaged by sea water, but it appears to be admitted that they were damaged by coal dust or coal smoke.
+Accordingly, the remaining question for determination is whether the vessel should be held for the fire. On the one hand, it is contended that the fire was the result of negligence; on the other hand, the fire statute is urged as a complete exoneration. 46 U. S. C. § 182 (46 USCA § 182, Rev. St. § 4282) relieves the carrier from liability for damage by fire: “Loss by fire. No owner of any vessel shall be liable to answer for or make good to any person any loss or damage, which may happen to any merchandise whatsoever, which shall be shipped, taken in, or put on board any such vessel, by reason or by means of any fire happening to or on board the vessel, unless such fire is caused by the design or neglect of such owner.”
+The libelant relies on Arkell & Douglas v. United States (C. C. A.) 13 F.(2d) 555, 556; but the facts can be readily distinguished. The cited ease shows that competent evidence was offered to show that “it seems to be a well-settled custom that old coal in bunkers should be shifted, usually to a place near the fire room door, before new coal is loaded.”
+In the instant case no testimony was offered to prove that the coal which had been loaded in Philadelphia had been aboard the steamer Brenta II for too long a time. In Arkell & Douglas v. United States, as in Dingfelder & Balish v. Navigazione Libera Triestina, S. A. (The Carnia) (D. C.) 2 F. Supp. 929, a cause tried during the same term of court as the present case, there -was proof of actual negligence. In those eases “there was warning by actual notice of the coal heating previous to the voyage in question,” and the consequent need for shifting the coal. No such proof was offered in this case.
+The claimant may have a decree dismissing the libel.
+If this opinion, is not in sufficient compliance with the rule requiring findings of fact and conclusions of law, submit findings of fact and conclusions of law in accordance therewith.
