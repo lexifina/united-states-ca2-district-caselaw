@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the Western District of New York"
+docket: "16685"
+decided: "1932-12-05"
+citations: ["1 F. Supp. 924"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re ROSENFIELD."]
+source_url: "https://static.case.law/f-supp/1/cases/0924-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4137828
+cites_cases: ["18 F.(2d) 337", "21 F.(2d) 161", "22 F.(2d) 676", "232 F. 248", "256 F. 862", "41 F.(2d) 208", "53 F.(2d) 951", "55 F.(2d) 165"]
+---
+
+# In re Rosenfield
+
+## Majority (KNIGHT, District Judge.)
+
+KNIGHT, District Judge.
+This motion is in opposition to the bankrupt’s application for discharge. Section 14b (3) of the Bankruptcy Act, 11 USCA § 32 (b) (3) contains the restriction on discharge claimed to be applicable here. These facts must occur to make it so applicable: (1) The statement must be in writing; (2) the statement must be materially false; (3) the statement must be given with the purpose to obtain credit; (4) credit must be given on the faith of the statement.
+The statement in question was in writing. The statement was eoneededly given with the purpose to obtain credit, and I am satisfied credit was given on the faith of the statement. The statement was eoneededly untrue. Was it “materially false” in the sense in which those words were intended to be used in the act?
+Bankrupt failed to include in his financial statement, given to obtain credit, an item of $6,000 owing to a son. He set forth his net worth as $13,960.96. Excluding the debt to the son, such net worth was $7,960.96. It is claimed on behalf of! the bankrupt that intent to defraud must be shown. One is presumed to know the natural consequences of his acts. It is admitted that defendant knew of the existence of this indebtedness. Such indebtedness was material in amount since it equalled nearly half of his alleged net worth. In the statement this specific clause appears: “Owe relatives, or others for borrowed Money? none.” Assuming that “intent to defraud” is essential, upon the presumption and under the facts shown, I do not think the bankrupt has sustained the burden, of proof by the bold denial of intent to defraud.
+The special master has found that there was not any “conscious intent” to defraud, though he has recommended a denial of the application for discharge. I presume he intended to mean by “conscious intent” that bankrupt did not have in mind the specific purpose of defrauding the creditor on this particular claim. When the bankrupt made the statement, he doubtless intended to pay all creditors in full. He gave the statement to insure his ability to purchase goods to continue his business. While intent, as it is to be applied here, is necessary to be shown, such intent is the intent to do something which one knows to be untrue and as the result of which another is likely to suffer loss. In other words,'bankrupt did not then intend to bring about a situation which would result in financial loss to this creditor, but he did a thing, acting upon which the creditor gave credit and suffered loss. In re Trimble (C. C. A.) 55 F.(2d) 165; In re Glick (C. C. A.) 53 F.(2d) 951; In re Smith (D. C.) 232 F. 248; In re Perlmutter (D. C.) 256 F. 862; support the view I take that this discharge should not be granted. The language used in the Perlmutter Case seems directly in point. The opinion recognizes the rule that “ ‘false" * * * ‘means more than merely erroneous or untrue" ” as laid down in a long line of cases there eited, but it holds that the denial of intent to deceive was unsupported by other evidence, and that such denial, as here, was “contrary to all the probabilities flowing naturally from the proven facts.”
+I Several cases are cited in bankrupt’s behalf. Each, in my opinion, is distinguish^ able. In Scales v. A. L. Stone & Son (C. C. A.) 22 F.(2d) 676, it appeared that the creditor had knowledge through its agent that the bankrupt did not claim, to own the property in question, and also that there was no competent proof that the bankrupt made the statement in question. Taback v. Arai (C. C. A.) 21 F.(2d) 161, is distinguishable, in that it involved the question of keeping of books, and the proofs seemed ample to show that there was no intent to deceive, but that the aets were done or permitted through carelessness and inattention. In re Hatfield (D. C.) 18 F.(2d) 337, is distinguishable, in that bankrupt had omitted a small liability intended to be incurred as an indorser, and further the court said: “The statement made by him at the time reflects with approximate accuracy the true condition.” Farmers’ Savings Bank v. Allen (C. C. A.) 41 F.(2d) 208, is distinguishable in several respects. The creditor did not claim the liabilities were understated. The proofs showed errors in the classification of debts, and also showed certain inaccuracies. The court found that credit was not extended in reliance on the statement. In other material respects it also differs with the ease at bar. I am of the opinion that the report of the master should be sustained.
+The motion to discharge is denied.
