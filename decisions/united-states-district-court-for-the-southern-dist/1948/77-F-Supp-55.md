@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1948-03-16"
+citations: ["77 F. Supp. 55"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NORTH AMERICAN MFRS. EXPORT ASSOCIATES, Inc. v. CHASE NAT. BANK OF CITY OF NEW YORK."]
+source_url: "https://static.case.law/f-supp/77/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 649253
+cites_cases: ["22 U.S.C.A. § 1401", "265 U.S. 585", "283 F. 103", "297 F. 152", "44 S.Ct. 459", "46 U.S.C.A. §§ 864", "68 L.Ed. 1192"]
+---
+
+# North American Mfrs. Export Associates, Inc. v. Chase Nat. Bank
+
+## Majority (MEDINA, District Judge.)
+
+MEDINA, District Judge.
+Despite the fact that the papers ? submitted by both sides on this motion by defendant for summary judgment are voluminous and apparently complicated, the decisive question is a narrow one. Plaintiff is entitled to draw upon the letter of credit as amended only by strict compliance with the specific terms appearing on its face, Old Colony Trust Co. v. Lawyers’ Title & Trust Co., 2 Cir., 1924, 297 F. 152, certiorari denied, 1924, 265 U.S. 585, 44 S.Ct. 459, 68 L.Ed. 1192; International Banking Corp. v. Irving Nat. Bank, 2 Cir., 1922, 283 F. 103; and it is clear that the documents which accompanied the draft, on each and every occasion of its presentation prior to the date of expiration of the letter of credit, failed in numerous respects to comply with such terms.
+The so-called issues of fact will not bear analysis. Although the complaint is, squarely based upon the letter of credit as amended and alleged compliance with its terms, plaintiff claims that there may arise at the trial some issue of veracity as to what was said at the conversation which preceded the issuance by the Bank of its letter of amendment of May 1, 1947. It is difficult to see how it could become proper to submit such an issue to a jury. The Bank stood in no contractual relationship with plaintiff other than as expressed in the terms of the letter of credit, which was issued for the account of the Disbursing Officer of the Turkish Embassy and which was later amended. If the Bank, in the formulation of the letter of amendment, failed to follow the instructions of its customer, which is far from apparent, this would not involve the Bank in any responsibility to plaintiff. The letter of credit, either in its original form or as amended must control; and plaintiff failed to meet its requirements in either case.
+The real controversy seems to be between plaintiff and the representatives of the Turkish Government, arising out of the alleged breach of certain contracts the text of which is not before the Court. In substance it is claimed that the Turkish Government, as soon as it became apparent that the vessels to be purchased from the United States Maritime Commission through the medium of a bid to be submitted by plaintiff, might be obtained without expense to the Turkish Government as part of the aid extended to Greece and Turkey through Public Law 75, 22 U.S.C.A. § 1401 et seq., lost interest in its contractual obligations with plaintiff and brought about the rejection of plaintiff’s bid. Plaintiff complains bitterly that its remedy against the Turkish Government is unavailing because of the doctrine of sovereign immunity. This may perhaps evoke sympathy with one who for large profits chose to embark upon an undertaking so hazardous, but it is difficult to see how the circumstances give rise to any obligation, contractual or otherwise, from the Bank to plaintiff, other than appears on the face of the letter of credit as amended.
+It is claimed that the case is one of novel impression and of prime importance in the field of commercial law. It is said to present for the first time the question of whether a purchaser’s own act in securing title to the subject matter of a contract of sale from a source other than the vendor and in breach of the very contract of sale constitutes a defense to the letter of credit which the purchaser has opened for the purpose of securing performance of the contract. But this “novel” question seems to present no more than is, in one form or another, involved in all the cases which uniformly hold that a Bank which issues a letter of credit is liable to the person in whose favor the credit is issued only upon strict compliance with the requirements therein stated.
+It is also strongly urged that, despite the record and the unimpeached testimony establishing the rejection of plaintiff’s bid for the vessels, there was in effect an award to plaintiff, since the Maritime Commission was bound by statute to sell to plaintiff. This elaborate argument takes into account the provisions of 46 U.S.C.A. §§ 864, 865 and those of Public Law 75, being an act to provide for assistance to Greece and Turkey, and certain case law. It is also argued that it might be found as a fact at the trial that the Maritime Commission acted in bad faith. But none of these arguments would be of any avail to plaintiff, even if they had more merit than seems to be the case. It would still be true that plaintiff can recover only by meeting in every detail the specific requirements of the letter of credit and this the affidavits conclusively demonstrate plaintiff did not do.
+It is not necessary to pass upon the other questions which were discussed in the briefs.
+Motion granted.
+Settle order on notice.
