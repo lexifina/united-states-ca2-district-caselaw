@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "M-979"
+decided: "1945-05-16"
+citations: ["61 F. Supp. 94"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re ROCILLO."]
+source_url: "https://static.case.law/f-supp/61/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 638899
+cites_cases: ["139 F.2d 730", "142 F.2d 530", "145 F.2d 975", "322 U.S. 398", "56 Stat. 178", "7 Fed. Reg. 9135"]
+---
+
+# In re Rocillo
+
+## Majority (MOSCOWITZ, District Judge.)
+
+MOSCOWITZ, District Judge.
+Respondent has made a motion by order to show cause for an order of this court staying the operation and enforcement of a Suspension Order entered by the Chief Hearing Commissioner of the Office of Price Administration of Region II pending the determination of an appeal from said order by the Hearing Administrator in Washington. The Court has been advised by letter dated May 10, 1945 from the Regional Litigation Attorney of the Office of Price Administration that the Hearing Administrator affirmed the issuance of the Suspension Order on April 9, 1945. The application is therefore rendered moot but it was improperly brought on in the first place. The jurisdiction of this Court to grant the relief sought rests exclusively on Section 205(g) of the Emergency Price Control Act, as amended by the Stabilization Extension Act of 1944, 50 U.S.C.A. Appendix § 925(g). That section provides for an action to enjoin the operation of orders for suspension of allocations but makes no provision for a motion in the District Court for such relief.
+The Court would in any event not be disposed to grant the application on the merits. Respondent was a gasoline station operator. Through the Verification Center of the Office of Price Administration it was ascertained that gummed sheets transferred by respondent to his suppliers of gasoline, to which are affixed the coupons received from purchasers (commonly identified as “bingo sheets”) contained 158 counterfeit A-ll coupons with a gallonage value of 474. A hearing was held at respondent’s request before the Hearing Commissioner, which conformed in every respect to the requirements of Procedural Regulation No. 4.
+Under Section 2(a) (2) of Act June 28, 1940 amended by 50 U.S.C.A.Appendix § 1152(a) (2), Title III of the Second War Powers Act, 56 Stat. 178, 50 U.S.C.A. Appendix, Section 633, “Whenever the President is satisfied that the fulfillment of requirements for the defense of the United States will result in a shortage in the supply of any material or of any facilities for defense or for private account or for export, the President may allocate such material or facilities in such manner, upon such conditions and to such extent as he shall deem necessary or appropriate in the public interest and to promote the national defense.” The allocation of gasoline was duly delegated to the Office of Price Administration and Ration Order 5C (7 Fed. Reg. 9135), was duly promulgated pursuant to such authority. Section 1394.8302 of Ration Order 5C provides that any person who violates the ration order may “by administrative suspension order” be prohibited from receiving, selling, using or disposing of gasoline for such period as is deemed “necessary or appropriate in the public interest and to promote the national security”. Procedural Regulation No. 4 was adopted February 6, 1943 by the Office of Price Administration (8 Fed.Reg. 1744, revised 9 Fed.Reg. 2558) to govern the proceedings for the issuance of suspension orders.
+Respondent advances the contention that the hearing before the Commissioner is a quasi-criminal proceeding and that constitutional guarantees to which an accused in a criminal proceeding is entitled were not observed. On the contrary, it is well settled that administrative suspension proceedings are not penal in nature. Suspension orders are not designed to punish violators of ration orders but to protect the distribution system devised to conserve scarce commodities. The proceeding before the Hearing Commissioner is merely an inquiry to determine whether the person being investigated is fit to be entrusted with a part in the allocation and distribution of rationed materials. The suspension order is an administrative order intended to promote the national security, rather than a penalty. Stewart & Bro. Inc. v. Bowles, 1944, 322 U.S. 398, 64 S.Ct. 1097, 88 L.Ed. 1350; Brown v. Wilemon, 5 Cir., 1944, 139 F.2d 730; Gallagher’s Steak House, Inc. v. Bowles, 2 Cir., 1944, 142 F.2d 530; Bowles v. Jacobson, 5 Cir., 1944, 145 F.2d 975. Therefore, there was no invasion of respondent’s rights.
+The Commissioner’s findings against respondent and that respondent violated Ration Order 5C are administrative determinations of fact which this Court should not disturb. There is ample evidence in the record to sustain the finding and the decision was not arbitrary or capricious.
+The application is denied. Settle order on notice.
+The principal contention made upon the argument of this application was that respondent had not been informed by the Hearing Commissioner of his right to counsel. This is dearly negatived by the record (p. 2). The Commissioner asked respondent if he had an attorney and, upon being told that he did not, asked: “You understand the charges in the ease and are prepared to proceed without an attorney?” to which respondent answered, “Yes, sir”.
