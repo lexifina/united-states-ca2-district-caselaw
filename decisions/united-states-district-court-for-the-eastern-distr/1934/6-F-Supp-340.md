@@ -1,0 +1,34 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "23295"
+decided: "1934-01-03"
+citations: ["6 F. Supp. 340"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re KINGS COUNTY REAL ESTATE CORPORATION."]
+source_url: "https://static.case.law/f-supp/6/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4132854
+cites_cases: ["67 F.(2d) 895"]
+---
+
+# In re Kings County Real Estate Corp.
+
+## Majority (CAMPBELL, District Judge.)
+
+CAMPBELL, District Judge.
+This is a motion to review an order granted November 22, 1933, by a referee in bankruptcy, which grants the motion of Helen S. Nesmith, as landlord of the premises located at 86th street and 22d avenue, Brooklyn, N.- Y., and directs Aaron L. Palmer, as trustee, to pay out of the rents collected and segregated by him as trustee from the premises, pursuant to the terms of the stipulation dated December 2, 1932, between Helen S. Nesmith and Aaron L. Palmer, as trustee, the sum of $513.32 to Helen S. Ne-smith, or J. Hunter Lack, Esquire, her attorney, as the fair rental value of the use and occupancy of the said premises.
+The bankrupt was not the owner in fee of the premises located at 86th street and 22d avenue, Brooklyn, N. Y., but was in possession under a lease at the time of the filing of the petition in bankruptcy, in and by which lease a certain rent was reserved, and Helen S. Nesmith was and is the landlord in respect to said premises.
+Realty Associates Securities Corporation was and is the owner of a mortgage on- the lease of said premises.
+There would be no security for the said mortgage unless the rent reserved in said lease was paid, and such rent was an expense of the management of the said premises by the trustee.
+The trustee was liable for the use and occupation of said premises to the landlord, and this court could not compel the landlord to allow the trustee to occupy these premises for a considerable time without payment of the reasonable value for use and occupation, even for the benefit of the bankrupt’s estate, and certainly could not do it for the benefit of a mortgagee on the lease, which mortgage must have been and was subject to the rent reserved in said lease, and I am unable to see any reason why in good faith and equity the trustee, who in reality held this property for the benefit of the mortgagee on this lease, should be compelled personally to pay such rent solely for the benefit of the mortgagee, nor why the landlord’s claim for rent should not be satisfied from the rent of said premises in the hands of the trustee.
+The rent reserved in said lease was much greater than the rent which the trustee could secure from said property, and if the trus-' tee had elected to disavow the lease, and surrender the property to the landlord, the security for the mortgage on the lease would have disappeared.
+To prevent this and to keep intact the lease on which the mortgagee relied, and to reduce 'the liability on such lease, the trustee in the interest of both the mortgagee and the bankrupt’s estate, on December 2, 1932, entered into a stipulation with the landlord to pay to the landlord, and the landlord agreed to accept in full payment for all rent which the trustee is obligated to pay to the lessor, by reason of his possession of said premises, as an asset of the estate of said bankrupt, all rents, issues, and profits of said premises collected by the trustee or his agent after paying the necessary expenses and carrying charges, ■ including minor repairs. This stipulation was approved by the referee in charge of this ease on December 29, 1932.
+The Realty Associates Securities Corporation secured from a judge of this court, on December 29, 1932, an order which included the following provision:
+“Ordered, that Aaron L. Palmer, trustee of the bankrupt be, and he hereby is directed and required to segregate and hold for the benefit of the petitioner, as its interest may appear, subject to the allowance to the said trustee of necessary and reasonable expenses incurred in the general administration of the mortgaged premises.
+The Realty Associates Securities Corporation must have known that payment of rent by the trustee was part of the general expenses to be incurred in the general administration of the mortgaged premises, and the effect of that order was to require the trustee to segregate for the benefit of the mortgagee only the rent collected over and above the general expenses of administration of the mortgaged premises, which included the amount to be paid by the trustee for use and occupation.
+The Realty Associates Securities Corporation cites as authority for its position In re Kings County Real Estate Corp’n (Lincoln Savings Bank v. Realty Associates Securities Corporation), 67 F.(2d) 895-, decided by the Circuit Court of Appeals of this Circuit December 4, 1933, in a per curiam opinion (New York Law Journal, December 29, 1933), but that decision does not seem to me to be in point. In that case there was an order for segregation of rents in favor of a junior mortgagee, and subsequently a senior mortgagee secured from the District Court an order to the trustee to apply the rents already collected by him; first, to the payment of any taxes, water rates, and assessments then due, and next, to the second mortgagee; and for the future to collect all rents for the first mortgagee; and this the Circuit Court of Appeals held it could not do, but that the whole rents collected up to the time of the first mortgagee’s application should be paid to the second mortgagee without abatement. In that ease the order allowed the trustee to pay expenses, and assuming that to include taxes, the trustee was not bound to pay them, as the mortgagee assigned the rents, not the net rents after payment of taxes. '
+That ease is clearly distinguishable from the ease at bar, where the mortgage itself covered only the lease, which was subject to the payment of the rent reserved, and where the trustee could not continue to occupy the premises and collect any rents without becoming personally obligated for the payment of the reasonable value of use and occupation for payment for which, if not made, would cause the lease to be wiped out, and therefore the value of use and occupation was a part of the general expense of management which the trustee was, by the order of segregation, entitled to make to protect him from personal liability.
+A number of eases have been cited by both sides relative to the segregation of rents, where the mortgage covered real estate the fee of which was covered by a mortgage, but they are not in point where the mortgage covers only a lease upon real estate* which is dependent upon payment of the rent reserved.
+The motion to review the said order of the referee is denied and the order confirmed. _
