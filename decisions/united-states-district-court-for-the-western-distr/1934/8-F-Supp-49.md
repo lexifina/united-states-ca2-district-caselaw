@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the Western District of New York"
+docket: "21383"
+decided: "1934-04-04"
+citations: ["8 F. Supp. 49"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re SMITH."]
+source_url: "https://static.case.law/f-supp/8/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4138506
+cites_cases: ["171 F. 292", "2 F. Supp. 537", "206 Wis. 85", "238 F. 571", "238 F. 653", "238 N. W. 850", "50 F.(2d) 856", "51 F.(2d) 602", "77 A. L. R. 956"]
+cites_law: ["united-states/federal/usc/title-11/107.md"]
+---
+
+# In re Smith
+
+## Majority (KNIGHT, District Judge.)
+
+KNIGHT, District Judge.
+Cleveland Smith was adjudicated a-bankrupt on the 28th day of March, 1934. A judgment was taken against him on the 28th day of March, 1930, by the Affiliated Mercantile Service, Inc.,. and a garnishee execution issued thereon which is now in force against the bankrupt’s wages at the Hanna Furnace Corporation. On the 14th day of July, 1930, Hattie Slifka obtained a judgment against him, and issued a garnishee execution thereon which is now held by the employer pending satisfaction of the prior levy upon which approximately $31.60 has been accumulated. The above-mentioned judgments were listed in the bankrupt’s schedule of indebtedness. Bankrupt now petitions for an order enjoining the above-named judgment creditors, the marshals of the city court of Buffalo, the sheriff of Erie county, and the Hanna Furnace Corporation from further collection and receipt, by reason of the garnishee executions aforesaid, of any moneys belonging to deponent, and he further requests that the aforesaid sum of $31.60, now held by the employer, be turned over to the trustee of the deponent’s bankrupt estate.
+The bankrupt is entitled to enjoin the judgment creditors, the marshals, and the sheriff from interfering with such sums as have been deducted from his wages subsequent to November 28, 1933, which date is four months prior to the adjudication. That the creditors are entitled to receipt of all sums deducted from bankrupt’s wages before that date is beyond dispute. In re Wodzicki (D. C.) 238 F. 571; In re Beck (D. C.) 238 F. 653, 654.
+The judgments remain a liability until bankrupt is granted his discharge. If a discharge is not granted, wages earned subsequent to the adjudication are subject to the payment of such judgments. Therefore, retention of 10' per cent, of the bankrupt’s wages by the Hanna Furnace Corporation must continue, to the extent of these executions, until such time as bankrupt obtains his discharge. However, there is no doubt as to the right of the bankrupt to enjoin his employer from turning over to the marshal or sheriff or to the judgment creditors any sums deducted from his wages subsequent to the adjudication, until his application for discharge has been denied or his time to apply therefor has expired. In re Wodzicki, supra; The Prunotto (D. C.) 51 F.(2d) 602, 603.
+The creditor having the prior execution asserts that such sums as were deducted during the four months prior to adjudication should be turned over to it. Its theory is that a lien acquired through a garnishee execution issued more than four months prior to adjudication is a continuing levy and should be accorded priority. Chadeck v. Forest County, 206 Wis. 85, 238 N. W. 850, 20 A. B. R. (N. S.) 323, and In re Wodzicki, supra, are cited in support of this contention. The Chadeek Case, it seems to me, overlooks the fact, noted in Re Ludeke (D. C.) 171 F. 292, and Re Beck, supra, that there can be no levy until there is a salary to levy upon. In the latter eas'e, Ju'dge Hough stated, “The date of levy is. coincident with the date of accruing wage.”'1 In The Prunotto, supra, a case involving wages earned subscquent to the adjudication only,T stated: “It does not seem to me there could be any lien until the tiling came into being upon which a lien could attach.” An analogous situation is presented in the case of an assignment of wages. In Seaboard Small Loan Corp. v. Ottinger (C. C. A.) 50 F.(2d) 856, 77 A. L. R. 956, followed by this court in Re Blosser, 2 F. Supp. 537, the court held that an assignment by bankrupt of future wages created no lien on wages earned after adjudication, and that such assignment was no more than a contract until the wages were earned. While these eases are not in all respects like the one at hand, they do show that levies on wages, as such wages become due from time to time, do not date back to the date of issue of the execution.
+Under the above holding,' the lien obtained by the creditor to a portion of the wages earned by the bankrupt within the four months preceding the adjudication is void. Bankruptcy Act, § 67f (11 USCA § 107 (f); In re Beck, supra. In the Wodzicki Case, it was held, following In re Beck, supra, that only the trustee in bankruptcy could lay claim to such moneys as against the judgment creditor, and as no trustee had been appointed, the creditor was entitled to a modification of an order enjoining the creditor from taking further proceedings to collect his judgment. Inasmuch a3 argument of counsel discloses that no trustee has been appointed in the present ease, an order directing that any part of these funds be turned over to the trustee of the bankrupt estate is premature and such part of bankrupt’s prayer is denied.
+An order in accord with the foregoing opinion may be submitted.
