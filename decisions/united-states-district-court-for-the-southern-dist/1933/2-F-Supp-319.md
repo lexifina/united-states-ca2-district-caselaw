@@ -1,0 +1,25 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1933-01-24"
+citations: ["2 F. Supp. 319"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE EMMA T. GRIMES. MULQUEEN v. CUNARD S. S. CO., Limited."]
+source_url: "https://static.case.law/f-supp/2/cases/0319-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4121604
+---
+
+# Mulqueen v. Cunard S. S. Co.
+
+## Majority (DRANK J-. COLEMAN, District Judge.)
+
+DRANK J-. COLEMAN, District Judge.
+The damage in suit is alleged to have been caused by swells from the steamship Andania in the St. Lawrence river just west of Quebec. On October 26’, 1928, at about 7 p. m., the Emma T. Grimes, which was a Northern, Canal type of boat, was moored on the west side of the Gravell Dock on the south side of the river and a short distance west of Quebec. She had lain there for several days and at the time in question was partially loaded. She was one of four boats abreast, being the second from the dock. Loading operations were being conducted on the two outer boats, and a number of brilliant electric lights were rigged over them for the use of the workmen.
+The bottom at that place was flat and shelved slightly toward the center of the river so that there was greater depth at the Grimes’ offshore end. There was an average fall of tide of about 8 feet and at the time in question the stage was about the first quarter of the ebb. The Grimes was fully afloat, but had little water under her because at low tide the entire bottom in that locality is dry.
+Three or four large steamers passed downstream within an hour following a course at about the center of the river at a distance of about 3,500 feet from the Grimes. One of these steamers caused an extraordinarily heavy swell, which had the effect of making the Grimes pound her inshore end against the bottom. The libelant, who was the owner and master of the Grimes, was seated on deck at the time and, hearing a cracking noise in her interior at the time she struck bottom, went into the cabin and discovered a bulging of a bulkhead and a twist to port visible on deck. He noted the time of his examination as 12 minutes after 7.
+She commenced to leak, but not seriously, and after her loading was completed she was brought to New York in a voyage which took about three weeks. After her unloading in Newtown creek, she was put in dry dock where various items of damage were discovered.
+The libelant identified the steamer which caused the swell as a large well-lighted passenger boat which was second in a group of outgoing vessels which passed the Grimes at about this time. It is undisputed that the Andania arrived off Quebec at 7:15 and that she passed the Grimes at about 7:09. She was preceded down the river by the steamer Montcalm and followed by the steamships Aseania and Aral with intervals of about 10 or 15 minutes between them. The Andania was thus the second in the procession, if only that group is considered. About an hour before the Montcalm passed, another steamer, the Maltón, descended, but it is unlikely that the libelant observed her and included her in fixing the relative position of the vessel which caused the damaging swells. There is, I believe, a sufficient identification of the Andania as the boat which caused the damage.
+It is undisputed that she passed the Grimes at full speed, which was 14% or 15. knots an hour. With a strong ebb tide under foot, her actual speed was 17 or 18 knots an hour. There was a local governmental regulation which prohibited that class of boat from proceeding at a greater rate than 9 miles an hour at that place. The evidence clearly shows that there was danger of swells damaging moored craft at the water’s edge if a steamer of that size proceeded at the rate at which she was going. It was the practice to reduce to half speed at points where docks with craft moored alongside were numerous. The lights strung over the Grimes for the use of the loaders should have warned the Andania of the danger to her, and I have no doubt of her negligence in proceeding at the rate she did.
+This, however, is a libel in personam and the vessel was being piloted by a compulsory pilot. He was one of a group reserved for the use of the Cunard liners, but was not an employee of the respondent. At the time of passing the Grimes, the captain was on the bridge alongside of the pilot and apparently made no objection to the speed. He had on other occasions, however, warned pilots about excessive speed at that place and he was in a position to exercise his superior authority if he had deemed the speed excessive on the occasion in question. I think it was clearly negligent of him not to have recognized the danger to any craft moored at Gravell Dock and that he should have directed the pilot to. reduce his speed as required by the local governmental regulations. His failure amounted to negligence and renders the respondent liable. Settle decree on notice.
