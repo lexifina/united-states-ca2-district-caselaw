@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1954-04-13"
+citations: ["120 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DUNN v. DECCA RECORDS, Inc. et al."]
+source_url: "https://static.case.law/f-supp/120/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4242435
+cites_cases: ["167 F.2d 737", "183 F. 793", "19 F.2d 295", "206 F.2d 214", "208 F.2d 464", "286 F. 629", "290 F. 204", "30 F.Supp. 993", "58 F.Supp. 20", "75 F.Supp. 11", "9 How. 10", "97 F.Supp. 656", "97 F.Supp. 679"]
+---
+
+# Dunn v. Decca Records, Inc.
+
+## Majority (IRVING R. KAUFMAN, District Judge.)
+
+IRVING R. KAUFMAN, District Judge.
+Plaintiff, the holder of 200 shares of the stock of Decca Records, Inc., began this action on the afternoon of April 9, 1954, to enjoin the holding of the regularly scheduled annual stockholders meeting of Decca Records, Inc., on April 13, 1954. She urges that the Decca proxy statement was false and misleading with respect to the statement of compensation paid to Milton R. Rack-mil, President of Decca, and of its subsidiary, Universal Pictures Company, Inc. Plaintiff’s contention rests principally on the assertion that a hotel suite is maintained for the President of Decca at the Sherry Netherland Hotel, in New York City, and that the cost of this suite is in fact additional compensation to this corporate officer which the proxy statement failed to list. Such an omission, plaintiff urges, constitutes a material misstatement in violation of 15 Ú. S.C.A. § 78n and Rule X-14A-9 of the Security and Exchange Commission.
+Defendants, on the other hand, contend that no injunction should issue since the SEC itself had previously considered the payments made by Decca and by its subsidiary, Universal Pictures, for the expenses of its corporate officers and had advised defendants’ attorneys that these payments were reimbursements for expenses rather than compensation for services and that such expenses need not be listed in the proxy statement of salaries and remunerations.
+I find defendants’ argument convincing. It is customary for corporations to reimburse officers for business expenses they incur. Defendants assert that the Sherry Netherland suite has been maintained by Universal Pictures Co., Inc., for many years for the use of Universal executive officers when they visit New York on business.
+I believe that the informal opinion of an official of the Security and Exchange Commission upon the issue of remuneration as distinguished from reimbursement for expenses, to the effect that payments which constitute reimbursement for expenses need not be listed in the proxy statement, is entitled to some weight here. Peck v. Greyhound Corp., D.C.S.D.N.Y.1951, 97 F.Supp. 679.
+Furthermore, I do not believe that it has been established that the omission complained of here, if indeed it did occur, is material in the light of the substantial remuneration paid to Mr. Rackmil and listed in the proxy statement for the stockholders to see, since I do not feel the inclusion of this amount as paid to Mr. Rackmil would have in any way influenced the stockholder’s proxy vote. S.E.C. v. Okin, D.C.S.D.N.Y.1944, 58 F.Supp. 20, 24. It should be noted that the remuneration to Mr. Rackmil as President of Decca Records and Universal Pictures totalled $124,-857.93. Furthermore, a footnote in the proxy statement advised the stockholders that $18,550 had been paid to Mr. Rackmil by Universal Pictures for entertainment and other expenses.
+Finally, I do not feel that irrép'arable injury will occur to plaintiff if the injunction is denied. If my decision were otherwise, the annual meeting of stockholders of Decca, now scheduled for today, April 13, 1954, could not be held. Confusion, anxiety and uncertainty would result as well as substantial expense to the company.
+The plaintiff here is seeking a radical remedy and in order to succeed she must show by clear and convincing facts that she is entitled to the relief she desires. No clear showing has been made that the failure to disclose was of such substance that it would influence the stockholder’s proxy vote. The potential injury is too remote and speculative to merit injunctive action. Power to issue an injunction is extraordinary and should be used with moderation and only in a clear and plain case. Irwin v. Dixion, 1850, 9 How. 10, 50 U.S. 10, 13 L.Ed. 25. Courts of equity should not use the extraordinary remedy of injunction merely to allay litigants’ fears. Northrop Corp. v. Madden, D.C.S.D.Cal. 1937, 30 F.Supp. 993; Skelly v. Dockweiler, D.C.S.D.Cal.1947, 75 F.Supp. 11. The courts are in complete agreement that the issuance of an injunction even after a trial is a singular and unusual remedy. Upon a motion for a temporary injunction, a fortiori, there should be greater reluctance to exercise this drastic power of injunction. Worthington Pump and Machinery Corp. v. Douds, D.C.S.D.N.Y.1951, 97 F.Supp. 656
+Upon the facts presented, I am convinced that no reasonable grounds exist for the granting of the preliminary injunction. Huber Baking Co. v. Stroehmann Bros. Co., 2 Cir., 1953, 208 F.2d 464, 467; Foundry Services, Inc., v. Beneflux Corporation, 2 Cir., 1953, 206 F.2d 214; American Mercury, Inc., v. Kelly, 2 Cir., 1927, 19 F.2d 295; Papaliolios v. Durning, 2 Cir., 1948, 167 F.2d 737; Barrett v. City of New York, C.C.S.D.N.Y.1910, 183 F. 793, 799; Blackmore v. Collins, D.C.Mich., 286 F. 629, affirmed 6 Cir., 1923, 290 F. 204.
+So ordered.
