@@ -1,0 +1,39 @@
+---
+court: "United States District Court for the Northern District of New York"
+decided: "1941-07-14"
+citations: ["40 F. Supp. 19"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SMITH v. SHAUGHNESSY, Collector of Internal Revenue."]
+source_url: "https://static.case.law/f-supp/40/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4216485
+cites_cases: ["125 A.L.R. 1368", "283 U.S. 231", "308 U.S. 39", "309 U.S. 106", "40 B.T.A. 762", "75 L.Ed. 996"]
+---
+
+# Smith v. Shaughnessy
+
+## Majority (BRYANT, District Judge.)
+
+BRYANT, District Judge.
+This is an action for recovery of gift taxes paid during the year 1937.
+On February 26, 1937, plaintiff executed a trust indenture to the Syracuse Trust Company as trustee, whereby he established a trust fund consisting of 3000 shares of the 6% convertible preferred stock of the L. C. Smith & Corona Typewriters, Inc., and provided that the income from said trust fund should be paid to his wife for life with remainder, upon her death, to himself if living, and, if not then living, to her legatees or, if she died intestate, to her distributees.
+On March 15, 1938, plaintiff filed a federal gift tax return of said transfer, showing a value of the trust fund of $570,937.50 and a net taxable gift of the entire fund, after deduction of exemptions, of $525,937.50 and paid a gift tax thereon of $71,674.22. He almost immediately thereafter filed a claim for refund of said gift tax, basing his claim for refund upon the ground that the transfer set forth in the trust indenture did not constitute a taxable gift. On April 15, 1938, the commissioner rejected said refund claim in its entirety and thereafter this action to recover was timely brought.
+Defendant, in his brief, sets forth four questions which he states the issues raise. Possibly time will be saved by answering these questions more or less categorically.
+1. Did a transfer of securities by an irrevocable transfer in trust in this case constitute a taxable gift, under the federal gift tax statute, measured by the value of the securities in question in their entirety as of the date of execution of the trust instrument?
+Upon the authorities of Klein v. United States, 283 U.S. 231, 51 S.Ct. 398, 75 L.Ed. 996, and Helvering v. Hallock, 309 U.S. 106, 60 S.Ct. 444, 84 L.Ed. 604, 125 A.L.R. 1368, I hold that the transfer did not constitute a taxable gift measured by the value of the securities as of the date of the execution of the trust instrument.
+2. Are the gift tax and the estate tax statutes in pari materia, or are they mutually exclusive ?
+The two statutes are not mutually exclusive, but are considered in pari materia. Sanford’s Estate v. Commissioner, 308 U.S. 39, 60 S.Ct. 51, 84 L.Ed. 20; Walker v. Commissioner, 40 B.T.A. 762.
+3. If a taxable gift was not effected as contemplated in (1) above, then did the transfer give rise to a taxable gift, measured by the commuted value of the wife’s life interest as of the date of execution of the instrument?
+Yes. Under the provisions of said trust indenture the wife received a complete and absolute gift of a life interest in said trust fund. This taxable gift should be measured by the value of the wife’s life interest as of the date of the execution of the instrument.
+4. If the transfer gave rise to a taxable gift as contemplated in (3) above, is the commuted value of the wife’s life interest to be computed on the basis of a 4% annual return pursuant to the official Regulations, or on the basis of an actual annual 6% return on the securities involved, and is the refund claim sufficient to raise such question?
+The question as framed by defendant could easily mislead. Both methods of computation, rather than one, set forth in the question are provided for in the official Regulations. The cash value of the wife’s life interest should be computed according to the provisions of Subd. g, Sec. 85.19, Chap. 1, Title 26 of the Code of Federal Regulations. The portion of subdivision g, which seems to be applicable, reads: “If a gift consists of the donor’s right to receive the entire income of certain property during the life of Z, or for a term of years, and the annual rate of income for a period equal to or exceeding the life expectancy of Z, or for such term of years, is fixed or definitely determinable at the time of the gift, then the value of the gift should be computed as explained above in the case of an annuity. If the rate of annual income is not determinable, or if the donor is entitled merely to the use of nonincome-producing property, a hypothetical annuity at the rate of 4 percent of the value of the property should be made the basis of the calculation.”
+It was stipulated that the stock (convertible preferred 6% stock) yielded an annual income of $18,000 at the time of the making of the trust indenture and that it has paid 6% since that time. The stipulation further shows that the trustee’s commissions allowed by law amount to $500 per year, and that the wife’s expectancy of life, at the time of the making of the trust, was 14.11860.
+It is plaintiff’s contention that the income “was fixed and definitely determinable at the time of the gift”. He claims a fixed maximum annual income of $17,-500 ($18,000 income less $500 commissions), and that the value of the life interest should be computed by multiplying $17,500 by the above-mentipned factor. This computation makes the value of the life interest $247,075.50. On that valuation the tax amounts to $20,261.33.
+Defendant says there was not “a fixed or definitely determinable annual rate of income” at the time of transfer. He contends that the value of the life interest must be computed as provided in the last part of the quoted portion of the subdivision, that is by multiplying 4% of the full value of the stock at time of transfer (which was $570,937.50) by the above-mentioned factor. Computed under this method the life interest had a value of $322,433.53. The gift tax on such valuation amounts to $31,565.03.
+My answer is in favor of defendant’s contention. Were it not for the convertible feature, I would answer directly the opposite. The tax should be computed upon the same basis that the Commissioner would have computed it, had he taxed the value of a life interest only. The taxable gift was donor’s right to receive the dividends on the stock transferred, or stock received on conversion thereof, during the period of his wife’s life expectancy. The annual income therefrom could not then be definitely ascertained. Without conversion the income was fixed, but through conversion it might be more or less. To hold that donor can give a life interest in preferred convertible stock and satisfy the taxing statute by paying a tax on value computed on rate of preferred dividend, when the trustee can, the next day, convert into stock that may pay larger dividends, favors facile tax avoidance. That the trustee here had power to convert cannot be questioned because it has done so in part.
+My holding on method of computation obviates the necessity of answering the last part of question (4).
+Upon the trial the defendant objected to paragraphs 2 and 3 of the stipulation of facts upon the ground that the same were immaterial, irrelevant and incompetent. I reserved decision. I now overrule the objections. The defendant is entitled to exceptions thereto. The plaintiff objected to paragraph 4 of the stipulation of facts on the same grounds. I now sustain the objection. Defendant is entitled to an exception. I see no necessity for here quoting the paragraphs ruled upon.
+Plaintiff is entitled to judgment for the sum of $40,109.19 with interest and costs.
+Findings of material facts and conclusions may be presented on notice.
