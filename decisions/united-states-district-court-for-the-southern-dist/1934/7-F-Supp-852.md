@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1934-06-01"
+citations: ["7 F. Supp. 852"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re F. & W. GRAND PROPERTIES CORPORATION."]
+source_url: "https://static.case.law/f-supp/7/cases/0852-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7361689
+cites_cases: ["150 F. 89", "168 F. 48", "176 F. 955", "2 F. (2d) 785", "286 F. 148", "31 F.(2d) 609", "62 F. (2d) 413", "64 F.(2d) 119"]
+---
+
+# In re F. & W. Grand Properties Corp.
+
+## Majority (PATTERSON, District Judge.)
+
+PATTERSON, District Judge.
+The petitioner, Manufacturers’ Trust Company, holds a bond and mortgage given by the bankrupt in the sum of $30,000. The adjudication occurred on February 27, 1933, and the six-month period for filing proofs of claim's by creditors expired on August 27,1933. Although the mortgagee knew of the bankruptcy as early as May, 1933, and had dealings with the trustee at that time, it filed no proof of claim, being apparently content with its security. It did nothing until April 5, 1934, when, conceiving that the value of the mortgaged premises was less than the $30,000, it made application to the bankruptcy court to have the value of its security determined and to prove a claim' for the unsecured excess. The referee denied the application, deeming it an' attempt to file proof of claim after the proper time.
+The question is simply whether a secured creditor who believes that his security is insufficient may file proof of claim more than six months after adjudication, there having been no litigation during that time over his claim and the trustee having made no attack at any time on the validity of the security.
+The proving of claims by creditors is covered by section 57 of the Bankruptcy Act (11 USCA § 93). As to secured claims, it is provided that the value of the security shall be determined according to the terms of the agreement whereby the security was obtained or “by agreement, arbitration, compromise, or litigation”; the value of the security shall be credited on the claim; dividends shall be paid only on the balance (section 57h of the act, 11 USCA § 93 (h). As for the time for filing proofs of claim, section 57n as amended by Act May 27, 1926, § 13 (11 USCA § 93 (n), is controlling: “Claims shall not be proved against a bankrupt estate subsequent to six months after the adjudication; or if they are liquidated 'by litigation and the final judgment therein is rendered within thirty days before or after the expiration of such time, then within sixty days after the rendition of such judgment. * * * ”
+The mortgagee’s argument is that its present application is one to have its security valued by “litigation,” as allowed by section 57h, that there is no time limit on the institution of such “litigation,” and that consequently proof of claim for the unsecured part filed within sixty days after the determination of the value of the security must be held timely. This contention, if sound, would permit a secured creditor to fix his own time limit, as the referee observed.
+In my opinion, the argument is wholly unsound. One of the purposes sought to be accomplished by Congress when the Bankruptcy Act was passed was to achieve dispatch in administration. The time for filing claims was therefore fixed at one year; no similar limitation having been made in any previous act. Remington on Bankruptcy, § 866. The 1926 amendment cutting down the time to six months was a further step toward promptness in closing bankrupt estates. The courts in administering the act have generally kept this goal in sight and have discountenanced dilatory claims. In re Peck, 168 F. 48 (C. C. A. 2).
+The effect of section 57n is to require the filing of claims not later than six months after adjudication, with the exception that, if there be instituted within that time litigation which will result in the liquidation of an unliquidated claim, and final judgment be rendered either within thirty days before the six months or at any time thereafter, then the claim may be filed within sixty days after such judgment. It was not the intent that the time might be extended indefinitely by the device of a suit or proceeding commenced a year or two years later by a secured creditor to have his security valued. Powell v. Leavitt, 150 F. 89 (C. C. A. 1); In re Southern Pharmaceutical Co., 286 F. 148, 154 (D. C. Tenn.); In re Ragan, 2 F. (2d) 785, 787 (C. C. A. 1); In re Perfect Shoe Mfg. Co., 64 F.(2d) 119 (C. C. A. 2). It is true that a few eases have gone further and have allowed claims to be filed on the conclusion of liquidating litigation where the litigation was not commenced within six months. In re Clark, 176 F. 955 (D. C. N. Y.); In re Gutchess, 31 F.(2d) 609 (D. C. N. Y.); Carroll Electric Co. v. Snelling, 62 F. (2d) 413 (C. C. A. 1). The soundness of these cases is dubious, in view of the Perfect Shoe Case, supra. In none of them, however, was it the creditor himself who commenced later litigation, as in the 'present instance, and these cases are distinguishable on this ground.
+The claim not having been seasonably filed, the referee was right in dismissing the application. The order will be affirmed.
