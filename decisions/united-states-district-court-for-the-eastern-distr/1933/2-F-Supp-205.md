@@ -1,0 +1,66 @@
+---
+court: "United States District Court for the Eastern District of New York"
+docket: "5664"
+decided: "1933-01-07"
+citations: ["2 F. Supp. 205"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNIVERSAL RADIATOR PRODUCTS CO., Inc., v. CRAFTSMAN RADIATOR ENCLOSURE CO., Inc."]
+source_url: "https://static.case.law/f-supp/2/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4121350
+cites_cases: ["1 F. Supp. 759", "128 U. S. 373", "185 F. 788", "21 L. Ed. 821", "215 F. 110", "32 F.(2d) 920", "36 F.(2d) 1000", "9 S. Ct. 90", "95 U. S. 214"]
+---
+
+# Universal Radiator Products Co. v. Craftsman Radiator Enclosure Co.
+
+## Majority (CAMPBELL, District Judge.)
+
+CAMPBELL, District Judge.
+This is an action for relief by injunction and damages for the alleged infringement of patent No. 1,807,352, issued to Samuel Tánger, for radiator inelosure, granted May 26, 1931, on an application filed March 25, 1930.
+Defendant interposed an answer denying that it has committed any act of infringement of said patent, and denying that said Tánger was the first, original, and solo inventor or discoverer, or any inventor or discoverer of defendant’s radiator inclosure as made subsequent to the grant of said patent, and avers that, in so far as the said patent purports to cover the defendant’s radiator inclosures made since the grant of said patent, said patent was obtained by fraud and is invalid.
+The defendant also by said! answer interposed a counterclaim for damages caused by unfair competition on the part of the plaintiff.
+This suit is based on elaims 2 to 6, both inclusive, of the patent in suit.
+The patent is for a radiator inelosure and embraces, so far as the elaims sued upon are concerned, three novel features. First, the radiator inelosure includes, in combination with the frame structure, a cover of relatively thin sheet metal, and having an underbody portion of thick cork insulating material, which insulates the cover from heat and at the same tune stiffens the same so that the cover may serve as a support for flower pots and the like ornamental articles. This feature is embraced in the combinations called for by claims 2, 4, and 6.
+The second feature is that the cover constructed as above described is so hinged at the rear of the frame, that a depending skirt or flange is provided, extending below the cover along, the rear thereof and over the back sheet of the frame, which flange serves to direct the hot air from the radiator inelosure toward the front thereof.
+This feature is claimed in combination in . claim 3 in the following language: “A sheet metal flange along the back edge of the cover extending down below the under surface of the cover and movably attached to the 'casing and adapted to direct hot air from a radiator in the inelosure toward the front of the inclosure.”
+The third feature is that at the front, the cover instead of overlapping the frame is spaced above the latter, leaving an air space wherethrough the heated air and the moisture evaporated from the water-pan suspended at the top of the frame is allowed to escape. In operation the rear depending flange deflects the heated air across the top of the water-pan, and the air sweeping across the pan carries the moisture out with it, in this way preventing the so-called “pocketing” or “trapping” of the hot air and moisture in the cover, a difficulty had with radiator inclosures as .constructed prior to the advent of the patented structure. This feature is claimed in combination in claim 5, which includes: “A relatively thick cover for said frame spaced above the front of the frame.”
+No further discussion of the features of novelty seems to be-necessary, because no attack is made on the validity of the elaims as to the .subject-matter thereof.
+The so-called defense of fraud, in the main answer, seems to. me to be misnamed. If it was pleaded in the sense that Tánger is alleged to have perpetrated a fraud upon the Patent Office, the defense would fail as a matter of law, because such attack must be made by the government. Western Glass Co. v. Schmertz Wire Glass Co. (C. C. A.) 185 F. 788, 791; United States v. American Bell Telephone Co., 128 U. S. 373, 9 S. Ct. 90, 32 L. Ed. 450.
+The full allegation as to- fraud contained in the main answer .reads as follows: “In answer to the Fifth, Sixth, Seventh, Eighth, and 'Ninth Sections of the Bill of Complaint, defendant denies that Samuel Tanger was the first, original and sole inventor or discoverer, or any inventor or discoverer of defendant’s radiator inclosures, as made subsequent to the grant of the aforesaid patent No. 1,807,-352, granted May 2.6, 1931, and avers that in so far as the said patent purports to cover this defendant’s radiator inclosures made since the grant of the said patent, the said patent was obtained by fraud, and is invalid.”
+In so far as that allegation attempts to tender an issue of fraud, it merely pleads a conclusion and not the ultimate facts from which such conclusion could be drawn.
+The defense developed on the trial was that the patent was invalid, and this was based upon the alleged fact that Tánger, the patentee, was not the original inventor.
+Evidence was offered by the defendant in support of that defense to show that the radiator inelosure of the patent in suit, except the cross brace 26, and the predetermined intentional spacing of the cover at the front called for by claim 5, there always being some spacing, as the cover never did fit tightly at the front, was designed by the defendant’s witnesses Staudt and Levy, at the request ’of Meyer Greenberg.
+Plaintiff waived any objection to the introduction of this evidence, and also the absence of notice, by failing to object before the final hearing. Roemer v. Simon, 95 U. S. 214, 220, 221, 24 L. Ed. 384.
+The patentee and president of the plaintiff, Samuel Tánger, was a tinsmith, at Lynbrook, Long Island, and had never had anything to do with radiator inelosures until, as he said, in the middle of August, 1929, a Mrs. Barnett for whom he did work, asked him to make a radiator inelosure for her, one she could keep her delicate plants on.
+Mrs. Barnett was not called as a witness.
+There is no documentary evidence offered by the plaintiff prior to January or February, 1930, when Tánger took up the question of securing a patent, with the patent attorney Workman.
+All that we have before that time so far as Tánger is concerned is his own testimony, and the oral testimony of; his workman, Knit, still in his employ, the oral testimony of the witness Hanuerforth, to whom there was no disclosure, and the presumption of validity which arises from the granting of the patent.
+On the part of defendant it appears that Meyer Greenberg', the manager of the defendant, was, prior to August, 1929; engaged in the glass business at Lynbrook, Long Island, and also engaged in selling on commission on Long Island, radiator inelosures manufactured hv the Ajax Radiator Enclosure Company, in which his brother-in-law was interested.
+That due to the falling off in the glass business at that time, Greenberg, with the knowledge and consent of his brother-in-law, determined to go into the business of manufacturing radiator covers, differing somewhat from those manufactured by the Ajax.
+As a first step he had Staudt, a registered architect, make a sketch or plan of an Ajax radiator.
+This is shown by the original drawing of Standt, dated August 20, 1929.
+I reject the opinion evidence of the witness Alexander, in so far as¡ he attempts to question the completion of said drawing on August 20, 1929, and find that it was made by Staudt and completed on that dn,y.
+The sketch or plan drawn by Staudt was then submitted to- the engineer, Levy, and he in duo time made his suggestions, which were submitted to Staudt, who completed the drawing on October 2, 1929, and transmitted it with a blueprint thereof to Greenberg.
+I am convinced by the oral testimony and a close examination of the drawing that it was completed on the day of its date, October 2, 1929'.
+There is a conflict in the testimony of Tánger and Greenberg as to which of them suggested the partnership and the reasons therefor, Tánger contending that he took Green-berg into partnership because he needed some one with money, which Greenberg' was to supply, and Greenberg contending that ho took Tánger into partnership because Tánger had the tools necessary for starting the business.
+The Greenberg' story seems to me to be the more probable one.
+Greenberg says he gave the blueprint to Tánger. This Tánger denied but the fact remains that the inelosures made followed the drawings of October 2,1929', made by Staudt, and I accept Greenberg’s story as true.
+In the latter part of November or the early part of December, 1929, while Tánger and’ Greenberg were partners, the inelosure was
+shown to the witnesses Cappueei, Elucker, and Klein, at the office of Cappueei and Elucker, by Tánger and Greenberg, and the use of cork for insulation and the appearance of the inelosure being favorably commented upon by those witnesses, Tánger in their presence and in the presence of Green-berg said the idea was Greenberg’s. While the witness Lindner did not testify that Tánger named the person, lie did testify that Tánger told him that he was going into the business of making radiator inelosures in partnership, and that he had a friend that made or had a good idea, and it was probably the best on the market, and that a short time after that Tánger introduced Greenberg to him as the future partner in the business.
+Differences arose between tbe partners, and the partnership was terminated and each of tbe partners continued to manufacture radiator inelosures.
+After the termination of the partnership without the knowledge of Greenberg', the said Tánger, on March 25, 1930, filed the application for the patent in suit in his own name.
+With the exceptions I have noted, the patent in suit discloses the radiator inelosure shown in the drawings made by Staudt, and the inelosures made during the partnership according to the blueprint of said drawings.
+I see no necessity for any long discussion of tbe authorities as to the character of the proof required to sustain this form of defense, as I find that the defendant has proved by clear and satisfactory proof, and beyond a reasonable doubt, that Tánger was not the first, original, and,solo inventor, but that, on the contrary, any invention there may he would rest primarily with Levy, and possibly with Staudt, and that is the highest character of proof required. Coffin v. Ogden, 18 Wall. (85 U. S.) 120, 125, 21 L. Ed. 821; Grupe Drier & Boiler Co. v. Geiger, Fiske & Koop (C. C. A.) 215 F. 110, 114.
+Tánger was not the first, original, or sole inventor, and the patent in suit is invalid.
+Before trial a motion was made on behalf of the plaintiff to strike out the counterclaim from the answer by the defendant, on the ground that it is not the form of counterclaim permitted under Equity Rule No. 30' (28 USCA § 723),- and also on the ground that the counterclaim does not state facts sufficient to constitute a cause of action. This motion was denied, and I would feel bound by that decision as the law of the ease, but for the fact that the order signed by the court on the denial of that motion provided, “that denial of this motion at this time shall he without prejudice to a renewal of this motion at the time of the trial.”
+There is no diversity of citizenship between the parties, as plaintiff and defendant are residents of the same state, and this court would not have jurisdiction of an independent action for unfair competition.
+I have not found the patent in suit to be invalid because of fraud on the part of Tánger, but because defendant has sustained the statutory defense that Tánger was not the first, original, and sole inventor.
+The counterclaim is based on the allegation of fraud on the part of Tánger in securing the patent, and had faith in relation to that aetio-n, and threats by the plaintiff to the customers of the defendant of suits for infringement if they purchased defendant’s radiator inelosures.
+The counterclaim does not arise out of the transaction which is the sub ject-matter of the suit, which is the alleged infringement of a patent. Frankart, Inc., v. Metal Lamp Corporation (D. C.) 32 F.(2d) 920; McCabe & Schoenholz, Inc., v. Frank J. Guigan, Inc., (D. C.) 36 F.(2d) 1000.
+There being no diversity of citizenship, the court is without jurisdiction of the counterclaim, which must be dismissed.
+The defendant is entitled to a decree against the plaintiff dismissing the bill of complaint on the merits, with costs, and the plaintiff to a dismissal of the counterclaim, but under all the conditions, especially with reference to the- commencement of this action and the failure to give notice to the defendant, the dismissal must he without costs.
+A decree may he entered in accordance with this opinion.
+Submit proposed findings of fact and conclusions of law in accordance with this opinion, for the assistance of the court, as provided by the rules of this, court.
+Settle decree on notice.
