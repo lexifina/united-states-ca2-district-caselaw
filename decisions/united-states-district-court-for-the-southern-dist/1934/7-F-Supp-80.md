@@ -1,0 +1,40 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1934-03-20"
+citations: ["7 F. Supp. 80"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE MOUNT HOPE. THE WAVERLY."]
+source_url: "https://static.case.law/f-supp/7/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7345896
+cites_cases: ["155 U. S. 252", "24 F.(2d) 653"]
+---
+
+# The Mount Hope
+
+## Majority (BYERS, District Judge.)
+
+BYERS, District Judge.
+These suits involve the same subject-matter. In the first, the East Thirty-fourth Street Vehicular Ferry Co., Ine., seeks to bold the steamtug Waverly for collision damages, and in the second the tug seeks to hold the ferry company’s ferryboat Mount Hope for the same reason.
+On July 14, 1930, at about 4:30, daylight saving time, the Mount Hope left her Manhattan berth, bound for her customary Long Island City slip; a light wind blew out of the north, and the last of the ebb-tide was running; her course was necessarily on an angle to the north as her destination lay in that direction, and she was breasting the tide; as the Mount Hope was not less than 500 feet off her slip, the tug Waverly was seen backing into the East River, from the Long Island Railroad float basin, which was adjacent to the north of the ferry slip.
+The tug had landed a earfloat at the bulkhead in the basin, outside of four floats which extended north of the southerly side of the basin, which is approximately 500 feet deep.
+The southerly side of the basin is or was the Yellow Pine dock, which also forms the northerly side of the ferry slip. That dock is about 25 feet across at the outshore end. On its northerly face outboard, the timbers of the piling had broken away, and contact therewith would have been likely to cause damage to any vessel.
+The basin has a width of about 650 feet, and off about the middle, and outside the pier ends, lay a drill boat held in position by cables running to anchors, from its four corners. The tug therefore had to maintain a diagonal course with her engines in reverse, so as to pass between the submerged portion of the nearest cable from the drill boat, and the Yellow Pine pier end, far enough away from the latter to avoid contact with the mutilated structure. The tug is 102 feet long and of 900 horsepower. Pier speed in going astern has not been stated, but it is clear that she is a large and powerful vessel of her class. Consequently her handling under the circumstances called for skill and close attention.
+It is found that she gave a long slip whistle just after casting loose from the float which had been landed as stated, and as soon as the signal had been given to put her engines in backward motion; that is, when she was not less than 400 feet from the position in which she would emerge from the north side of the Yellow Pine dock. Having in mind the proximity of the ferry slip and the likelihood of its being used (The Breakwater, 155 U. S. 252, 15 S. Ct. 99, 39 L. Ed. 139), this is thought not to have been well timed or sufficient.
+The testimony of the Master of the Mount Hope, that he did not hear the slip whistle, is accepted under these circumstances.
+The tug being observed as stated, the ferryboat blew a one-whistle signal, to which no response was given. The ferryboat was then making full speed ahead of about 8 miles per hour, but in two seconds slowed down to half speed, and blew another one-whistle blast, to which again there was no answer from the tug. Almost immediately, or when the ferryboat was about 350' to 400 feet off its slip, the ■ alarm was 'blown, the engines stopped and reversed, and again an alarm was blown. The Mount Hope did not lose her way until she was about 150 feet or less from the slip, and in the meantime the tug had continued on her course, until she was in front of the slip. Then she stopped her engines, and put them into full speed ahead, but too late to avoid the collision.
+The port quarter of the tug and the bow end of the Mount Hope, a little to port, were in contact, at between 100 and 150 feet off the mouth of the slip.
+At no time did the tug blow any signal to the ferryboat. The libel of the ferry company does not allege the failure of the tug to blow any whistle signal as a fault, nor could such be found in any case, since the tug was in plain view of the Mount Hope from the time the backing maneuver was under way. The failure, however, on the part of the'tug to respond to any signal from the ferryboat, is some evidence of lack of care ini conducting what is thought to have been a maneuver which called for the exercise of diligence, skill and close attention.
+The navigator of the tug was not the Master; he was acting as mate, although he was not being paid as a licensed man, but was a deckhand being paid, as he testified: “I got $5.00 more than the other deckhands per month.”
+The Captain (Schmidt) landed the ear-float, and then called Brower, the acting mate, to navigate the tug. The Captain remained in the pilot house, but was shaving while the tug made out of the float slip as described, and did not discontinue that operation at any time, including the interval between hearing the alarm blown by the ferryboat and the collision; he gave no orders to the mate, and his deposition creates the impression that he was preoccupied with personal matters and felt justified in assuming no responsibility for what was taking place, although he was in a position to see and hear.
+There was a lookout at the stem of the tug, who- did not see the ferryboat until she was close aboard, just prior to or at the time when she first blew the alarm. That seems to have been the first incident to make any impression upon any of these three men.
+The conclusion forced by the evidence is that those responsible for the navigation of the tug acted as though oblivious of the proximity of the ferry slip. The testimony does not disclose the speed of the tug in backing out, whether full or half speed astern; the engineer says: “We were backing fairly slow on account of the tide,” but that does not give definite information on the subject.
+The tug urges that this is a special circumstance case [The Soeony No. 19 (C. C. A.) 24 F.(2d) 653] because the tug was maneuvering to leave her slip, i. e., to get on her course. What her course was has not been made clearly to appear.
+The special circumstance of leaving her slip did not excuse the tug from maneuvering with due regard to dangers of navigation and collision, as the rule itself states.
+It is concluded that the tug was at fault for conducting her maneuver at too great a speed in reverse to insure control, and because there was a failure on her part to observe the approach of the Mount Hope to her slip, and to navigate safely under the circumstances shown.
+The. question of possible fault on the part of the ferryboat depends upon whether her delay of a few seconds in going into reverse, after the tug was first observed, may fairly be so construed. She is 170 feet long and her Master says that she can be stopped in two lengths, when under full speed, under the described conditions. The evidence indicates that she was about making sternway at the moment of impact, and, allowing for a margin in all statements of distances, this would tend to indicate that, at 100 to 150 feet off the slip, the Mount Hope had brought herself under control to avoid contact. . Under the circumstances, this seems to be all that was required of her; the tug’s beam is not stated, but, assuming it to have been 16' feet, she had a margin, if properly navigated, within which to- avoid both the Yellow Pine dock on her starboard, and the Mount Hope, on her port hand.
+Decree for libelant in the first cause, and for the claimant in the second, with one bill of costs.
+Settle decrees on notice.
+If findings are desired, they may be settled at the same time, and are to embody appropriate recitals as to ownership and incorporation.
