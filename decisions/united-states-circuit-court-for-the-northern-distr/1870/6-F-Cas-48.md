@@ -1,0 +1,25 @@
+---
+court: "United States Circuit Court for the Northern District of New York"
+decided: "1870-03"
+citations: ["6 F. Cas. 48", "2 N. B. R. 671", "7 Blatchf. 192"]
+reporter: "f-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re COLEMAN."]
+source_url: "https://static.case.law/f-cas/6/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6097660
+cites_cases: ["14 Stat. 520", "4 Fed. 10"]
+---
+
+# In re Coleman
+
+## Majority (WOODRUFF, Circuit Judge.)
+
+WOODRUFF, Circuit Judge.
+This proceeding is brought before the court by a notice of motion made on behalf of the as-signee of the property of a bankrupt, to dismiss an alleged or attempted appeal by John Blain from the decision of the distinct court rejecting his claim to share in the estate as a creditor of the bankrupt. At the close of the argument of the motion, papers supposed to present the appeal upon its merits were submitted, and a decision of the appeal was requested in the event of a denial of tue motion.
+The eighth section of the bankrupt law of March 2, 1867 (14 Stat. 520), provides, that any supposed creditor whose claim is wholly or in part rejected, “may appeal from the decision of the district court to the circuit court from the sainé district,” but that no appeal shall be allowed unless it is claimed, and notice given thereof to the clerk of the district court, to be entered with the record of the proceedings, and also to the assignee, within ten days after tlie entry of the decree or decision appealed from; and that the appeal shall be entered at the term of the circuit court which shall be first held within and for the district, next after the expiration of ten .days from the time of claiming the same. The tenth section provides, that the jus'tices of the supreme court shall frame general orders for regulating the practice and procedure upon appeals.
+Rule 26 of the general orders framed and promulgated by the justices of the supreme court provides, that “any supposed creditor who takes an appeal to the circuit court from tlie decision of the district court rejecting his claim in whole or in part, according to the provisions of the eighth section of the act, shall give notice of his intention to enter the appeal within ten days from the entry of the final decision of the district court upon his claim; and he shall file his appeal in the clerk’s office of the circuit court, within ten days thereafter, setting forth a statement in writing of his claim, in the manner prescribed by said section; and the assignee shall plead or answer thereto, in like manner, within ten days after the statement shall be filed. Every issue thereon shall be made up in the court, and the cause placed upon the docket thereof, and shall be heard and decided in the same manner as other actions at law.”
+Upon all the papers submitted, it appears that the appellant has entirely disregarded rule 26 of the general orders. Assuming that he claimed an appeal and gave notice thereof to the clerk of the district court, to be entered with the record of the proceedings, within ten days after the entry of the decision, and that service of notice on the as-signee and the actual receipt of such notice are sufficiently established, the allegation that he did not file his appeal in the clerk’s office within ten days thereafter, as the general order directs, is neither denied nor attempted to be explained or excused. Nor do any of the papers show that he then or at any time thereafter set forth a statement in writing of his claim, to which the assignee could plead or answer, and thereby form an issue to be tried, as the general order directs.
+In this condition of default in not complying with the general order, the appellant lias failed to show, by way of resistance to the motion, that he entered his appeal at the term of the circuit court first held after the expiration of ten days from the time of claiming the same, as the act peremptorily requires, or that he has ever! entered such appeal. If tlie general orders made by the supreme court are so absolutely binding upon this court that it cannot excuse or relieve a party from his default in not conforming thereto, then it cannot refuse to dismiss the appeal. If the court has any discretion to allow such excuse or give such relief, then the appellant should, at least, have shown a compliance with the express mandate of the act of congress, obedience to which has been held essential to give this court jurisdiction to hear an appeal under the section (section S) giving the right of appeal. Bump, Bankr. p. 35, note to section 8. Indeed, the papers now before me do not show that this court has any Jurisdiction to hear the alleged appeal; and it is certain that the case is not presented in the form which the general orders of the supreme court contemplate.
+The assignee should, therefore, be-permitted to enter an order dismissing the attempted appeal, so that the district court may not be embarrassed by the seeming pendency of an appeal, which the notice served upon its clerk indicates.
