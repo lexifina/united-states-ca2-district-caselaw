@@ -1,0 +1,35 @@
+---
+court: "United States District Court for the Southern District of New York"
+docket: "69 Civ. 185"
+decided: "1969-08-19"
+citations: ["304 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lawrence E. GOULD, Plaintiff, v. CONTINENTAL COFFEE COMPANY, a corporation, Defendant."]
+source_url: "https://static.case.law/f-supp/304/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5817950
+cites_cases: ["236 F.2d 170", "284 F.Supp. 702", "380 F.2d 351", "385 F.2d 171", "75 F.Supp. 137"]
+---
+
+# Gould v. Continental Coffee Co.
+
+## Majority (TENNEY, District Judge.)
+
+MEMORANDUM
+TENNEY, District Judge.
+Defendant Continental Coffee Corporation moves pursuant to Fed.R.Civ.P. 12(b) (6) for an order dismissing plaintiff’s complaint for failure to state a claim upon which relief can be granted.
+Plaintiff had been employed by defendant corporation for approximately 11% years. Throughout this period, he had participated in defendant’s profit-sharing trust plan (hereinafter referred to as “the Plan”), accumulating over $11,000 in his behalf. In January 1966, he resigned in order to accept employment with defendant’s competitor.
+Defendant’s Plan qualified under § 401 of the Internal Revenue Code, 26 U. S.C. § 401, and was administered by a Board of Trustees, which consisted of four individual trustees and one corporate trustee. It is undisputed that the trustees served at the pleasure of the defendant and that the individual trustees were the principal officers and/or directors of the defendant corporation. Plaintiff having accepted employment with a competing corporation within four months after leaving defendant’s employ, the individual trustees, pursuant to the terms of the Plan, declared a forfeiture of his accrued benefits under the trust fund. Plaintiff was not furnished with a copy of the plan, nor was he given notice as to when and where a copy could be examined. Defendant did, however, furnish plaintiff with a booklet which purported to summarize the Plan’s significant provisions.
+Plaintiff asserts that: 1) there was no basis for the trustees’ declaration of forfeiture; 2) such declaration was inconsistent with both the terms of the Plan and Section 401 of the Internal Revenue Code; and 3) defendant is bound by the terms of the Plan as summarized in the booklet furnished him by defendant.
+Defendant, in support of its motion to dismiss, contends that it is not the proper party defendant herein. Defendant argues that plaintiff’s claim should be made against the individual trustees who administer the Plan. Further, defendant asserts that it is bound by the terms of the Plan as opposed to the summary thereof contained in the booklet provided plaintiff.
+A complaint is entitled to be liberally construed when attacked by a motion to dismiss under Fed.R.Civ.P. 12(b), Bound Brook Water Co. v. Jaffe, 284 F.Supp. 702, 708-709 (D.N.J.1968). A complaint need only state grounds upon which relief can be granted. There is no requirement that a cause of action be stated or that the complaint allege detailed facts to support the claim therein. Austin v. House of Vision, Inc., 385 F.2d 171, 172 (7th Cir.1967); Michael v. Clark Equip. Co., 380 F.2d 351, 352 (2d Cir.1967).
+In a case factually similar to the instant suit, the Court of Appeals for the Fifth Circuit found a corporation to be the proper party defendant when it had absolute control over the trustees administering the fund. Ball v. Victor Adding Mach. Co., 236 F.2d 170, 171 (5th Cir.1956). A contrary finding could render a corporation’s decision to forfeit an employee’s interest in a trust fund non-reviewable — the employer corporation being able to change the trustees and the jurisdiction from which it selects them. In addition, as the Court stated in Ball, supra at 174:
+“When the Plan, under its terms, is to be effectually administered by a Committee of employees designated and appointed alone by the Employer and subject to its absolute removal and replacement, it does no violence to the Plan and its purpose to require that the Employer having this wide power over such appointees make them available as parties over whom the Court can then exercise traditional power to adjudicate the merits.”
+In the instant case, the trustees are both defendant’s agents and its principal officers and/or directors. Thus, despite the practical identity of interest which exists between the corporation and its trustees, defendant argues that there is a legal distinction between the trustees who declared plaintiff’s forfeiture and the corporation which seeks to disavow any responsibility therefor. Such distinction is at best a legal fiction and cannot be recognized by this Court. It therefore follows that plaintiff’s claim for compensation herein is properly maintainable against this defendant.
+It is equally clear that defendant is bound by the terms of the Plan as embodied in the booklet it provided plaintiff. Although defendant is permitted to furnish its employees with a summary of its Plan, Rev.Rul. 61-157, 1961-62 Cum.Bull. 67, such summary should not be misleading. Any discrepancy which exists between the Plan and its summary must be construed against its draftsman and in favor of plaintiff employee. See United States v. Braunstein, 75 F.Supp. 137, 140 (S.D.N.Y.1947).
+The Plan provides for a forfeiture of benefits when an employee goes to work for a competitor within four months after leaving defendant’s employ. The summary, however, predicates such forfeiture upon the employee’s commission of an act detrimental to the employer’s interest. As an example of such a detrimental act, the summary cautions employees against engaging in direct competition with the company. Clearly, there is a fundamental difference between a situation wherein an employee leaves a company and accepts work of a similar nature with a competitor, and a situation wherein an employee leaves a company and subsequently engages in direct competition with that company. It cannot be said that accepting employment with a former employer’s competitor will, per se, constitute direct competition with that employer; and defendant has not established that such action by plaintiff was in any way detrimental to its best interests. Additionally, defendant’s failure, in its booklet, to designate a time and place on its premises for its employees to inspect the Plan, as required by Rev.Rul. 61-157, 1961-2 Cum. Bull. 67, 74, should relieve plaintiff from the provisions thereof. The obvious intent of this Ruling is to protect the rights of beneficiaries of the Plan, and it would be subversive to this purpose if plaintiff were bound thereby despite defendant’s failure to comply with the required notice provisions.
+Despite the introduction of matter outside the pleadings, defendant’s motion cannot be treated as one for summary judgment; material issues of fact exist which must be resolved.
+Accordingly, and for the foregoing reasons, defendant’s motion is in all respects denied.
+So ordered.
