@@ -1,0 +1,33 @@
+---
+court: "United States District Court for the Western District of New York"
+decided: "1943-02-05"
+citations: ["49 F. Supp. 37"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re BOCCHIARO."]
+source_url: "https://static.case.law/f-supp/49/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4199270
+cites_cases: ["13 F.2d 954", "160 Misc. 200", "188 F. 685", "231 U.S. 9", "289 N.Y.S. 869", "47 F.Supp. 765"]
+---
+
+# In re Bocchiaro
+
+## Majority (KNIGHT, District Judge,)
+
+KNIGHT, District Judge,
+The petition for naturalization herein was filed October 11, 1939. It recites that petitioner lawfully entered the United States for permanent residence July 12, 1913, and among other things, that on March- 22, 1922, he was convicted of the crime of assault, 1st degree; on June 4, 1937, of the crime of assault, 3d degree; and on August 5, 1937, for a traffic violation. One of such convictions as seen was had more than five years before the date of the filing of said petition and more than five years had then expired since the sentence imposed on the felony conviction was served. Small fines were imposed on the other convictions. Two -witnesses have made the usual statement as to character et cetera. Petitioner has never been pardoned on the felony charge, and the question presented is whether lacking such pardon he is ineligible for naturalization or, stated otherwise, whether it shows lack of good moral character. It is not necessary to consider the subsequent offenses heretofore described.
+Under the laws of New York all civil rights are not lost upon conviction of a felony, but, among others, the right to exercise suffrage is lost, and this can only be restored by pardon.
+The right of suffrage is determined by the laws of the residence of the citizen. There is no statute that requires that a pardon must precede the issuance of a certificate of naturalization. Disability resulting from conviction of a felony is not removed through naturalization. Hamilton v. People, 57 Barb., N.Y., 625, 626; and Opinion of Attorney General, March 25, 1904. Since the crime charged here was not an offense against the United States, the President has not the power of pardon (Sec. 2, Art. II of the U. S. Constitution), and it lies only in the state. “Practically all citizenship rights, as ordinarily understood, lost by persons undergoing sentence in the federal courts, are such as are lost indirectly by operation of the constitutions and laws of the several states and not by operation of the laws of the United States.” Circular No. 3055 issued to U. S. Probation Officers, dated Dec. 9, 1937.
+In the Matter of Capozzi, 1936, 160 Misc. 200, 289 N.Y.S. 869, 874, a petition for naturalization was filed more than five years after completion of the sentence on a conviction for extortion and no pardon had been granted.
+Among other things, Judge Dowling, writing the opinion, said: “It is in exceptional cases only that persons who have been convicted of a felony should be admitted to citizenship. Such persons should never be granted citizenship papers unless they have procured in advance full and unconditional pardons. As a condition of entertaining the petitions of such persons, the court should require them to produce unconditional pardons. * * * ”
+The opinion of Judge James, Supreme Court, New • York, decided February 18, 1938, and not reported, holds contrary to the view above expressed in the Capozzi case; but he says that the language above quoted was dicta.
+A certain amount of discretion lies in the court to determine whether good moral character has been proved. Such ■is, however, a judicial discretion. There are cases in which courts have declined naturalization where the crime was committed and the sentence served prior to the commencement of the five year period irrespective of the question of any pardon. In re Ross, C. C., 188 F. 685; In re Caroni, D.C., 13 F.2d 954; In re Spenser, 22 Fed.Cas., p. 921, No. 13,234. Indeed, these decisions have been based on varying grounds, but each is relevant as bearing on the extent of judicial discretion. The cases, however, particularly stress the nature of the crime in that connection.
+It seems to me that the court can go further than these and other cases have gone and hold that in its discretion the court can deny a certificate where no pardon has been obtained, though the full term of the sentence had expired more than five years before the filing of the petition for naturalization. ..
+The exercise of the right of suffrage is not compulsory. It is, however, a duty. Ours is a government by the people, and its functions as such can not be properly carried on without the exercise of this duty. It seems anomolous to confer citizenship where the one upon whom it is conferred can not perform the full duties of citizenship. We are speaking of one in New York State. Petitioner has applied here. It is no sufficient answer to say that he possibly may remove to another state where he can exercise the right of suffrage.
+The language of the Supreme Court in Luria v. United States, 231 U.S. 9, 22, 34 S.Ct. 10, 13, 58 L.Ed. 101, is pertinent. “Citizenship is membership in a political society, and implies a duty of allegiance on the part of the member and a duty of protection on the part of the society. These are reciprocal obligations, one being a compensation for the other. Under our Constitution, a naturalized citizen stands on an equal footing with the native citizen in all respects, save that of eligibility to the Presidency.”
+After stating the requirements for admission to citizenship, the court said:
+“These requirements plainly contemplated that the applicant, if admitted, should be a citizen in fact as well as in name, — that he should assume and bear the obligations and duties of that status as well as enjoy its rights and privileges. In other words, it was contemplated that his admission should be mutually beneficial to the government and himself, the proof in respect of his established residence, moral character, and attachment to the principles of the Constitution being exacted because of what they promised for the future, rather than for what they told of the'past.
+“By the clearest implication those laws show that it was not intended that naturalization could be secured thereunder by an alien whose purpose was to escape the duties of his native allegiance without taking upon himself those of citizenship here, * * Vide: United States v. Bergmann, D.C., 47 F.Supp. 765.
+The application is denied.
