@@ -1,0 +1,37 @@
+---
+court: "United States District Court for the Southern District of New York"
+decided: "1950-04-18"
+citations: ["91 F. Supp. 49"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MERRIMAC HAT CORPORATION v. CROWN OVERALL MFG. CO. et al."]
+source_url: "https://static.case.law/f-supp/91/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 294230
+cites_cases: ["15 U.S.C.A. §§ 1-7", "153 F.2d 662", "166 F.2d 690", "196 Misc. 715", "305 U.S. 643", "59 S.Ct. 146", "81 F.Supp. 917", "83 L.Ed. 415", "84 F.Supp. 1008", "85 F.Supp. 586", "92 N.Y.S.2d 902", "97 F.2d 232"]
+---
+
+# Merrimac Hat Corp. v. Crown Overall Mfg. Co.
+
+## Majority (S. H. KAUFMAN, District Judge.)
+
+S. H. KAUFMAN, District Judge.
+Defendant Crown Overall Manufacturing Co. moves to dismiss the amended complaint on the grounds that it fails to state a claim upon which relief can be granted and that the court lacks jurisdiction of the subject matter or, in the exercise of its discretion, should not entertain it.
+The amended complaint purports to set forth three causes of action. The first alleges that plaintiff has been manufacturing hats and hat.bodies since 1856 and, in connection therewith, has used certain trademarks, which consist in part of the word “excello” and the representation of a crown; that defendants are the owners of certain trade-mark registrations which allegedly cover the words “crown” -and “ex-cello” and the representation of a crown; that “Defendants are claiming and alleging likelihood of confusion with others including plaintiff using said words or terms and are further threatening and filing suit against those employing such words and expressions as exemplified by” plaintiff’s marks; that in 1946 plaintiff, for the further protection of its trade-marks, filed in the United States Patent Office applications which were allowed and published in the Official Gazette in 1948; that thereafter defendants filed oppositions to said applications, claiming to have exclusive rights in the words “crown” and “excello” and the representation of a crown as applied to all clothing, and that the “use or registration by Plaintiff of said words or representations would be likely to produce confusion and mistake in the minds of the public and to deceive purchasers”; that “there is inherent in Defendants’ allegations in said oppositions a threat of in-fringment and of suit for infringment and injunction”; that the allegations in the notices of opposition have cast a cloud upon plaintiff’s title to its trade-marks and its right to use said trade-marks independently and apart from its right to register said trade-marks.
+The prayer for relief asks for judgment (a) quieting plaintiff’s common law right, title and interest in and to its marks, (b) declaring plaintiff has the right to enjoy quiet possession of its marks and (c) enjoining defendant from interfering with its mark or threatening plaintiff with suit for infringement.
+In the second cause of action plaintiff asks for a judgment invalidating and can-celling defendants’ registrations and declaring that plaintiff’s marks do not infringe any common law or registered trademarks of defendants.
+It is apparent that, in addition to the injunctive relief heretofore referred to, plaintiff is seeking a declaratory judgment to the effect that it has a valid common law right to use its marks and that defendants’ registrations are void. No claim for unfair competition is set forth in the complaint. Since diversity of citizenship has been alleged, the only question that remains in determining the jurisdiction of the court is whether or not a justiciable controversy exists between the parties.
+It is unnecessary on this motion to determine whether or not the issues framed in the opposition proceeding before the Patent Office are sufficient to establish such a controversy . Plaintiff has alleged in its complaint that “Defendants are claiming and alleging likelihood of confusion with others including plaintiff using said words or terms and are further threatening and filing suit against those employing such words and expressions as exemplified by” plaintiff’s marks. This allegation must be accepted as true on this motion to dismiss. The mere threat of suit against plaintiff is sufficient to warrant a finding that a justiciable controversy exists.
+The motion to dismiss the first two causes of action for lack of jurisdiction and for failure to state a claim upon which relief can be granted must be denied on the present record.
+Defendant contends, however, that because of the pending opposition proceeding in the Patent Office, this court should decline to entertain jurisdiction of this suit. This portion of the motion is addressed to the sound discretion of the court. Since the Opposition proceeding will determine only the question of registration, and will not adjudicate the questions as to plaintiff’s common law right to use its marks, or, as far as appears on this record, the validity of defendant’s registrations, the relief which may be granted in the Patent Office proceeding cannot be an adequate substitute for the relief plaintiff seeks here. The motion to decline jurisdiction is therefore denied.
+The third cause of action is alleged to arise under the Sherman and Clayton Acts, 15 U.S.C.A. §§ 1-7, 15 note, 12 et seq., and prays for judgment “declaring that defendants have jointly and severally built up a monopoly contrary to law in intrastate and interstate commerce in common and descriptive terms and phrases in the clothing field in violation of the Clayton and Sherman Acts, causing injury and damage to Plaintiff, and restraining further continuance of said monopoly.” The asserted violation of the Acts is based solely upon defendants’ registration of their marks and their claim of exclusive right thereto. No specific injuries are alleged.
+These acts do not tend unlawfully to destroy competition or to create a monopoly and do not constitute violations of the Sherman Act. Specific overt acts must be pleaded as well as some specific injury to plaintiff’s property.
+The motion to strike the third cause of action for failure to state a claim is. granted. In all other- respects defendant’s motion is denied.
+Plaintiff’s motion for judgment for defendant’s alleged failure to answer is denied.
+Settle order on notice.
+. That they are see Merrick v. Sharp & Dohme, D.C., 84 F.Supp. 1008; but cf. Tuthill v. Wilsey, D.C., 85 F.Supp. 586, 589.
+. See Wells v. Universal Pictures Co., 2 Cir., 166 F.2d 690, 692.
+. See Swarthmore Glassies v. Swarthmore Junior, D.C., 81 F.Supp. 917; Crown Beverage Corporation v. Nehi Corporation, 196 Misc. 715, 92 N.Y.S.2d 902.
+. John Morrell & Co. v. Doyle, 7 Cir., 97 F.2d 232, certiorari denied 305 U.S. 643, 59 S.Ct. 146, 83 L.Ed. 415; cf. Mishaw-aka Rubber & Woolen Mfg. Co. v. Panther-Panco Rub. Co., 1 Cir., 153 F.2d 662, 665; see Derenberg, Trade-Mark Protection and Unfair Competition (1936), pp. 689-699.
+. While it may well be that this suit should be stayed until the opposition proceeding is completed and an appeal taken therefrom to this court pursuant to § 1071, tit. 15 U.S.C.A. and § 63, tit. 35 U.S.C.A., so that plaintiff’s right to registration may also be passed on in this proceeding, that question has not been briefed nor is it presented for determination on this motion.
