@@ -1,0 +1,41 @@
+---
+court: "United States District Court for the Southern District of New York"
+docket: "76 Civ. 2555 (VLB)"
+decided: "1978-06-20"
+citations: ["454 F. Supp. 6"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dorothy ELFENBEIN, Plaintiff, v. GULF & WESTERN INDUSTRIES, INC., et al., Defendants."]
+source_url: "https://static.case.law/f-supp/454/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4023308
+cites_cases: ["15 U.S.C. § 15", "15 U.S.C. § 4", "15 U.S.C. § 9", "228 F.2d 85", "38 L.Ed.2d 107", "414 U.S. 857", "479 F.2d 257", "59 F.R.D. 95", "62 F.R.D. 681", "68 F.R.D. 506", "71 F. 810", "94 S.Ct. 161"]
+---
+
+# Elfenbein v. Gulf & Western Industries, Inc.
+
+## Majority (VINCENT L. BRODERICK, District Judge.)
+
+MEMORANDUM ORDER
+VINCENT L. BRODERICK, District Judge.
+Plaintiff, a shareholder of Bulova Watch Co., Inc. (“Bulova”), filed this derivative action on behalf of Bulova alleging violations by defendants Gulf & Western Industries, Inc. (“Gulf”) and Stelux Manufacturing Co. (“Stelux”) of the Sherman Antitrust Act, the Gorman-Wilson Tariff Act, the Clayton Act, Title 15, U.S. Code, and common law fiduciary duties owed to Bulova. Jurisdiction of this court is premised upon Section 4 of the Sherman Antitrust Act, 15 U.S.C. § 4; Section 2 of the Gorman-Wilson Tariff Act, 15 U.S.C. § 9, and Section 4 of the Clayton Act, 15 U.S.C. § 15, and the principles of pendent jurisdiction.
+Defendants Gulf and Stelux have filed motions to dismiss the amended complaint pursuant to Rule 12(b), F.R.Civ.P. on the grounds that 1) the amended complaint fails to set forth sufficient facts to excuse plaintiff’s failure to make a demand for the commencement of this action on Bulova’s board of directors; and 2) the amended complaint fails to state a claim upon which relief can be granted.
+For the reasons hereafter stated, defendants’ motions to dismiss the amended complaint for failure to make a demand upon the board of directors of Bulova are granted, and the amended complaint is dismissed without prejudice to its renewal.
+The amended complaint alleges the following:
+Bulova is a New York corporation having its principal place of business at 630 Fifth Avenue, New York, New York. Its common stock is, and has been at all relevant times, listed and traded on the New York Stock Exchange. Bulova manufactures and sells watches' both in the United States and abroad.
+Defendant Gulf, a Delaware corporation, has its principal place of business at One Gulf & Western Plaza, New York, New York.
+As of June 3, 1975, Gulf owned 750,000 Bulova shares, representing 20 percent of the total of 3,750,046 Bulova shares outstanding. In January and February 1976, Gulf purchased an additional 256,000 Bulova shares at an average price of approximately $7 per share. At that stage Gulf owned 1,006,100 (sic) Bulova shares, or approximately 27% of the total outstanding, making Gulf Bulova’s largest shareholder by far.
+Defendant Stelux has its principal office in Hong Kong. It is a manufacturer and distributor of watches and watch components. On or about May 28, 1976, Gulf sold its 1,006,100 shares of Bulova to Stelux at a price of $14 per share. Since the market price of the Bulova stock was $7 per share at that time, Gulf realized a premium of $7 per share, or a total premium of slightly more than $7 million on the transaction.
+Prior to May 1976, Bulova and Stelux were competitors in the world market and potential competitors in the American market. Plaintiff contends that Stelux, by purchasing a controlling interest in Bulova, will be able to enter the American watch market for the first time, in opposition to Bulova; Stelux will be able to control Bulova’s watch business both inside and outside of the United States, to Stelux’s benefit but Bulova’s detriment; and Stelux will be able to sell watch components to Bulova to the exclusion of all other potential sellers. In fact, immediately after Stelux purchased the shares of Bulova, it installed its own man, Mr. C. P. Wong, as Bulova’s chief executive officer and chairman of Bulova’s executive committee, and Bulova purchased from Stelux approximately $4.5 million worth of components.
+Rule 23.1, F.R.Civ.P., sets forth certain requirements for commencement of a derivative action by shareholders. The prerequisite at issue here is one which requires that “the complaint . . . allege with particularity the efforts, if any, made by the plaintiff to obtain the action he desires from the directors . . . and the reasons for his failure to obtain the action or for not making the effort.”
+In the case before me, plaintiff did not make any effort to obtain action from the Bulova directors. He alleges that any demand would have been futile, because the alleged wrongdoers, Gulf and Stelux, have controlled and dominated Bulova and its board of directors at all relevant times through their ownership of 27 percent of Bulova’s outstanding shares; a majority of Bulova’s directors are (and have been at all relevant times) Bulova’s employees or consultants who could not act against the interest of those who control Bulova; and the wrongs alleged herein are in any event in violation of law and cannot be ratified or approved by Bulova’s directors.
+The determination of whether a demand was properly made, or is excused if not made, lies within the discretion of the court. Papilsky v. Berndt, 59 F.R.D. 95, 96-97 (S.D.N.Y.1973) and cases cited therein. Demand is not required where it would clearly be futile because “. . . the directors and controlling shareholders are antagonistic, adversely interested, or involved in the transaction attacked . . . .” Cathedral Estates, Inc. v. Taft Realty Corporation, 228 F.2d 85, 88 (2d Cir. 1955).
+There is no contention by plaintiff that the directors were involved in the sale of Bulova shares by Gulf to Stelux, which is the transaction attacked in this action. It is by no means inevitable that the directors of Bulova will decline to- bring a suit against Gulf and Stelux. They are employees of Bulova, not of Stelux, and one should not assume that they will refuse to act for Bulova because that action is antagonistic to Stelux. I note that while Stelux, as a result of the transaction complained of, has 27 percent of Bulova’s stock, it does not own a majority.
+The test as to whether a lack of demand is excusable in a Rule 23.1 context has been articulated in practical terms: demand is excused where “[ejvery sensible man, out of a court of justice, knows (that a demand under the circumstances) would never be complied with.” 3B Moore’s Federal Practice ¶ 23.1.19 at p. 23.1.89-90 (2d ed. 1969) quoting Young v. Alhambra Min. Co., 71 F. 810, 812 (N.D.Ill.1895). This is not so in the case before me. Plaintiff must afford the directors the opportunity to bring this action.
+SO ORDERED.
+. The original complaint also alleged a claim under Section 16(b) of the Securities Exchange Act of 1934, 15 U.S.C. Section 78p(b), based upon purchase and sale of Gulf & Western stock within six months. This claim became moot when Gulf & Western paid the short-swing profit of approximately $1,800,000 over to Bulova. The amended complaint omits the Section 16(b) claim and drops the individual defendants.
+. Defendant Bulova, pursuant to stipulations entered into with plaintiff, has not yet answered the complaint or otherwise moved in this action.
+. Because the motions to dismiss are granted on this ground, I do not reach the other grounds for dismissal urged by defendants.
+. As to plaintiffs contention that the wrongs alleged herein cannot be ratified or approved by Bulova’s directors, Rule 23.1 does not require or anticipate ratification or approval. Rather, it requires plaintiff to afford the directors an opportunity to control the litigation on behalf of the corporation.
+. By stipulation and order the directors of Bulova are considered defendants for the purposes of this motion. This does not change the result. See In re Kauffman Mutual Fund Actions, 479 F.2d 257 (1st Cir.), cert. denied, 414 U.S. 857, 94 S.Ct. 161, 38 L.Ed.2d 107 (1973); Brooks v. American Export Industries, Inc., 68 F.R.D. 506 (S.D.N.Y.1975); Phillips v. Bradford, 62 F.R.D. 681 (S.D.N.Y. 1974).
