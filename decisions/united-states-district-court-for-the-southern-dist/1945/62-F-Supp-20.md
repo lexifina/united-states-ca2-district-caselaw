@@ -1,7 +1,7 @@
 ---
 court: "United States District Court for the Southern District of New York"
 decided: "1945-07-06"
-citations: ["62 F. Supp. 20", "62 F. Supp. 15"]
+citations: ["62 F. Supp. 20"]
 reporter: "f-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["BOWLES, Price Administrator, v. AMERICAN DISTILLING CO., Inc., et al.
 source_url: "https://static.case.law/f-supp/62/cases/0020-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 634820
-cites_cases: ["1 Stat. 79", "105 S.W. 548", "119 U.S. 199", "120 A. 141", "15 U.S.C.A. § 15", "15 U.S.C.A. § 22", "152 F. 290", "164 N. E. 907", "164 N.E. 907", "165 N.Y.S. 972", "17 U.S.C.A. § 35", "178 App.Div. 690", "190 U.S. 406", "190 U.S. 411", "23 F. 71", "23 S.Ct. 730", "237 U.S. 189", "239 U.S. 199", "246 U.S. 79", "250 N.Y. 203", "26 F.Supp. 160", "261 U.S. 174", "273 U.S. 359", "275 F. 902", "276 Pa. 313", "28 U.S.C.A. § 112", "28 U.S.C.A. § 41", "3 F.2d 822", "30 F.2d 835", "31 U.S.C.A. § 232", "35 Stat. 1084", "38 S.Ct. 233", "38 Stat. 731", "39 F.2d 473", "43 F.2d 969", "45 F.Supp. 340", "47 S.Ct. 403", "47 Tex.Civ.App. 406", "48 App.Div. 391", "62 F.Supp. 13", "62 F.Supp. 15", "62 F.Supp. 20", "76 F.2d 939"]
+cites_cases: ["105 S.W. 548", "119 U.S. 199", "120 A. 141", "165 N.Y.S. 972", "178 App.Div. 690", "23 F. 71", "239 U.S. 199", "26 F.Supp. 160", "276 Pa. 313", "28 U.S.C.A. § 41", "3 F.2d 822", "30 F.2d 835", "31 U.S.C.A. § 232", "39 F.2d 473", "43 F.2d 969", "47 Tex.Civ.App. 406", "48 App.Div. 391", "62 F.Supp. 15", "76 F.2d 939"]
 ---
 
 # Bowles v. American Distilling Co.
