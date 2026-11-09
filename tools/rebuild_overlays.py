@@ -175,6 +175,17 @@ def main():
     a = ap.parse_args()
     repo = Path(a.repo)
     t0 = time.time()
+    import shutil
+    if shutil.disk_usage(str(repo.resolve().anchor)).free < 42 * 2**30:  # the machine's floor is 40 GB: stop short of it
+        raise SystemExit(f'{repo.name}: under 42 GB free on the disk; not rebuilt')
+    if a.commit or a.push:  # one rebuild of a repo at a time (side-by-side workers)
+        lock = repo / '.git' / 'overlay-rebuild.lock'
+        try:
+            lock.mkdir()
+        except FileExistsError:
+            raise SystemExit(f'{repo.name}: another rebuild holds {lock}; left to it')
+        import atexit
+        atexit.register(lambda: lock.rmdir() if lock.exists() else None)
     if a.commit or a.push:  # start from origin's main: fast-forward to it, never past or around it
         git(repo, 'fetch', '-q', 'origin', 'main')
         local, remote = git(repo, 'rev-parse', 'refs/heads/main').strip(), git(repo, 'rev-parse', 'origin/main').strip()
@@ -244,7 +255,9 @@ def main():
         if a.push:
             git(repo, 'fetch', '-q', 'origin', 'main')
             if git(repo, 'rev-parse', 'origin/main').strip() != st['head']:
-                raise SystemExit(f'{name}: origin/main moved since {st["head"][:10]}; the commit is local only, rebuild on the new head')
+                # leave main where origin has it, not on a commit beside it (another agent works in this clone too)
+                git(repo, 'update-ref', 'refs/heads/main', git(repo, 'rev-parse', 'origin/main').strip(), st['new_head'], check=False)
+                raise SystemExit(f'{name}: origin/main moved since {st["head"][:10]}; nothing pushed, rebuild on the new head')
             for i in range(5):
                 pr = subprocess.run(['git', '-C', str(repo), '-c', 'http.postBuffer=1048576000', 'push', '-q', 'origin', 'main'], capture_output=True)
                 if not pr.returncode:
